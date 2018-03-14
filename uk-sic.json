@@ -1,0 +1,2927 @@
+{
+	"SICCodes": [{
+			"SICCode": "1110",
+			"SICDescription": "Growing of cereals (except rice), leguminous crops and oil seeds"
+		},
+		{
+			"SICCode": "1120",
+			"SICDescription": "Growing of rice"
+		},
+		{
+			"SICCode": "1130",
+			"SICDescription": "Growing of vegetables and melons, roots and tubers"
+		},
+		{
+			"SICCode": "1140",
+			"SICDescription": "Growing of sugar cane"
+		},
+		{
+			"SICCode": "1150",
+			"SICDescription": "Growing of tobacco"
+		},
+		{
+			"SICCode": "1160",
+			"SICDescription": "Growing of fibre crops"
+		},
+		{
+			"SICCode": "1190",
+			"SICDescription": "Growing of other non-perennial crops"
+		},
+		{
+			"SICCode": "1210",
+			"SICDescription": "Growing of grapes"
+		},
+		{
+			"SICCode": "1220",
+			"SICDescription": "Growing of tropical and subtropical fruits"
+		},
+		{
+			"SICCode": "1230",
+			"SICDescription": "Growing of citrus fruits"
+		},
+		{
+			"SICCode": "1240",
+			"SICDescription": "Growing of pome fruits and stone fruits"
+		},
+		{
+			"SICCode": "1250",
+			"SICDescription": "Growing of other tree and bush fruits and nuts"
+		},
+		{
+			"SICCode": "1260",
+			"SICDescription": "Growing of oleaginous fruits"
+		},
+		{
+			"SICCode": "1270",
+			"SICDescription": "Growing of beverage crops"
+		},
+		{
+			"SICCode": "1280",
+			"SICDescription": "Growing of spices, aromatic, drug and pharmaceutical crops"
+		},
+		{
+			"SICCode": "1290",
+			"SICDescription": "Growing of other perennial crops"
+		},
+		{
+			"SICCode": "1300",
+			"SICDescription": "Plant propagation"
+		},
+		{
+			"SICCode": "1410",
+			"SICDescription": "Raising of dairy cattle"
+		},
+		{
+			"SICCode": "1420",
+			"SICDescription": "Raising of other cattle and buffaloes"
+		},
+		{
+			"SICCode": "1430",
+			"SICDescription": "Raising of horses and other equines"
+		},
+		{
+			"SICCode": "1440",
+			"SICDescription": "Raising of camels and camelids"
+		},
+		{
+			"SICCode": "1450",
+			"SICDescription": "Raising of sheep and  goats"
+		},
+		{
+			"SICCode": "1460",
+			"SICDescription": "Raising of swine/pigs"
+		},
+		{
+			"SICCode": "1470",
+			"SICDescription": "Raising of poultry"
+		},
+		{
+			"SICCode": "1490",
+			"SICDescription": "Raising of other animals"
+		},
+		{
+			"SICCode": "1500",
+			"SICDescription": "Mixed farming"
+		},
+		{
+			"SICCode": "1610",
+			"SICDescription": "Support activities for crop production"
+		},
+		{
+			"SICCode": "1621",
+			"SICDescription": "Farm animal boarding and care"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Support activities for animal production (other than farm animal boarding and care) n.e.c."
+		},
+		{
+			"SICCode": "1630",
+			"SICDescription": "Post-harvest crop activities"
+		},
+		{
+			"SICCode": "1640",
+			"SICDescription": "Seed processing for propagation"
+		},
+		{
+			"SICCode": "1700",
+			"SICDescription": "Hunting, trapping and related service activities"
+		},
+		{
+			"SICCode": "2100",
+			"SICDescription": "Silviculture and other forestry activities"
+		},
+		{
+			"SICCode": "2200",
+			"SICDescription": "Logging"
+		},
+		{
+			"SICCode": "2300",
+			"SICDescription": "Gathering of wild growing non-wood products"
+		},
+		{
+			"SICCode": "2400",
+			"SICDescription": "Support services to forestry"
+		},
+		{
+			"SICCode": "3110",
+			"SICDescription": "Marine fishing"
+		},
+		{
+			"SICCode": "3120",
+			"SICDescription": "Freshwater fishing"
+		},
+		{
+			"SICCode": "3210",
+			"SICDescription": "Marine aquaculture"
+		},
+		{
+			"SICCode": "3220",
+			"SICDescription": "Freshwater aquaculture"
+		},
+		{
+			"SICCode": "5101",
+			"SICDescription": "Deep coal mines"
+		},
+		{
+			"SICCode": "5102",
+			"SICDescription": "Open cast coal working"
+		},
+		{
+			"SICCode": "5200",
+			"SICDescription": "Mining of lignite"
+		},
+		{
+			"SICCode": "6100",
+			"SICDescription": "Extraction of crude petroleum"
+		},
+		{
+			"SICCode": "6200",
+			"SICDescription": "Extraction of natural gas"
+		},
+		{
+			"SICCode": "7100",
+			"SICDescription": "Mining of iron ores"
+		},
+		{
+			"SICCode": "7210",
+			"SICDescription": "Mining of uranium and thorium ores"
+		},
+		{
+			"SICCode": "7290",
+			"SICDescription": "Mining of other non-ferrous metal ores"
+		},
+		{
+			"SICCode": "8110",
+			"SICDescription": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate"
+		},
+		{
+			"SICCode": "8120",
+			"SICDescription": "Operation of gravel and sand pits; mining of clays and kaolin"
+		},
+		{
+			"SICCode": "8910",
+			"SICDescription": "Mining of chemical and fertilizer minerals"
+		},
+		{
+			"SICCode": "8920",
+			"SICDescription": "Extraction of peat"
+		},
+		{
+			"SICCode": "8930",
+			"SICDescription": "Extraction of salt"
+		},
+		{
+			"SICCode": "8990",
+			"SICDescription": "Other mining and quarrying n.e.c."
+		},
+		{
+			"SICCode": "9100",
+			"SICDescription": "Support activities for petroleum and natural gas extraction"
+		},
+		{
+			"SICCode": "9900",
+			"SICDescription": "Support activities for other mining and quarrying"
+		},
+		{
+			"SICCode": "10110",
+			"SICDescription": "Processing and preserving of meat"
+		},
+		{
+			"SICCode": "10120",
+			"SICDescription": "Processing and preserving of poultry meat"
+		},
+		{
+			"SICCode": "10130",
+			"SICDescription": "Production of meat and poultry meat products"
+		},
+		{
+			"SICCode": "10200",
+			"SICDescription": "Processing and preserving of fish, crustaceans and molluscs"
+		},
+		{
+			"SICCode": "10310",
+			"SICDescription": "Processing and preserving of potatoes"
+		},
+		{
+			"SICCode": "10320",
+			"SICDescription": "Manufacture of fruit and vegetable juice"
+		},
+		{
+			"SICCode": "10390",
+			"SICDescription": "Other processing and preserving of fruit and vegetables"
+		},
+		{
+			"SICCode": "10410",
+			"SICDescription": "Manufacture of oils and fats"
+		},
+		{
+			"SICCode": "10420",
+			"SICDescription": "Manufacture of margarine and similar edible fats"
+		},
+		{
+			"SICCode": "10511",
+			"SICDescription": "Liquid milk and cream production"
+		},
+		{
+			"SICCode": "10512",
+			"SICDescription": "Butter and cheese production"
+		},
+		{
+			"SICCode": "10519",
+			"SICDescription": "Manufacture of other milk products"
+		},
+		{
+			"SICCode": "10520",
+			"SICDescription": "Manufacture of ice cream"
+		},
+		{
+			"SICCode": "10611",
+			"SICDescription": "Grain milling"
+		},
+		{
+			"SICCode": "10612",
+			"SICDescription": "Manufacture of breakfast cereals and cereals-based food"
+		},
+		{
+			"SICCode": "10620",
+			"SICDescription": "Manufacture of starches and starch products"
+		},
+		{
+			"SICCode": "10710",
+			"SICDescription": "Manufacture of bread; manufacture of fresh pastry goods and cakes"
+		},
+		{
+			"SICCode": "10720",
+			"SICDescription": "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
+		},
+		{
+			"SICCode": "10730",
+			"SICDescription": "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+		},
+		{
+			"SICCode": "10810",
+			"SICDescription": "Manufacture of sugar"
+		},
+		{
+			"SICCode": "10821",
+			"SICDescription": "Manufacture of cocoa and chocolate confectionery"
+		},
+		{
+			"SICCode": "10822",
+			"SICDescription": "Manufacture of sugar confectionery"
+		},
+		{
+			"SICCode": "10831",
+			"SICDescription": "Tea processing"
+		},
+		{
+			"SICCode": "10832",
+			"SICDescription": "Production of coffee and coffee substitutes"
+		},
+		{
+			"SICCode": "10840",
+			"SICDescription": "Manufacture of condiments and seasonings"
+		},
+		{
+			"SICCode": "10850",
+			"SICDescription": "Manufacture of prepared meals and dishes"
+		},
+		{
+			"SICCode": "10860",
+			"SICDescription": "Manufacture of homogenized food preparations and dietetic food"
+		},
+		{
+			"SICCode": "10890",
+			"SICDescription": "Manufacture of other food products n.e.c."
+		},
+		{
+			"SICCode": "10910",
+			"SICDescription": "Manufacture of prepared feeds for farm animals"
+		},
+		{
+			"SICCode": "10920",
+			"SICDescription": "Manufacture of prepared pet foods"
+		},
+		{
+			"SICCode": "11010",
+			"SICDescription": "Distilling, rectifying and blending of spirits"
+		},
+		{
+			"SICCode": "11020",
+			"SICDescription": "Manufacture of wine from grape"
+		},
+		{
+			"SICCode": "11030",
+			"SICDescription": "Manufacture of cider and other fruit wines"
+		},
+		{
+			"SICCode": "11040",
+			"SICDescription": "Manufacture of other non-distilled fermented beverages"
+		},
+		{
+			"SICCode": "11050",
+			"SICDescription": "Manufacture of beer"
+		},
+		{
+			"SICCode": "11060",
+			"SICDescription": "Manufacture of malt"
+		},
+		{
+			"SICCode": "11070",
+			"SICDescription": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+		},
+		{
+			"SICCode": "12000",
+			"SICDescription": "Manufacture of tobacco products"
+		},
+		{
+			"SICCode": "13100",
+			"SICDescription": "Preparation and spinning of textile fibres"
+		},
+		{
+			"SICCode": "13200",
+			"SICDescription": "Weaving of textiles"
+		},
+		{
+			"SICCode": "13300",
+			"SICDescription": "Finishing of textiles"
+		},
+		{
+			"SICCode": "13910",
+			"SICDescription": "Manufacture of knitted and crocheted fabrics"
+		},
+		{
+			"SICCode": "13921",
+			"SICDescription": "Manufacture of soft furnishings"
+		},
+		{
+			"SICCode": "13922",
+			"SICDescription": "manufacture of canvas goods, sacks, etc."
+		},
+		{
+			"SICCode": "13923",
+			"SICDescription": "manufacture of household textiles"
+		},
+		{
+			"SICCode": "13931",
+			"SICDescription": "Manufacture of woven or tufted carpets and rugs"
+		},
+		{
+			"SICCode": "13939",
+			"SICDescription": "Manufacture of other carpets and rugs"
+		},
+		{
+			"SICCode": "13940",
+			"SICDescription": "Manufacture of cordage, rope, twine and netting"
+		},
+		{
+			"SICCode": "13950",
+			"SICDescription": "Manufacture of non-wovens and articles made from non-wovens, except apparel"
+		},
+		{
+			"SICCode": "13960",
+			"SICDescription": "Manufacture of other technical and industrial textiles"
+		},
+		{
+			"SICCode": "13990",
+			"SICDescription": "Manufacture of other textiles n.e.c."
+		},
+		{
+			"SICCode": "14110",
+			"SICDescription": "Manufacture of leather clothes"
+		},
+		{
+			"SICCode": "14120",
+			"SICDescription": "Manufacture of workwear"
+		},
+		{
+			"SICCode": "14131",
+			"SICDescription": "Manufacture of other mens outerwear"
+		},
+		{
+			"SICCode": "14132",
+			"SICDescription": "Manufacture of other womens outerwear"
+		},
+		{
+			"SICCode": "14141",
+			"SICDescription": "Manufacture of mens underwear"
+		},
+		{
+			"SICCode": "14142",
+			"SICDescription": "Manufacture of womens underwear"
+		},
+		{
+			"SICCode": "14190",
+			"SICDescription": "Manufacture of other wearing apparel and accessories n.e.c."
+		},
+		{
+			"SICCode": "14200",
+			"SICDescription": "Manufacture of articles of fur"
+		},
+		{
+			"SICCode": "14310",
+			"SICDescription": "Manufacture of knitted and crocheted hosiery"
+		},
+		{
+			"SICCode": "14390",
+			"SICDescription": "Manufacture of other knitted and crocheted apparel"
+		},
+		{
+			"SICCode": "15110",
+			"SICDescription": "Tanning and dressing of leather; dressing and dyeing of fur"
+		},
+		{
+			"SICCode": "15120",
+			"SICDescription": "Manufacture of luggage, handbags and the like, saddlery and harness"
+		},
+		{
+			"SICCode": "15200",
+			"SICDescription": "Manufacture of footwear"
+		},
+		{
+			"SICCode": "16100",
+			"SICDescription": "Sawmilling and planing of wood"
+		},
+		{
+			"SICCode": "16210",
+			"SICDescription": "Manufacture of veneer sheets and wood-based panels"
+		},
+		{
+			"SICCode": "16220",
+			"SICDescription": "Manufacture of assembled parquet floors"
+		},
+		{
+			"SICCode": "16230",
+			"SICDescription": "Manufacture of other builders carpentry and joinery"
+		},
+		{
+			"SICCode": "16240",
+			"SICDescription": "Manufacture of wooden containers"
+		},
+		{
+			"SICCode": "16290",
+			"SICDescription": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"
+		},
+		{
+			"SICCode": "17110",
+			"SICDescription": "Manufacture of pulp"
+		},
+		{
+			"SICCode": "17120",
+			"SICDescription": "Manufacture of paper and paperboard"
+		},
+		{
+			"SICCode": "17211",
+			"SICDescription": "Manufacture of corrugated paper and paperboard, sacks and bags"
+		},
+		{
+			"SICCode": "17219",
+			"SICDescription": "Manufacture of other paper and paperboard containers"
+		},
+		{
+			"SICCode": "17220",
+			"SICDescription": "Manufacture of household and sanitary goods and of toilet requisites"
+		},
+		{
+			"SICCode": "17230",
+			"SICDescription": "Manufacture of paper stationery"
+		},
+		{
+			"SICCode": "17240",
+			"SICDescription": "Manufacture of wallpaper"
+		},
+		{
+			"SICCode": "17290",
+			"SICDescription": "Manufacture of other articles of paper and paperboard n.e.c."
+		},
+		{
+			"SICCode": "18110",
+			"SICDescription": "Printing of newspapers"
+		},
+		{
+			"SICCode": "18121",
+			"SICDescription": "Manufacture of printed labels"
+		},
+		{
+			"SICCode": "18129",
+			"SICDescription": "Printing n.e.c."
+		},
+		{
+			"SICCode": "18130",
+			"SICDescription": "Pre-press and pre-media services"
+		},
+		{
+			"SICCode": "18140",
+			"SICDescription": "Binding and related services"
+		},
+		{
+			"SICCode": "18201",
+			"SICDescription": "Reproduction of sound recording"
+		},
+		{
+			"SICCode": "18202",
+			"SICDescription": "Reproduction of video recording"
+		},
+		{
+			"SICCode": "18203",
+			"SICDescription": "Reproduction of computer media"
+		},
+		{
+			"SICCode": "19100",
+			"SICDescription": "Manufacture of coke oven products"
+		},
+		{
+			"SICCode": "19201",
+			"SICDescription": "Mineral oil refining"
+		},
+		{
+			"SICCode": "19209",
+			"SICDescription": "Other treatment of petroleum products (excluding petrochemicals manufacture)"
+		},
+		{
+			"SICCode": "20110",
+			"SICDescription": "Manufacture of industrial gases"
+		},
+		{
+			"SICCode": "20120",
+			"SICDescription": "Manufacture of dyes and pigments"
+		},
+		{
+			"SICCode": "20130",
+			"SICDescription": "Manufacture of other inorganic basic chemicals"
+		},
+		{
+			"SICCode": "20140",
+			"SICDescription": "Manufacture of other organic basic chemicals"
+		},
+		{
+			"SICCode": "20150",
+			"SICDescription": "Manufacture of fertilizers and nitrogen compounds"
+		},
+		{
+			"SICCode": "20160",
+			"SICDescription": "Manufacture of plastics in primary forms"
+		},
+		{
+			"SICCode": "20170",
+			"SICDescription": "Manufacture of synthetic rubber in primary forms"
+		},
+		{
+			"SICCode": "20200",
+			"SICDescription": "Manufacture of pesticides and other agrochemical products"
+		},
+		{
+			"SICCode": "20301",
+			"SICDescription": "Manufacture of paints, varnishes and similar coatings, mastics and sealants"
+		},
+		{
+			"SICCode": "20302",
+			"SICDescription": "Manufacture of printing ink"
+		},
+		{
+			"SICCode": "20411",
+			"SICDescription": "Manufacture of soap and detergents"
+		},
+		{
+			"SICCode": "20412",
+			"SICDescription": "Manufacture of cleaning and polishing preparations"
+		},
+		{
+			"SICCode": "20420",
+			"SICDescription": "Manufacture of perfumes and toilet preparations"
+		},
+		{
+			"SICCode": "20510",
+			"SICDescription": "Manufacture of explosives"
+		},
+		{
+			"SICCode": "20520",
+			"SICDescription": "Manufacture of glues"
+		},
+		{
+			"SICCode": "20530",
+			"SICDescription": "Manufacture of essential oils"
+		},
+		{
+			"SICCode": "20590",
+			"SICDescription": "Manufacture of other chemical products n.e.c."
+		},
+		{
+			"SICCode": "20600",
+			"SICDescription": "Manufacture of man-made fibres"
+		},
+		{
+			"SICCode": "21100",
+			"SICDescription": "Manufacture of basic pharmaceutical products"
+		},
+		{
+			"SICCode": "21200",
+			"SICDescription": "Manufacture of pharmaceutical preparations"
+		},
+		{
+			"SICCode": "22110",
+			"SICDescription": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres"
+		},
+		{
+			"SICCode": "22190",
+			"SICDescription": "Manufacture of other rubber products"
+		},
+		{
+			"SICCode": "22210",
+			"SICDescription": "Manufacture of plastic plates, sheets, tubes and profiles"
+		},
+		{
+			"SICCode": "22220",
+			"SICDescription": "Manufacture of plastic packing goods"
+		},
+		{
+			"SICCode": "22230",
+			"SICDescription": "Manufacture of builders  ware of plastic"
+		},
+		{
+			"SICCode": "22290",
+			"SICDescription": "Manufacture of other plastic products"
+		},
+		{
+			"SICCode": "23110",
+			"SICDescription": "Manufacture of flat glass"
+		},
+		{
+			"SICCode": "23120",
+			"SICDescription": "Shaping and processing of flat glass"
+		},
+		{
+			"SICCode": "23130",
+			"SICDescription": "Manufacture of hollow glass"
+		},
+		{
+			"SICCode": "23140",
+			"SICDescription": "Manufacture of glass fibres"
+		},
+		{
+			"SICCode": "23190",
+			"SICDescription": "Manufacture and processing of other glass, including technical glassware"
+		},
+		{
+			"SICCode": "23200",
+			"SICDescription": "Manufacture of refractory products"
+		},
+		{
+			"SICCode": "23310",
+			"SICDescription": "Manufacture of ceramic tiles and flags"
+		},
+		{
+			"SICCode": "23320",
+			"SICDescription": "Manufacture of bricks, tiles and construction products, in baked clay"
+		},
+		{
+			"SICCode": "23410",
+			"SICDescription": "Manufacture of ceramic household and ornamental articles"
+		},
+		{
+			"SICCode": "23420",
+			"SICDescription": "Manufacture of ceramic sanitary fixtures"
+		},
+		{
+			"SICCode": "23430",
+			"SICDescription": "Manufacture of ceramic insulators and insulating fittings"
+		},
+		{
+			"SICCode": "23440",
+			"SICDescription": "Manufacture of other technical ceramic products"
+		},
+		{
+			"SICCode": "23490",
+			"SICDescription": "Manufacture of other ceramic products n.e.c."
+		},
+		{
+			"SICCode": "23510",
+			"SICDescription": "Manufacture of cement"
+		},
+		{
+			"SICCode": "23520",
+			"SICDescription": "Manufacture of lime and plaster"
+		},
+		{
+			"SICCode": "23610",
+			"SICDescription": "Manufacture of concrete products for construction purposes"
+		},
+		{
+			"SICCode": "23620",
+			"SICDescription": "Manufacture of plaster products for construction purposes"
+		},
+		{
+			"SICCode": "23630",
+			"SICDescription": "Manufacture of ready-mixed concrete"
+		},
+		{
+			"SICCode": "23640",
+			"SICDescription": "Manufacture of mortars"
+		},
+		{
+			"SICCode": "23650",
+			"SICDescription": "Manufacture of fibre cement"
+		},
+		{
+			"SICCode": "23690",
+			"SICDescription": "Manufacture of other articles of concrete, plaster and cement"
+		},
+		{
+			"SICCode": "23700",
+			"SICDescription": "Cutting, shaping and finishing of stone"
+		},
+		{
+			"SICCode": "23910",
+			"SICDescription": "Production of abrasive products"
+		},
+		{
+			"SICCode": "23990",
+			"SICDescription": "Manufacture of other non-metallic mineral products n.e.c."
+		},
+		{
+			"SICCode": "24100",
+			"SICDescription": "Manufacture of basic iron and steel and of ferro-alloys"
+		},
+		{
+			"SICCode": "24200",
+			"SICDescription": "Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+		},
+		{
+			"SICCode": "24310",
+			"SICDescription": "Cold drawing of bars"
+		},
+		{
+			"SICCode": "24320",
+			"SICDescription": "Cold rolling of narrow strip"
+		},
+		{
+			"SICCode": "24330",
+			"SICDescription": "Cold forming or folding"
+		},
+		{
+			"SICCode": "24340",
+			"SICDescription": "Cold drawing of wire"
+		},
+		{
+			"SICCode": "24410",
+			"SICDescription": "Precious metals production"
+		},
+		{
+			"SICCode": "24420",
+			"SICDescription": "Aluminium production"
+		},
+		{
+			"SICCode": "24430",
+			"SICDescription": "Lead, zinc and tin production"
+		},
+		{
+			"SICCode": "24440",
+			"SICDescription": "Copper production"
+		},
+		{
+			"SICCode": "24450",
+			"SICDescription": "Other non-ferrous metal production"
+		},
+		{
+			"SICCode": "24460",
+			"SICDescription": "Processing of nuclear fuel"
+		},
+		{
+			"SICCode": "24510",
+			"SICDescription": "Casting of iron"
+		},
+		{
+			"SICCode": "24520",
+			"SICDescription": "Casting of steel"
+		},
+		{
+			"SICCode": "24530",
+			"SICDescription": "Casting of light metals"
+		},
+		{
+			"SICCode": "24540",
+			"SICDescription": "Casting of other non-ferrous metals"
+		},
+		{
+			"SICCode": "25110",
+			"SICDescription": "Manufacture of metal structures and parts of structures"
+		},
+		{
+			"SICCode": "25120",
+			"SICDescription": "Manufacture of doors and windows of metal"
+		},
+		{
+			"SICCode": "25210",
+			"SICDescription": "Manufacture of central heating radiators and boilers"
+		},
+		{
+			"SICCode": "25290",
+			"SICDescription": "Manufacture of other tanks, reservoirs and containers of metal"
+		},
+		{
+			"SICCode": "25300",
+			"SICDescription": "Manufacture of steam generators, except central heating hot water boilers"
+		},
+		{
+			"SICCode": "25400",
+			"SICDescription": "Manufacture of weapons and ammunition"
+		},
+		{
+			"SICCode": "25500",
+			"SICDescription": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+		},
+		{
+			"SICCode": "25610",
+			"SICDescription": "Treatment and coating of metals"
+		},
+		{
+			"SICCode": "25620",
+			"SICDescription": "Machining"
+		},
+		{
+			"SICCode": "25710",
+			"SICDescription": "Manufacture of cutlery"
+		},
+		{
+			"SICCode": "25720",
+			"SICDescription": "Manufacture of locks and hinges"
+		},
+		{
+			"SICCode": "25730",
+			"SICDescription": "Manufacture of tools"
+		},
+		{
+			"SICCode": "25910",
+			"SICDescription": "Manufacture of steel drums and similar containers"
+		},
+		{
+			"SICCode": "25920",
+			"SICDescription": "Manufacture of light metal packaging"
+		},
+		{
+			"SICCode": "25930",
+			"SICDescription": "Manufacture of wire products, chain and springs"
+		},
+		{
+			"SICCode": "25940",
+			"SICDescription": "Manufacture of fasteners and screw machine products"
+		},
+		{
+			"SICCode": "25990",
+			"SICDescription": "Manufacture of other fabricated metal products n.e.c."
+		},
+		{
+			"SICCode": "26110",
+			"SICDescription": "Manufacture of electronic components"
+		},
+		{
+			"SICCode": "26120",
+			"SICDescription": "Manufacture of loaded electronic boards"
+		},
+		{
+			"SICCode": "26200",
+			"SICDescription": "Manufacture of computers and peripheral equipment"
+		},
+		{
+			"SICCode": "26301",
+			"SICDescription": "Manufacture of telegraph and telephone apparatus and equipment"
+		},
+		{
+			"SICCode": "26309",
+			"SICDescription": "Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment"
+		},
+		{
+			"SICCode": "26400",
+			"SICDescription": "Manufacture of consumer electronics"
+		},
+		{
+			"SICCode": "26511",
+			"SICDescription": "Manufacture of electronic measuring, testing etc. equipment, not for industrial process control"
+		},
+		{
+			"SICCode": "26512",
+			"SICDescription": "Manufacture of electronic industrial process control equipment"
+		},
+		{
+			"SICCode": "26513",
+			"SICDescription": "Manufacture of non-electronic measuring, testing etc. equipment, not for industrial process control"
+		},
+		{
+			"SICCode": "26514",
+			"SICDescription": "Manufacture of non-electronic industrial process control equipment"
+		},
+		{
+			"SICCode": "26520",
+			"SICDescription": "Manufacture of watches and clocks"
+		},
+		{
+			"SICCode": "26600",
+			"SICDescription": "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+		},
+		{
+			"SICCode": "26701",
+			"SICDescription": "Manufacture of optical precision instruments"
+		},
+		{
+			"SICCode": "26702",
+			"SICDescription": "Manufacture of photographic and cinematographic equipment"
+		},
+		{
+			"SICCode": "26800",
+			"SICDescription": "Manufacture of magnetic and optical media"
+		},
+		{
+			"SICCode": "27110",
+			"SICDescription": "Manufacture of electric motors, generators and transformers"
+		},
+		{
+			"SICCode": "27120",
+			"SICDescription": "Manufacture of electricity distribution and control apparatus"
+		},
+		{
+			"SICCode": "27200",
+			"SICDescription": "Manufacture of batteries and accumulators"
+		},
+		{
+			"SICCode": "27310",
+			"SICDescription": "Manufacture of fibre optic cables"
+		},
+		{
+			"SICCode": "27320",
+			"SICDescription": "Manufacture of other electronic and electric wires and cables"
+		},
+		{
+			"SICCode": "27330",
+			"SICDescription": "Manufacture of wiring devices"
+		},
+		{
+			"SICCode": "27400",
+			"SICDescription": "Manufacture of electric lighting equipment"
+		},
+		{
+			"SICCode": "27510",
+			"SICDescription": "Manufacture of electric domestic appliances"
+		},
+		{
+			"SICCode": "27520",
+			"SICDescription": "Manufacture of non-electric domestic appliances"
+		},
+		{
+			"SICCode": "27900",
+			"SICDescription": "Manufacture of other electrical equipment"
+		},
+		{
+			"SICCode": "28110",
+			"SICDescription": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+		},
+		{
+			"SICCode": "28120",
+			"SICDescription": "Manufacture of fluid power equipment"
+		},
+		{
+			"SICCode": "28131",
+			"SICDescription": "Manufacture of pumps"
+		},
+		{
+			"SICCode": "28132",
+			"SICDescription": "Manufacture of compressors"
+		},
+		{
+			"SICCode": "28140",
+			"SICDescription": "Manufacture of taps and valves"
+		},
+		{
+			"SICCode": "28150",
+			"SICDescription": "Manufacture of bearings, gears, gearing and driving elements"
+		},
+		{
+			"SICCode": "28210",
+			"SICDescription": "Manufacture of ovens, furnaces and furnace burners"
+		},
+		{
+			"SICCode": "28220",
+			"SICDescription": "Manufacture of lifting and handling equipment"
+		},
+		{
+			"SICCode": "28230",
+			"SICDescription": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+		},
+		{
+			"SICCode": "28240",
+			"SICDescription": "Manufacture of power-driven hand tools"
+		},
+		{
+			"SICCode": "28250",
+			"SICDescription": "Manufacture of non-domestic cooling and ventilation equipment"
+		},
+		{
+			"SICCode": "28290",
+			"SICDescription": "Manufacture of other general-purpose machinery n.e.c."
+		},
+		{
+			"SICCode": "28301",
+			"SICDescription": "Manufacture of agricultural tractors"
+		},
+		{
+			"SICCode": "28302",
+			"SICDescription": "Manufacture of agricultural and forestry machinery other than tractors"
+		},
+		{
+			"SICCode": "28410",
+			"SICDescription": "Manufacture of metal forming machinery"
+		},
+		{
+			"SICCode": "28490",
+			"SICDescription": "Manufacture of other machine tools"
+		},
+		{
+			"SICCode": "28910",
+			"SICDescription": "Manufacture of machinery for metallurgy"
+		},
+		{
+			"SICCode": "28921",
+			"SICDescription": "Manufacture of machinery for mining"
+		},
+		{
+			"SICCode": "28922",
+			"SICDescription": "Manufacture of earthmoving equipment"
+		},
+		{
+			"SICCode": "28923",
+			"SICDescription": "Manufacture of equipment for concrete crushing and screening and roadworks"
+		},
+		{
+			"SICCode": "28930",
+			"SICDescription": "Manufacture of machinery for food, beverage and tobacco processing"
+		},
+		{
+			"SICCode": "28940",
+			"SICDescription": "Manufacture of machinery for textile, apparel and leather production"
+		},
+		{
+			"SICCode": "28950",
+			"SICDescription": "Manufacture of machinery for paper and paperboard production"
+		},
+		{
+			"SICCode": "28960",
+			"SICDescription": "Manufacture of plastics and rubber machinery"
+		},
+		{
+			"SICCode": "28990",
+			"SICDescription": "Manufacture of other special-purpose machinery n.e.c."
+		},
+		{
+			"SICCode": "29100",
+			"SICDescription": "Manufacture of motor vehicles"
+		},
+		{
+			"SICCode": "29201",
+			"SICDescription": "Manufacture of bodies (coachwork) for motor vehicles (except caravans)"
+		},
+		{
+			"SICCode": "29202",
+			"SICDescription": "Manufacture of trailers and semi-trailers"
+		},
+		{
+			"SICCode": "29203",
+			"SICDescription": "Manufacture of caravans"
+		},
+		{
+			"SICCode": "29310",
+			"SICDescription": "Manufacture of electrical and electronic equipment for motor vehicles and their engines"
+		},
+		{
+			"SICCode": "29320",
+			"SICDescription": "Manufacture of other parts and accessories for motor vehicles"
+		},
+		{
+			"SICCode": "30110",
+			"SICDescription": "Building of ships and floating structures"
+		},
+		{
+			"SICCode": "30120",
+			"SICDescription": "Building of pleasure and sporting boats"
+		},
+		{
+			"SICCode": "30200",
+			"SICDescription": "Manufacture of railway locomotives and rolling stock"
+		},
+		{
+			"SICCode": "30300",
+			"SICDescription": "Manufacture of air and spacecraft and related machinery"
+		},
+		{
+			"SICCode": "30400",
+			"SICDescription": "Manufacture of military fighting vehicles"
+		},
+		{
+			"SICCode": "30910",
+			"SICDescription": "Manufacture of motorcycles"
+		},
+		{
+			"SICCode": "30920",
+			"SICDescription": "Manufacture of bicycles and invalid carriages"
+		},
+		{
+			"SICCode": "30990",
+			"SICDescription": "Manufacture of other transport equipment n.e.c."
+		},
+		{
+			"SICCode": "31010",
+			"SICDescription": "Manufacture of office and shop furniture"
+		},
+		{
+			"SICCode": "31020",
+			"SICDescription": "Manufacture of kitchen furniture"
+		},
+		{
+			"SICCode": "31030",
+			"SICDescription": "Manufacture of mattresses"
+		},
+		{
+			"SICCode": "31090",
+			"SICDescription": "Manufacture of other furniture"
+		},
+		{
+			"SICCode": "32110",
+			"SICDescription": "Striking of coins"
+		},
+		{
+			"SICCode": "32120",
+			"SICDescription": "Manufacture of jewellery and related articles"
+		},
+		{
+			"SICCode": "32130",
+			"SICDescription": "Manufacture of imitation jewellery and related articles"
+		},
+		{
+			"SICCode": "32200",
+			"SICDescription": "Manufacture of musical instruments"
+		},
+		{
+			"SICCode": "32300",
+			"SICDescription": "Manufacture of sports goods"
+		},
+		{
+			"SICCode": "32401",
+			"SICDescription": "Manufacture of professional and arcade games and toys"
+		},
+		{
+			"SICCode": "32409",
+			"SICDescription": "Manufacture of other games and toys, n.e.c."
+		},
+		{
+			"SICCode": "32500",
+			"SICDescription": "Manufacture of medical and dental instruments and supplies"
+		},
+		{
+			"SICCode": "32910",
+			"SICDescription": "Manufacture of brooms and brushes"
+		},
+		{
+			"SICCode": "32990",
+			"SICDescription": "Other manufacturing n.e.c."
+		},
+		{
+			"SICCode": "33110",
+			"SICDescription": "Repair of fabricated metal products"
+		},
+		{
+			"SICCode": "33120",
+			"SICDescription": "Repair of machinery"
+		},
+		{
+			"SICCode": "33130",
+			"SICDescription": "Repair of electronic and optical equipment"
+		},
+		{
+			"SICCode": "33140",
+			"SICDescription": "Repair of electrical equipment"
+		},
+		{
+			"SICCode": "33150",
+			"SICDescription": "Repair and maintenance of ships and boats"
+		},
+		{
+			"SICCode": "33160",
+			"SICDescription": "Repair and maintenance of aircraft and spacecraft"
+		},
+		{
+			"SICCode": "33170",
+			"SICDescription": "Repair and maintenance of other transport equipment n.e.c."
+		},
+		{
+			"SICCode": "33190",
+			"SICDescription": "Repair of other equipment"
+		},
+		{
+			"SICCode": "33200",
+			"SICDescription": "Installation of industrial machinery and equipment"
+		},
+		{
+			"SICCode": "35110",
+			"SICDescription": "Production of electricity"
+		},
+		{
+			"SICCode": "35120",
+			"SICDescription": "Transmission of electricity"
+		},
+		{
+			"SICCode": "35130",
+			"SICDescription": "Distribution of electricity"
+		},
+		{
+			"SICCode": "35140",
+			"SICDescription": "Trade of electricity"
+		},
+		{
+			"SICCode": "35210",
+			"SICDescription": "Manufacture of gas"
+		},
+		{
+			"SICCode": "35220",
+			"SICDescription": "Distribution of gaseous fuels through mains"
+		},
+		{
+			"SICCode": "35230",
+			"SICDescription": "Trade of gas through mains"
+		},
+		{
+			"SICCode": "35300",
+			"SICDescription": "Steam and air conditioning supply"
+		},
+		{
+			"SICCode": "36000",
+			"SICDescription": "Water collection, treatment and supply"
+		},
+		{
+			"SICCode": "37000",
+			"SICDescription": "Sewerage"
+		},
+		{
+			"SICCode": "38110",
+			"SICDescription": "Collection of non-hazardous waste"
+		},
+		{
+			"SICCode": "38120",
+			"SICDescription": "Collection of hazardous waste"
+		},
+		{
+			"SICCode": "38210",
+			"SICDescription": "Treatment and disposal of non-hazardous waste"
+		},
+		{
+			"SICCode": "38220",
+			"SICDescription": "Treatment and disposal of hazardous waste"
+		},
+		{
+			"SICCode": "38310",
+			"SICDescription": "Dismantling of wrecks"
+		},
+		{
+			"SICCode": "38320",
+			"SICDescription": "Recovery of sorted materials"
+		},
+		{
+			"SICCode": "39000",
+			"SICDescription": "Remediation activities and other waste management services"
+		},
+		{
+			"SICCode": "41100",
+			"SICDescription": "Development of building projects"
+		},
+		{
+			"SICCode": "41201",
+			"SICDescription": "Construction of commercial buildings"
+		},
+		{
+			"SICCode": "41202",
+			"SICDescription": "Construction of domestic buildings"
+		},
+		{
+			"SICCode": "42110",
+			"SICDescription": "Construction of roads and motorways"
+		},
+		{
+			"SICCode": "42120",
+			"SICDescription": "Construction of railways and underground railways"
+		},
+		{
+			"SICCode": "42130",
+			"SICDescription": "Construction of bridges and tunnels"
+		},
+		{
+			"SICCode": "42210",
+			"SICDescription": "Construction of utility projects for fluids"
+		},
+		{
+			"SICCode": "42220",
+			"SICDescription": "Construction of utility projects for electricity and telecommunications"
+		},
+		{
+			"SICCode": "42910",
+			"SICDescription": "Construction of water projects"
+		},
+		{
+			"SICCode": "42990",
+			"SICDescription": "Construction of other civil engineering projects n.e.c."
+		},
+		{
+			"SICCode": "43110",
+			"SICDescription": "Demolition"
+		},
+		{
+			"SICCode": "43120",
+			"SICDescription": "Site preparation"
+		},
+		{
+			"SICCode": "43130",
+			"SICDescription": "Test drilling and boring"
+		},
+		{
+			"SICCode": "43210",
+			"SICDescription": "Electrical installation"
+		},
+		{
+			"SICCode": "43220",
+			"SICDescription": "Plumbing, heat and air-conditioning installation"
+		},
+		{
+			"SICCode": "43290",
+			"SICDescription": "Other construction installation"
+		},
+		{
+			"SICCode": "43310",
+			"SICDescription": "Plastering"
+		},
+		{
+			"SICCode": "43320",
+			"SICDescription": "Joinery installation"
+		},
+		{
+			"SICCode": "43330",
+			"SICDescription": "Floor and wall covering"
+		},
+		{
+			"SICCode": "43341",
+			"SICDescription": "Painting"
+		},
+		{
+			"SICCode": "43342",
+			"SICDescription": "Glazing"
+		},
+		{
+			"SICCode": "43390",
+			"SICDescription": "Other building completion and finishing"
+		},
+		{
+			"SICCode": "43910",
+			"SICDescription": "Roofing activities"
+		},
+		{
+			"SICCode": "43991",
+			"SICDescription": "Scaffold erection"
+		},
+		{
+			"SICCode": "43999",
+			"SICDescription": "Other specialised construction activities n.e.c."
+		},
+		{
+			"SICCode": "45111",
+			"SICDescription": "Sale of new cars and light motor vehicles"
+		},
+		{
+			"SICCode": "45112",
+			"SICDescription": "Sale of used cars and light motor vehicles"
+		},
+		{
+			"SICCode": "45190",
+			"SICDescription": "Sale of other motor vehicles"
+		},
+		{
+			"SICCode": "45200",
+			"SICDescription": "Maintenance and repair of motor vehicles"
+		},
+		{
+			"SICCode": "45310",
+			"SICDescription": "Wholesale trade of motor vehicle parts and accessories"
+		},
+		{
+			"SICCode": "45320",
+			"SICDescription": "Retail trade of motor vehicle parts and accessories"
+		},
+		{
+			"SICCode": "45400",
+			"SICDescription": "Sale, maintenance and repair of motorcycles and related parts and accessories"
+		},
+		{
+			"SICCode": "46110",
+			"SICDescription": "Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods"
+		},
+		{
+			"SICCode": "46120",
+			"SICDescription": "Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+		},
+		{
+			"SICCode": "46130",
+			"SICDescription": "Agents involved in the sale of timber and building materials"
+		},
+		{
+			"SICCode": "46140",
+			"SICDescription": "Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+		},
+		{
+			"SICCode": "46150",
+			"SICDescription": "Agents involved in the sale of furniture, household goods, hardware and ironmongery"
+		},
+		{
+			"SICCode": "46160",
+			"SICDescription": "Agents involved in the sale of textiles, clothing, fur, footwear and leather goods"
+		},
+		{
+			"SICCode": "46170",
+			"SICDescription": "Agents involved in the sale of food, beverages and tobacco"
+		},
+		{
+			"SICCode": "46180",
+			"SICDescription": "Agents specialized in the sale of other particular products"
+		},
+		{
+			"SICCode": "46190",
+			"SICDescription": "Agents involved in the sale of a variety of goods"
+		},
+		{
+			"SICCode": "46210",
+			"SICDescription": "Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"
+		},
+		{
+			"SICCode": "46220",
+			"SICDescription": "Wholesale of flowers and plants"
+		},
+		{
+			"SICCode": "46230",
+			"SICDescription": "Wholesale of live animals"
+		},
+		{
+			"SICCode": "46240",
+			"SICDescription": "Wholesale of hides, skins and leather"
+		},
+		{
+			"SICCode": "46310",
+			"SICDescription": "Wholesale of fruit and vegetables"
+		},
+		{
+			"SICCode": "46320",
+			"SICDescription": "Wholesale of meat and meat products"
+		},
+		{
+			"SICCode": "46330",
+			"SICDescription": "Wholesale of dairy products, eggs and edible oils and fats"
+		},
+		{
+			"SICCode": "46341",
+			"SICDescription": "Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+		},
+		{
+			"SICCode": "46342",
+			"SICDescription": "Wholesale of wine, beer, spirits and other alcoholic beverages"
+		},
+		{
+			"SICCode": "46350",
+			"SICDescription": "Wholesale of tobacco products"
+		},
+		{
+			"SICCode": "46360",
+			"SICDescription": "Wholesale of sugar and chocolate and sugar confectionery"
+		},
+		{
+			"SICCode": "46370",
+			"SICDescription": "Wholesale of coffee, tea, cocoa and spices"
+		},
+		{
+			"SICCode": "46380",
+			"SICDescription": "Wholesale of other food, including fish, crustaceans and molluscs"
+		},
+		{
+			"SICCode": "46390",
+			"SICDescription": "Non-specialised wholesale of food, beverages and tobacco"
+		},
+		{
+			"SICCode": "46410",
+			"SICDescription": "Wholesale of textiles"
+		},
+		{
+			"SICCode": "46420",
+			"SICDescription": "Wholesale of clothing and footwear"
+		},
+		{
+			"SICCode": "46431",
+			"SICDescription": "Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played"
+		},
+		{
+			"SICCode": "46439",
+			"SICDescription": "Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CDs & video tapes and the equipment used for playing them)"
+		},
+		{
+			"SICCode": "46440",
+			"SICDescription": "Wholesale of china and glassware and cleaning materials"
+		},
+		{
+			"SICCode": "46450",
+			"SICDescription": "Wholesale of perfume and cosmetics"
+		},
+		{
+			"SICCode": "46460",
+			"SICDescription": "Wholesale of pharmaceutical goods"
+		},
+		{
+			"SICCode": "46470",
+			"SICDescription": "Wholesale of furniture, carpets and lighting equipment"
+		},
+		{
+			"SICCode": "46480",
+			"SICDescription": "Wholesale of watches and jewellery"
+		},
+		{
+			"SICCode": "46491",
+			"SICDescription": "Wholesale of musical instruments"
+		},
+		{
+			"SICCode": "46499",
+			"SICDescription": "Wholesale of household goods (other than musical instruments) n.e.c."
+		},
+		{
+			"SICCode": "46510",
+			"SICDescription": "Wholesale of computers, computer peripheral equipment and software"
+		},
+		{
+			"SICCode": "46520",
+			"SICDescription": "Wholesale of electronic and telecommunications equipment and parts"
+		},
+		{
+			"SICCode": "46610",
+			"SICDescription": "Wholesale of agricultural machinery, equipment and supplies"
+		},
+		{
+			"SICCode": "46620",
+			"SICDescription": "Wholesale of machine tools"
+		},
+		{
+			"SICCode": "46630",
+			"SICDescription": "Wholesale of mining, construction and civil engineering machinery"
+		},
+		{
+			"SICCode": "46640",
+			"SICDescription": "Wholesale of machinery for the textile industry and of sewing and knitting machines"
+		},
+		{
+			"SICCode": "46650",
+			"SICDescription": "Wholesale of office furniture"
+		},
+		{
+			"SICCode": "46660",
+			"SICDescription": "Wholesale of other office machinery and equipment"
+		},
+		{
+			"SICCode": "46690",
+			"SICDescription": "Wholesale of other machinery and equipment"
+		},
+		{
+			"SICCode": "46711",
+			"SICDescription": "Wholesale of petroleum and petroleum products"
+		},
+		{
+			"SICCode": "46719",
+			"SICDescription": "Wholesale of other fuels and related products"
+		},
+		{
+			"SICCode": "46720",
+			"SICDescription": "Wholesale of metals and metal ores"
+		},
+		{
+			"SICCode": "46730",
+			"SICDescription": "Wholesale of wood, construction materials and sanitary equipment"
+		},
+		{
+			"SICCode": "46740",
+			"SICDescription": "Wholesale of hardware, plumbing and heating equipment and supplies"
+		},
+		{
+			"SICCode": "46750",
+			"SICDescription": "Wholesale of chemical products"
+		},
+		{
+			"SICCode": "46760",
+			"SICDescription": "Wholesale of other intermediate products"
+		},
+		{
+			"SICCode": "46770",
+			"SICDescription": "Wholesale of waste and scrap"
+		},
+		{
+			"SICCode": "46900",
+			"SICDescription": "Non-specialised wholesale trade"
+		},
+		{
+			"SICCode": "47110",
+			"SICDescription": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+		},
+		{
+			"SICCode": "47190",
+			"SICDescription": "Other retail sale in non-specialised stores"
+		},
+		{
+			"SICCode": "47210",
+			"SICDescription": "Retail sale of fruit and vegetables in specialised stores"
+		},
+		{
+			"SICCode": "47220",
+			"SICDescription": "Retail sale of meat and meat products in specialised stores"
+		},
+		{
+			"SICCode": "47230",
+			"SICDescription": "Retail sale of fish, crustaceans and molluscs in specialised stores"
+		},
+		{
+			"SICCode": "47240",
+			"SICDescription": "Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"
+		},
+		{
+			"SICCode": "47250",
+			"SICDescription": "Retail sale of beverages in specialised stores"
+		},
+		{
+			"SICCode": "47260",
+			"SICDescription": "Retail sale of tobacco products in specialised stores"
+		},
+		{
+			"SICCode": "47290",
+			"SICDescription": "Other retail sale of food in specialised stores"
+		},
+		{
+			"SICCode": "47300",
+			"SICDescription": "Retail sale of automotive fuel in specialised stores"
+		},
+		{
+			"SICCode": "47410",
+			"SICDescription": "Retail sale of computers, peripheral units and software in specialised stores"
+		},
+		{
+			"SICCode": "47421",
+			"SICDescription": "Retail sale of mobile telephones"
+		},
+		{
+			"SICCode": "47429",
+			"SICDescription": "Retail sale of telecommunications equipment other than mobile telephones"
+		},
+		{
+			"SICCode": "47430",
+			"SICDescription": "Retail sale of audio and video equipment in specialised stores"
+		},
+		{
+			"SICCode": "47510",
+			"SICDescription": "Retail sale of textiles in specialised stores"
+		},
+		{
+			"SICCode": "47520",
+			"SICDescription": "Retail sale of hardware, paints and glass in specialised stores"
+		},
+		{
+			"SICCode": "47530",
+			"SICDescription": "Retail sale of carpets, rugs, wall and floor coverings in specialised stores"
+		},
+		{
+			"SICCode": "47540",
+			"SICDescription": "Retail sale of electrical household appliances in specialised stores"
+		},
+		{
+			"SICCode": "47591",
+			"SICDescription": "Retail sale of musical instruments and scores"
+		},
+		{
+			"SICCode": "47599",
+			"SICDescription": "Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store"
+		},
+		{
+			"SICCode": "47610",
+			"SICDescription": "Retail sale of books in specialised stores"
+		},
+		{
+			"SICCode": "47620",
+			"SICDescription": "Retail sale of newspapers and stationery in specialised stores"
+		},
+		{
+			"SICCode": "47630",
+			"SICDescription": "Retail sale of music and video recordings in specialised stores"
+		},
+		{
+			"SICCode": "47640",
+			"SICDescription": "Retail sale of sports goods, fishing gear, camping goods, boats and bicycles"
+		},
+		{
+			"SICCode": "47650",
+			"SICDescription": "Retail sale of games and toys in specialised stores"
+		},
+		{
+			"SICCode": "47710",
+			"SICDescription": "Retail sale of clothing in specialised stores"
+		},
+		{
+			"SICCode": "47721",
+			"SICDescription": "Retail sale of footwear in specialised stores"
+		},
+		{
+			"SICCode": "47722",
+			"SICDescription": "Retail sale of leather goods in specialised stores"
+		},
+		{
+			"SICCode": "47730",
+			"SICDescription": "Dispensing chemist in specialised stores"
+		},
+		{
+			"SICCode": "47741",
+			"SICDescription": "Retail sale of hearing aids"
+		},
+		{
+			"SICCode": "47749",
+			"SICDescription": "Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c."
+		},
+		{
+			"SICCode": "47750",
+			"SICDescription": "Retail sale of cosmetic and toilet articles in specialised stores"
+		},
+		{
+			"SICCode": "47760",
+			"SICDescription": "Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+		},
+		{
+			"SICCode": "47770",
+			"SICDescription": "Retail sale of watches and jewellery in specialised stores"
+		},
+		{
+			"SICCode": "47781",
+			"SICDescription": "Retail sale in commercial art galleries"
+		},
+		{
+			"SICCode": "47782",
+			"SICDescription": "Retail sale by opticians"
+		},
+		{
+			"SICCode": "47789",
+			"SICDescription": "Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)"
+		},
+		{
+			"SICCode": "47791",
+			"SICDescription": "Retail sale of antiques including antique books in stores"
+		},
+		{
+			"SICCode": "47799",
+			"SICDescription": "Retail sale of other second-hand goods in stores (not incl. antiques)"
+		},
+		{
+			"SICCode": "47810",
+			"SICDescription": "Retail sale via stalls and markets of food, beverages and tobacco products"
+		},
+		{
+			"SICCode": "47820",
+			"SICDescription": "Retail sale via stalls and markets of textiles, clothing and footwear"
+		},
+		{
+			"SICCode": "47890",
+			"SICDescription": "Retail sale via stalls and markets of other goods"
+		},
+		{
+			"SICCode": "47910",
+			"SICDescription": "Retail sale via mail order houses or via Internet"
+		},
+		{
+			"SICCode": "47990",
+			"SICDescription": "Other retail sale not in stores, stalls or markets"
+		},
+		{
+			"SICCode": "49100",
+			"SICDescription": "Passenger rail transport, interurban"
+		},
+		{
+			"SICCode": "49200",
+			"SICDescription": "Freight rail transport"
+		},
+		{
+			"SICCode": "49311",
+			"SICDescription": "Urban and suburban passenger railway transportation by underground, metro and similar systems"
+		},
+		{
+			"SICCode": "49319",
+			"SICDescription": "Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)"
+		},
+		{
+			"SICCode": "49320",
+			"SICDescription": "Taxi operation"
+		},
+		{
+			"SICCode": "49390",
+			"SICDescription": "Other passenger land transport"
+		},
+		{
+			"SICCode": "49410",
+			"SICDescription": "Freight transport by road"
+		},
+		{
+			"SICCode": "49420",
+			"SICDescription": "Removal services"
+		},
+		{
+			"SICCode": "49500",
+			"SICDescription": "Transport via pipeline"
+		},
+		{
+			"SICCode": "50100",
+			"SICDescription": "Sea and coastal passenger water transport"
+		},
+		{
+			"SICCode": "50200",
+			"SICDescription": "Sea and coastal freight water transport"
+		},
+		{
+			"SICCode": "50300",
+			"SICDescription": "Inland passenger water transport"
+		},
+		{
+			"SICCode": "50400",
+			"SICDescription": "Inland freight water transport"
+		},
+		{
+			"SICCode": "51101",
+			"SICDescription": "Scheduled passenger air transport"
+		},
+		{
+			"SICCode": "51102",
+			"SICDescription": "Non-scheduled passenger air transport"
+		},
+		{
+			"SICCode": "51210",
+			"SICDescription": "Freight air transport"
+		},
+		{
+			"SICCode": "51220",
+			"SICDescription": "Space transport"
+		},
+		{
+			"SICCode": "52101",
+			"SICDescription": "Operation of warehousing and storage facilities for water transport activities"
+		},
+		{
+			"SICCode": "52102",
+			"SICDescription": "Operation of warehousing and storage facilities for air transport activities"
+		},
+		{
+			"SICCode": "52103",
+			"SICDescription": "Operation of warehousing and storage facilities for land transport activities"
+		},
+		{
+			"SICCode": "52211",
+			"SICDescription": "Operation of rail freight terminals"
+		},
+		{
+			"SICCode": "52212",
+			"SICDescription": "Operation of rail passenger facilities at railway stations"
+		},
+		{
+			"SICCode": "52213",
+			"SICDescription": "Operation of bus and coach passenger facilities at bus and coach stations"
+		},
+		{
+			"SICCode": "52219",
+			"SICDescription": "Other service activities incidental to land transportation, n.e.c."
+		},
+		{
+			"SICCode": "52220",
+			"SICDescription": "Service activities incidental to water transportation"
+		},
+		{
+			"SICCode": "52230",
+			"SICDescription": "Service activities incidental to air transportation"
+		},
+		{
+			"SICCode": "52241",
+			"SICDescription": "Cargo handling for water transport activities"
+		},
+		{
+			"SICCode": "52242",
+			"SICDescription": "Cargo handling for air transport activities"
+		},
+		{
+			"SICCode": "52243",
+			"SICDescription": "Cargo handling for land transport activities"
+		},
+		{
+			"SICCode": "52290",
+			"SICDescription": "Other transportation support activities"
+		},
+		{
+			"SICCode": "53100",
+			"SICDescription": "Postal activities under universal service obligation"
+		},
+		{
+			"SICCode": "53201",
+			"SICDescription": "Licensed carriers"
+		},
+		{
+			"SICCode": "53202",
+			"SICDescription": "Unlicensed carrier"
+		},
+		{
+			"SICCode": "55100",
+			"SICDescription": "Hotels and similar accommodation"
+		},
+		{
+			"SICCode": "55201",
+			"SICDescription": "Holiday centres and villages"
+		},
+		{
+			"SICCode": "55202",
+			"SICDescription": "Youth hostels"
+		},
+		{
+			"SICCode": "55209",
+			"SICDescription": "Other holiday and other collective accommodation"
+		},
+		{
+			"SICCode": "55300",
+			"SICDescription": "Recreational vehicle parks, trailer parks and camping grounds"
+		},
+		{
+			"SICCode": "55900",
+			"SICDescription": "Other accommodation"
+		},
+		{
+			"SICCode": "56101",
+			"SICDescription": "Licensed restaurants"
+		},
+		{
+			"SICCode": "56102",
+			"SICDescription": "Unlicensed restaurants and cafes"
+		},
+		{
+			"SICCode": "56103",
+			"SICDescription": "Take-away food shops and mobile food stands"
+		},
+		{
+			"SICCode": "56210",
+			"SICDescription": "Event catering activities"
+		},
+		{
+			"SICCode": "56290",
+			"SICDescription": "Other food services"
+		},
+		{
+			"SICCode": "56301",
+			"SICDescription": "Licensed clubs"
+		},
+		{
+			"SICCode": "56302",
+			"SICDescription": "Public houses and bars"
+		},
+		{
+			"SICCode": "58110",
+			"SICDescription": "Book publishing"
+		},
+		{
+			"SICCode": "58120",
+			"SICDescription": "Publishing of directories and mailing lists"
+		},
+		{
+			"SICCode": "58130",
+			"SICDescription": "Publishing of newspapers"
+		},
+		{
+			"SICCode": "58141",
+			"SICDescription": "Publishing of learned journals"
+		},
+		{
+			"SICCode": "58142",
+			"SICDescription": "Publishing of  consumer and business journals and periodicals"
+		},
+		{
+			"SICCode": "58190",
+			"SICDescription": "Other publishing activities"
+		},
+		{
+			"SICCode": "58210",
+			"SICDescription": "Publishing of computer games"
+		},
+		{
+			"SICCode": "58290",
+			"SICDescription": "Other software publishing"
+		},
+		{
+			"SICCode": "59111",
+			"SICDescription": "Motion picture production activities"
+		},
+		{
+			"SICCode": "59112",
+			"SICDescription": "Video production activities"
+		},
+		{
+			"SICCode": "59113",
+			"SICDescription": "Television programme production activities"
+		},
+		{
+			"SICCode": "59120",
+			"SICDescription": "Motion picture, video and television programme post-production activities"
+		},
+		{
+			"SICCode": "59131",
+			"SICDescription": "Motion picture distribution activities"
+		},
+		{
+			"SICCode": "59132",
+			"SICDescription": "Video distribution activities"
+		},
+		{
+			"SICCode": "59133",
+			"SICDescription": "Television programme distribution activities"
+		},
+		{
+			"SICCode": "59140",
+			"SICDescription": "Motion picture projection activities"
+		},
+		{
+			"SICCode": "59200",
+			"SICDescription": "Sound recording and music publishing activities"
+		},
+		{
+			"SICCode": "60100",
+			"SICDescription": "Radio broadcasting"
+		},
+		{
+			"SICCode": "60200",
+			"SICDescription": "Television programming and broadcasting activities"
+		},
+		{
+			"SICCode": "61100",
+			"SICDescription": "Wired telecommunications activities"
+		},
+		{
+			"SICCode": "61200",
+			"SICDescription": "Wireless telecommunications activities"
+		},
+		{
+			"SICCode": "61300",
+			"SICDescription": "Satellite telecommunications activities"
+		},
+		{
+			"SICCode": "61900",
+			"SICDescription": "Other telecommunications activities"
+		},
+		{
+			"SICCode": "62011",
+			"SICDescription": "Ready-made interactive leisure and entertainment software development"
+		},
+		{
+			"SICCode": "62012",
+			"SICDescription": "Business and domestic software development"
+		},
+		{
+			"SICCode": "62020",
+			"SICDescription": "Information technology consultancy activities"
+		},
+		{
+			"SICCode": "62030",
+			"SICDescription": "Computer facilities management activities"
+		},
+		{
+			"SICCode": "62090",
+			"SICDescription": "Other information technology service activities"
+		},
+		{
+			"SICCode": "63110",
+			"SICDescription": "Data processing, hosting and related activities"
+		},
+		{
+			"SICCode": "63120",
+			"SICDescription": "Web portals"
+		},
+		{
+			"SICCode": "63910",
+			"SICDescription": "News agency activities"
+		},
+		{
+			"SICCode": "63990",
+			"SICDescription": "Other information service activities n.e.c."
+		},
+		{
+			"SICCode": "64110",
+			"SICDescription": "Central banking"
+		},
+		{
+			"SICCode": "64191",
+			"SICDescription": "Banks"
+		},
+		{
+			"SICCode": "64192",
+			"SICDescription": "Building societies"
+		},
+		{
+			"SICCode": "64201",
+			"SICDescription": "Activities of agricultural holding companies"
+		},
+		{
+			"SICCode": "64202",
+			"SICDescription": "Activities of production holding companies"
+		},
+		{
+			"SICCode": "64203",
+			"SICDescription": "Activities of construction holding companies"
+		},
+		{
+			"SICCode": "64204",
+			"SICDescription": "Activities of distribution holding companies"
+		},
+		{
+			"SICCode": "64205",
+			"SICDescription": "Activities of financial services holding companies"
+		},
+		{
+			"SICCode": "64209",
+			"SICDescription": "Activities of other holding companies n.e.c."
+		},
+		{
+			"SICCode": "64301",
+			"SICDescription": "Activities of investment trusts"
+		},
+		{
+			"SICCode": "64302",
+			"SICDescription": "Activities of unit trusts"
+		},
+		{
+			"SICCode": "64303",
+			"SICDescription": "Activities of venture and development capital companies"
+		},
+		{
+			"SICCode": "64304",
+			"SICDescription": "Activities of open-ended investment companies"
+		},
+		{
+			"SICCode": "64305",
+			"SICDescription": "Activities of property unit trusts"
+		},
+		{
+			"SICCode": "64306",
+			"SICDescription": "Activities of real estate investment trusts"
+		},
+		{
+			"SICCode": "64910",
+			"SICDescription": "Financial leasing"
+		},
+		{
+			"SICCode": "64921",
+			"SICDescription": "Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors"
+		},
+		{
+			"SICCode": "64922",
+			"SICDescription": "Activities of mortgage finance companies"
+		},
+		{
+			"SICCode": "64929",
+			"SICDescription": "Other credit granting n.e.c."
+		},
+		{
+			"SICCode": "64991",
+			"SICDescription": "Security dealing on own account"
+		},
+		{
+			"SICCode": "64992",
+			"SICDescription": "Factoring"
+		},
+		{
+			"SICCode": "64999",
+			"SICDescription": "Financial intermediation not elsewhere classified"
+		},
+		{
+			"SICCode": "65110",
+			"SICDescription": "Life insurance"
+		},
+		{
+			"SICCode": "65120",
+			"SICDescription": "Non-life insurance"
+		},
+		{
+			"SICCode": "65201",
+			"SICDescription": "Life reinsurance"
+		},
+		{
+			"SICCode": "65202",
+			"SICDescription": "Non-life reinsurance"
+		},
+		{
+			"SICCode": "65300",
+			"SICDescription": "Pension funding"
+		},
+		{
+			"SICCode": "66110",
+			"SICDescription": "Administration of financial markets"
+		},
+		{
+			"SICCode": "66120",
+			"SICDescription": "Security and commodity contracts dealing activities"
+		},
+		{
+			"SICCode": "66190",
+			"SICDescription": "Activities auxiliary to financial intermediation n.e.c."
+		},
+		{
+			"SICCode": "66210",
+			"SICDescription": "Risk and damage evaluation"
+		},
+		{
+			"SICCode": "66220",
+			"SICDescription": "Activities of insurance agents and brokers"
+		},
+		{
+			"SICCode": "66290",
+			"SICDescription": "Other activities auxiliary to insurance and pension funding"
+		},
+		{
+			"SICCode": "66300",
+			"SICDescription": "Fund management activities"
+		},
+		{
+			"SICCode": "68100",
+			"SICDescription": "Buying and selling of own real estate"
+		},
+		{
+			"SICCode": "68201",
+			"SICDescription": "Renting and operating of Housing Association real estate"
+		},
+		{
+			"SICCode": "68202",
+			"SICDescription": "Letting and operating of conference and exhibition centres"
+		},
+		{
+			"SICCode": "68209",
+			"SICDescription": "Other letting and operating of own or leased real estate"
+		},
+		{
+			"SICCode": "68310",
+			"SICDescription": "Real estate agencies"
+		},
+		{
+			"SICCode": "68320",
+			"SICDescription": "Management of real estate on a fee or contract basis"
+		},
+		{
+			"SICCode": "69101",
+			"SICDescription": "Barristers at law"
+		},
+		{
+			"SICCode": "69102",
+			"SICDescription": "Solicitors"
+		},
+		{
+			"SICCode": "69109",
+			"SICDescription": "Activities of patent and copyright agents; other legal activities n.e.c."
+		},
+		{
+			"SICCode": "69201",
+			"SICDescription": "Accounting and auditing activities"
+		},
+		{
+			"SICCode": "69202",
+			"SICDescription": "Bookkeeping activities"
+		},
+		{
+			"SICCode": "69203",
+			"SICDescription": "Tax consultancy"
+		},
+		{
+			"SICCode": "70100",
+			"SICDescription": "Activities of head offices"
+		},
+		{
+			"SICCode": "70210",
+			"SICDescription": "Public relations and communications activities"
+		},
+		{
+			"SICCode": "70221",
+			"SICDescription": "Financial management"
+		},
+		{
+			"SICCode": "70229",
+			"SICDescription": "Management consultancy activities other than financial management"
+		},
+		{
+			"SICCode": "71111",
+			"SICDescription": "Architectural activities"
+		},
+		{
+			"SICCode": "71112",
+			"SICDescription": "Urban planning and landscape architectural activities"
+		},
+		{
+			"SICCode": "71121",
+			"SICDescription": "Engineering design activities for industrial process and production"
+		},
+		{
+			"SICCode": "71122",
+			"SICDescription": "Engineering related scientific and technical consulting activities"
+		},
+		{
+			"SICCode": "71129",
+			"SICDescription": "Other engineering activities"
+		},
+		{
+			"SICCode": "71200",
+			"SICDescription": "Technical testing and analysis"
+		},
+		{
+			"SICCode": "72110",
+			"SICDescription": "Research and experimental development on biotechnology"
+		},
+		{
+			"SICCode": "72190",
+			"SICDescription": "Other research and experimental development on natural sciences and engineering"
+		},
+		{
+			"SICCode": "72200",
+			"SICDescription": "Research and experimental development on social sciences and humanities"
+		},
+		{
+			"SICCode": "73110",
+			"SICDescription": "Advertising agencies"
+		},
+		{
+			"SICCode": "73120",
+			"SICDescription": "Media representation services"
+		},
+		{
+			"SICCode": "73200",
+			"SICDescription": "Market research and public opinion polling"
+		},
+		{
+			"SICCode": "74100",
+			"SICDescription": "specialised design activities"
+		},
+		{
+			"SICCode": "74201",
+			"SICDescription": "Portrait photographic activities"
+		},
+		{
+			"SICCode": "74202",
+			"SICDescription": "Other specialist photography"
+		},
+		{
+			"SICCode": "74203",
+			"SICDescription": "Film processing"
+		},
+		{
+			"SICCode": "74209",
+			"SICDescription": "Photographic activities not elsewhere classified"
+		},
+		{
+			"SICCode": "74300",
+			"SICDescription": "Translation and interpretation activities"
+		},
+		{
+			"SICCode": "74901",
+			"SICDescription": "Environmental consulting activities"
+		},
+		{
+			"SICCode": "74902",
+			"SICDescription": "Quantity surveying activities"
+		},
+		{
+			"SICCode": "74909",
+			"SICDescription": "Other professional, scientific and technical activities n.e.c."
+		},
+		{
+			"SICCode": "74990",
+			"SICDescription": "Non-trading company"
+		},
+		{
+			"SICCode": "75000",
+			"SICDescription": "Veterinary activities"
+		},
+		{
+			"SICCode": "77110",
+			"SICDescription": "Renting and leasing of cars and light motor vehicles"
+		},
+		{
+			"SICCode": "77120",
+			"SICDescription": "Renting and leasing of trucks and other heavy vehicles"
+		},
+		{
+			"SICCode": "77210",
+			"SICDescription": "Renting and leasing of recreational and sports goods"
+		},
+		{
+			"SICCode": "77220",
+			"SICDescription": "Renting of video tapes and disks"
+		},
+		{
+			"SICCode": "77291",
+			"SICDescription": "Renting and leasing of media entertainment equipment"
+		},
+		{
+			"SICCode": "77299",
+			"SICDescription": "Renting and leasing of other personal and household goods"
+		},
+		{
+			"SICCode": "77310",
+			"SICDescription": "Renting and leasing of agricultural machinery and equipment"
+		},
+		{
+			"SICCode": "77320",
+			"SICDescription": "Renting and leasing of construction and civil engineering machinery and equipment"
+		},
+		{
+			"SICCode": "77330",
+			"SICDescription": "Renting and leasing of office machinery and equipment (including computers)"
+		},
+		{
+			"SICCode": "77341",
+			"SICDescription": "Renting and leasing of passenger water transport equipment"
+		},
+		{
+			"SICCode": "77342",
+			"SICDescription": "Renting and leasing of freight water transport equipment"
+		},
+		{
+			"SICCode": "77351",
+			"SICDescription": "Renting and leasing of air passenger transport equipment"
+		},
+		{
+			"SICCode": "77352",
+			"SICDescription": "Renting and leasing of freight air transport equipment"
+		},
+		{
+			"SICCode": "77390",
+			"SICDescription": "Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+		},
+		{
+			"SICCode": "77400",
+			"SICDescription": "Leasing of intellectual property and similar products, except copyright works"
+		},
+		{
+			"SICCode": "78101",
+			"SICDescription": "Motion picture, television and other theatrical casting activities"
+		},
+		{
+			"SICCode": "78109",
+			"SICDescription": "Other activities of employment placement agencies"
+		},
+		{
+			"SICCode": "78200",
+			"SICDescription": "Temporary employment agency activities"
+		},
+		{
+			"SICCode": "78300",
+			"SICDescription": "Human resources provision and management of human resources functions"
+		},
+		{
+			"SICCode": "79110",
+			"SICDescription": "Travel agency activities"
+		},
+		{
+			"SICCode": "79120",
+			"SICDescription": "Tour operator activities"
+		},
+		{
+			"SICCode": "79901",
+			"SICDescription": "Activities of tourist guides"
+		},
+		{
+			"SICCode": "79909",
+			"SICDescription": "Other reservation service activities n.e.c."
+		},
+		{
+			"SICCode": "80100",
+			"SICDescription": "Private security activities"
+		},
+		{
+			"SICCode": "80200",
+			"SICDescription": "Security systems service activities"
+		},
+		{
+			"SICCode": "80300",
+			"SICDescription": "Investigation activities"
+		},
+		{
+			"SICCode": "81100",
+			"SICDescription": "Combined facilities support activities"
+		},
+		{
+			"SICCode": "81210",
+			"SICDescription": "General cleaning of buildings"
+		},
+		{
+			"SICCode": "81221",
+			"SICDescription": "Window cleaning services"
+		},
+		{
+			"SICCode": "81222",
+			"SICDescription": "Specialised cleaning services"
+		},
+		{
+			"SICCode": "81223",
+			"SICDescription": "Furnace and chimney cleaning services"
+		},
+		{
+			"SICCode": "81229",
+			"SICDescription": "Other building and industrial cleaning activities"
+		},
+		{
+			"SICCode": "81291",
+			"SICDescription": "Disinfecting and exterminating services"
+		},
+		{
+			"SICCode": "81299",
+			"SICDescription": "Other cleaning services"
+		},
+		{
+			"SICCode": "81300",
+			"SICDescription": "Landscape service activities"
+		},
+		{
+			"SICCode": "82110",
+			"SICDescription": "Combined office administrative service activities"
+		},
+		{
+			"SICCode": "82190",
+			"SICDescription": "Photocopying, document preparation and other specialised office support activities"
+		},
+		{
+			"SICCode": "82200",
+			"SICDescription": "Activities of call centres"
+		},
+		{
+			"SICCode": "82301",
+			"SICDescription": "Activities of exhibition and fair organisers"
+		},
+		{
+			"SICCode": "82302",
+			"SICDescription": "Activities of conference organisers"
+		},
+		{
+			"SICCode": "82911",
+			"SICDescription": "Activities of collection agencies"
+		},
+		{
+			"SICCode": "82912",
+			"SICDescription": "Activities of credit bureaus"
+		},
+		{
+			"SICCode": "82920",
+			"SICDescription": "Packaging activities"
+		},
+		{
+			"SICCode": "82990",
+			"SICDescription": "Other business support service activities n.e.c."
+		},
+		{
+			"SICCode": "84110",
+			"SICDescription": "General public administration activities"
+		},
+		{
+			"SICCode": "84120",
+			"SICDescription": "Regulation of health care, education, cultural and other social services, not incl. social security"
+		},
+		{
+			"SICCode": "84130",
+			"SICDescription": "Regulation of and contribution to more efficient operation of businesses"
+		},
+		{
+			"SICCode": "84210",
+			"SICDescription": "Foreign affairs"
+		},
+		{
+			"SICCode": "84220",
+			"SICDescription": "Defence activities"
+		},
+		{
+			"SICCode": "84230",
+			"SICDescription": "Justice and judicial activities"
+		},
+		{
+			"SICCode": "84240",
+			"SICDescription": "Public order and safety activities"
+		},
+		{
+			"SICCode": "84250",
+			"SICDescription": "Fire service activities"
+		},
+		{
+			"SICCode": "84300",
+			"SICDescription": "Compulsory social security activities"
+		},
+		{
+			"SICCode": "85100",
+			"SICDescription": "Pre-primary education"
+		},
+		{
+			"SICCode": "85200",
+			"SICDescription": "Primary education"
+		},
+		{
+			"SICCode": "85310",
+			"SICDescription": "General secondary education"
+		},
+		{
+			"SICCode": "85320",
+			"SICDescription": "Technical and vocational secondary education"
+		},
+		{
+			"SICCode": "85410",
+			"SICDescription": "Post-secondary non-tertiary education"
+		},
+		{
+			"SICCode": "85421",
+			"SICDescription": "First-degree level higher education"
+		},
+		{
+			"SICCode": "85422",
+			"SICDescription": "Post-graduate level higher education"
+		},
+		{
+			"SICCode": "85510",
+			"SICDescription": "Sports and recreation education"
+		},
+		{
+			"SICCode": "85520",
+			"SICDescription": "Cultural education"
+		},
+		{
+			"SICCode": "85530",
+			"SICDescription": "Driving school activities"
+		},
+		{
+			"SICCode": "85590",
+			"SICDescription": "Other education n.e.c."
+		},
+		{
+			"SICCode": "85600",
+			"SICDescription": "Educational support services"
+		},
+		{
+			"SICCode": "86101",
+			"SICDescription": "Hospital activities"
+		},
+		{
+			"SICCode": "86102",
+			"SICDescription": "Medical nursing home activities"
+		},
+		{
+			"SICCode": "86210",
+			"SICDescription": "General medical practice activities"
+		},
+		{
+			"SICCode": "86220",
+			"SICDescription": "Specialists medical practice activities"
+		},
+		{
+			"SICCode": "86230",
+			"SICDescription": "Dental practice activities"
+		},
+		{
+			"SICCode": "86900",
+			"SICDescription": "Other human health activities"
+		},
+		{
+			"SICCode": "87100",
+			"SICDescription": "Residential nursing care facilities"
+		},
+		{
+			"SICCode": "87200",
+			"SICDescription": "Residential care activities for learning difficulties, mental health and substance abuse"
+		},
+		{
+			"SICCode": "87300",
+			"SICDescription": "Residential care activities for the elderly and disabled"
+		},
+		{
+			"SICCode": "87900",
+			"SICDescription": "Other residential care activities n.e.c."
+		},
+		{
+			"SICCode": "88100",
+			"SICDescription": "Social work activities without accommodation for the elderly and disabled"
+		},
+		{
+			"SICCode": "88910",
+			"SICDescription": "Child day-care activities"
+		},
+		{
+			"SICCode": "88990",
+			"SICDescription": "Other social work activities without accommodation n.e.c."
+		},
+		{
+			"SICCode": "90010",
+			"SICDescription": "Performing arts"
+		},
+		{
+			"SICCode": "90020",
+			"SICDescription": "Support activities to performing arts"
+		},
+		{
+			"SICCode": "90030",
+			"SICDescription": "Artistic creation"
+		},
+		{
+			"SICCode": "90040",
+			"SICDescription": "Operation of arts facilities"
+		},
+		{
+			"SICCode": "91011",
+			"SICDescription": "Library activities"
+		},
+		{
+			"SICCode": "91012",
+			"SICDescription": "Archives activities"
+		},
+		{
+			"SICCode": "91020",
+			"SICDescription": "Museums activities"
+		},
+		{
+			"SICCode": "91030",
+			"SICDescription": "Operation of historical sites and buildings and similar visitor attractions"
+		},
+		{
+			"SICCode": "91040",
+			"SICDescription": "Botanical and zoological gardens and nature reserves activities"
+		},
+		{
+			"SICCode": "92000",
+			"SICDescription": "Gambling and betting activities"
+		},
+		{
+			"SICCode": "93110",
+			"SICDescription": "Operation of sports facilities"
+		},
+		{
+			"SICCode": "93120",
+			"SICDescription": "Activities of sport clubs"
+		},
+		{
+			"SICCode": "93130",
+			"SICDescription": "Fitness facilities"
+		},
+		{
+			"SICCode": "93191",
+			"SICDescription": "Activities of racehorse owners"
+		},
+		{
+			"SICCode": "93199",
+			"SICDescription": "Other sports activities"
+		},
+		{
+			"SICCode": "93210",
+			"SICDescription": "Activities of amusement parks and theme parks"
+		},
+		{
+			"SICCode": "93290",
+			"SICDescription": "Other amusement and recreation activities n.e.c."
+		},
+		{
+			"SICCode": "94110",
+			"SICDescription": "Activities of business and employers membership organizations"
+		},
+		{
+			"SICCode": "94120",
+			"SICDescription": "Activities of professional membership organizations"
+		},
+		{
+			"SICCode": "94200",
+			"SICDescription": "Activities of trade unions"
+		},
+		{
+			"SICCode": "94910",
+			"SICDescription": "Activities of religious organizations"
+		},
+		{
+			"SICCode": "94920",
+			"SICDescription": "Activities of political organizations"
+		},
+		{
+			"SICCode": "94990",
+			"SICDescription": "Activities of other membership organizations n.e.c."
+		},
+		{
+			"SICCode": "95110",
+			"SICDescription": "Repair of computers and peripheral equipment"
+		},
+		{
+			"SICCode": "95120",
+			"SICDescription": "Repair of communication equipment"
+		},
+		{
+			"SICCode": "95210",
+			"SICDescription": "Repair of consumer electronics"
+		},
+		{
+			"SICCode": "95220",
+			"SICDescription": "Repair of household appliances and home and garden equipment"
+		},
+		{
+			"SICCode": "95230",
+			"SICDescription": "Repair of footwear and leather goods"
+		},
+		{
+			"SICCode": "95240",
+			"SICDescription": "Repair of furniture and home furnishings"
+		},
+		{
+			"SICCode": "95250",
+			"SICDescription": "Repair of watches, clocks and jewellery"
+		},
+		{
+			"SICCode": "95290",
+			"SICDescription": "Repair of personal and household goods n.e.c."
+		},
+		{
+			"SICCode": "96010",
+			"SICDescription": "Washing and (dry-)cleaning of textile and fur products"
+		},
+		{
+			"SICCode": "96020",
+			"SICDescription": "Hairdressing and other beauty treatment"
+		},
+		{
+			"SICCode": "96030",
+			"SICDescription": "Funeral and related activities"
+		},
+		{
+			"SICCode": "96040",
+			"SICDescription": "Physical well-being activities"
+		},
+		{
+			"SICCode": "96090",
+			"SICDescription": "Other service activities n.e.c."
+		},
+		{
+			"SICCode": "97000",
+			"SICDescription": "Activities of households as employers of domestic personnel"
+		},
+		{
+			"SICCode": "98000",
+			"SICDescription": "Residents property management"
+		},
+		{
+			"SICCode": "98100",
+			"SICDescription": "Undifferentiated goods-producing activities of private households for own use"
+		},
+		{
+			"SICCode": "98200",
+			"SICDescription": "Undifferentiated service-producing activities of private households for own use"
+		},
+		{
+			"SICCode": "99000",
+			"SICDescription": "Activities of extraterritorial organizations and bodies"
+		},
+		{
+			"SICCode": "99999",
+			"SICDescription": "Dormant Company"
+		}
+	]
+}

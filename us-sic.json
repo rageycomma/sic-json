@@ -1,0 +1,4834 @@
+{
+	"SICCodes": [{
+			"SICCode": "0111",
+			"SICDescription": "Wheat Farming"
+		},
+		{
+			"SICCode": "0112",
+			"SICDescription": "Rice Farming"
+		},
+		{
+			"SICCode": "0115",
+			"SICDescription": "Corn Farming"
+		},
+		{
+			"SICCode": "0116",
+			"SICDescription": "Soybean Farming"
+		},
+		{
+			"SICCode": "0119",
+			"SICDescription": "Dry Pea and Bean Farming"
+		},
+		{
+			"SICCode": "0119",
+			"SICDescription": "All Other Grain Farming"
+		},
+		{
+			"SICCode": "0119",
+			"SICDescription": "Oilseed (Except Soybean) Farming"
+		},
+		{
+			"SICCode": "0119",
+			"SICDescription": "Oilseed and Grain Combination Farming"
+		},
+		{
+			"SICCode": "0131",
+			"SICDescription": "Cotton Farming"
+		},
+		{
+			"SICCode": "0132",
+			"SICDescription": "Tobacco Farming"
+		},
+		{
+			"SICCode": "0133",
+			"SICDescription": "Sugar Beet Farming"
+		},
+		{
+			"SICCode": "0133",
+			"SICDescription": "Sugarcane Farming"
+		},
+		{
+			"SICCode": "0134",
+			"SICDescription": "Potato Farming"
+		},
+		{
+			"SICCode": "0139",
+			"SICDescription": "All Other Misc. Crop Farming"
+		},
+		{
+			"SICCode": "0139",
+			"SICDescription": "Hay Farming"
+		},
+		{
+			"SICCode": "0139",
+			"SICDescription": "Peanut Farming"
+		},
+		{
+			"SICCode": "0161",
+			"SICDescription": "Other Vegetable (Except Potato) and Melon Farming"
+		},
+		{
+			"SICCode": "0171",
+			"SICDescription": "Berry (Except Strawberry) Farming"
+		},
+		{
+			"SICCode": "0171",
+			"SICDescription": "Strawberry Farming"
+		},
+		{
+			"SICCode": "0172",
+			"SICDescription": "Grape Vineyards"
+		},
+		{
+			"SICCode": "0173",
+			"SICDescription": "Tree Nut Farming"
+		},
+		{
+			"SICCode": "0174",
+			"SICDescription": "Citrus (Except Orange) Groves"
+		},
+		{
+			"SICCode": "0174",
+			"SICDescription": "Orange Groves"
+		},
+		{
+			"SICCode": "0175",
+			"SICDescription": "Apple Orchards"
+		},
+		{
+			"SICCode": "0175",
+			"SICDescription": "Other Noncitrus Fruit Farming"
+		},
+		{
+			"SICCode": "0179",
+			"SICDescription": "Fruit and Tree Nut Combination Farming"
+		},
+		{
+			"SICCode": "0181",
+			"SICDescription": "Nursery and Tree Production"
+		},
+		{
+			"SICCode": "0181",
+			"SICDescription": "Floriculture Production"
+		},
+		{
+			"SICCode": "0182",
+			"SICDescription": "Mushroom Production"
+		},
+		{
+			"SICCode": "0182",
+			"SICDescription": "Other Food Crops Grown under Cover"
+		},
+		{
+			"SICCode": "0191",
+			"SICDescription": "All Other Misc. Crop Farming"
+		},
+		{
+			"SICCode": "0211",
+			"SICDescription": "Cattle Feedlots"
+		},
+		{
+			"SICCode": "0212",
+			"SICDescription": "Support Activities for Animal Production"
+		},
+		{
+			"SICCode": "0212",
+			"SICDescription": "Beef Cattle Ranching and Farming"
+		},
+		{
+			"SICCode": "0213",
+			"SICDescription": "Hog and Pig Farming"
+		},
+		{
+			"SICCode": "0214",
+			"SICDescription": "Goat Farming"
+		},
+		{
+			"SICCode": "0214",
+			"SICDescription": "Sheep Farming"
+		},
+		{
+			"SICCode": "0219",
+			"SICDescription": "Animal Production NOC"
+		},
+		{
+			"SICCode": "0241",
+			"SICDescription": "Dairy Cattle and Milk Production"
+		},
+		{
+			"SICCode": "0251",
+			"SICDescription": "Broilers and Other Meat Type Chicken Production"
+		},
+		{
+			"SICCode": "0252",
+			"SICDescription": "Chicken Egg Production"
+		},
+		{
+			"SICCode": "0253",
+			"SICDescription": "Turkey Production"
+		},
+		{
+			"SICCode": "0254",
+			"SICDescription": "Poultry Hatcheries"
+		},
+		{
+			"SICCode": "0259",
+			"SICDescription": "Other Poultry Production"
+		},
+		{
+			"SICCode": "0271",
+			"SICDescription": "Fur-Bearing Animal and Rabbit Production"
+		},
+		{
+			"SICCode": "0272",
+			"SICDescription": "Horses and Other Equine Production"
+		},
+		{
+			"SICCode": "0272",
+			"SICDescription": "Support Activities for Animal Production"
+		},
+		{
+			"SICCode": "0279",
+			"SICDescription": "Apiculture"
+		},
+		{
+			"SICCode": "0279",
+			"SICDescription": "Other Aquaculture"
+		},
+		{
+			"SICCode": "0721",
+			"SICDescription": "Soil Preparation, Planting, and Cultivating"
+		},
+		{
+			"SICCode": "0722",
+			"SICDescription": "Crop Harvesting, Primarily by Machine"
+		},
+		{
+			"SICCode": "0723",
+			"SICDescription": "Postharvest Crop Activities (Except Cotton Ginning)"
+		},
+		{
+			"SICCode": "0724",
+			"SICDescription": "Cotton Ginning"
+		},
+		{
+			"SICCode": "0741",
+			"SICDescription": "Veterinary Services"
+		},
+		{
+			"SICCode": "0742",
+			"SICDescription": "Veterinary Services"
+		},
+		{
+			"SICCode": "0752",
+			"SICDescription": "Pet Care (Except Veterinary) Services"
+		},
+		{
+			"SICCode": "0761",
+			"SICDescription": "Farm Labor Contractors and Crew Leaders"
+		},
+		{
+			"SICCode": "0762",
+			"SICDescription": "Farm Management Services"
+		},
+		{
+			"SICCode": "0781",
+			"SICDescription": "Landscape Architectural Services"
+		},
+		{
+			"SICCode": "0782",
+			"SICDescription": "Landscaping Services"
+		},
+		{
+			"SICCode": "0783",
+			"SICDescription": "Landscaping Services"
+		},
+		{
+			"SICCode": "0811",
+			"SICDescription": "Timber Tract Operations"
+		},
+		{
+			"SICCode": "0831",
+			"SICDescription": "Forest Nurseries and Gathering of Forest Products"
+		},
+		{
+			"SICCode": "0851",
+			"SICDescription": "Support Activities for Forestry"
+		},
+		{
+			"SICCode": "0912",
+			"SICDescription": "Finfish Fishing"
+		},
+		{
+			"SICCode": "0913",
+			"SICDescription": "Shellfish Fishing"
+		},
+		{
+			"SICCode": "0919",
+			"SICDescription": "Other Marine Fishing"
+		},
+		{
+			"SICCode": "0921",
+			"SICDescription": "Finfish Farming and Fish Hatcheries"
+		},
+		{
+			"SICCode": "0921",
+			"SICDescription": "Shellfish Farming"
+		},
+		{
+			"SICCode": "0971",
+			"SICDescription": "Hunting and Trapping"
+		},
+		{
+			"SICCode": "1011",
+			"SICDescription": "Iron Ore Mining"
+		},
+		{
+			"SICCode": "1021",
+			"SICDescription": "Copper Ore and Nickel Ore Mining"
+		},
+		{
+			"SICCode": "1031",
+			"SICDescription": "Lead Ore and Zinc Ore Mining"
+		},
+		{
+			"SICCode": "1041",
+			"SICDescription": "Gold Ore Mining"
+		},
+		{
+			"SICCode": "1044",
+			"SICDescription": "Silver Ore Mining"
+		},
+		{
+			"SICCode": "1081",
+			"SICDescription": "Dredging: Gold--Endless Bucket or Ladder Type"
+		},
+		{
+			"SICCode": "1081",
+			"SICDescription": "Site Preparation Contractors"
+		},
+		{
+			"SICCode": "1094",
+			"SICDescription": "Uranium, Radium, Vanadium Ore Mining"
+		},
+		{
+			"SICCode": "1099",
+			"SICDescription": "All Other Metal Ore Mining"
+		},
+		{
+			"SICCode": "1221",
+			"SICDescription": "Bituminous Coal and Lignite Surface Mining"
+		},
+		{
+			"SICCode": "1222",
+			"SICDescription": "Bituminous Coal Underground Mining"
+		},
+		{
+			"SICCode": "1231",
+			"SICDescription": "Anthracite Mining"
+		},
+		{
+			"SICCode": "1241",
+			"SICDescription": "Support Activities for Coal Mining"
+		},
+		{
+			"SICCode": "1311",
+			"SICDescription": "Natural Gas Liquid Extraction"
+		},
+		{
+			"SICCode": "1311",
+			"SICDescription": "Crude Petroleum and Natural Gas Extraction"
+		},
+		{
+			"SICCode": "1321",
+			"SICDescription": "Natural Gas Liquid Extraction"
+		},
+		{
+			"SICCode": "1381",
+			"SICDescription": "Drilling Oil and Gas Wells"
+		},
+		{
+			"SICCode": "1381",
+			"SICDescription": "Support Activities for Oil and Gas Operations"
+		},
+		{
+			"SICCode": "1382",
+			"SICDescription": "Geophysical Surveying and Mapping Services"
+		},
+		{
+			"SICCode": "1382",
+			"SICDescription": "Support Activities for Oil and Gas Operations"
+		},
+		{
+			"SICCode": "1389",
+			"SICDescription": "Support Activities for Oil and Gas Operations"
+		},
+		{
+			"SICCode": "1389",
+			"SICDescription": "Natural Gas Liquid Extraction"
+		},
+		{
+			"SICCode": "1411",
+			"SICDescription": "Dimension Stone Mining and Quarrying"
+		},
+		{
+			"SICCode": "1422",
+			"SICDescription": "Crushed and Broken Limestone Mining and Quarrying"
+		},
+		{
+			"SICCode": "1423",
+			"SICDescription": "Crushed and Broken Granite Mining and Quarrying"
+		},
+		{
+			"SICCode": "1429",
+			"SICDescription": "Other Crushed and Broken Stone Mining and Quarrying"
+		},
+		{
+			"SICCode": "1442",
+			"SICDescription": "Construction Sand and Gravel Mining"
+		},
+		{
+			"SICCode": "1446",
+			"SICDescription": "Industrial Sand Mining"
+		},
+		{
+			"SICCode": "1459",
+			"SICDescription": "Clay and Ceramic and Refractory Minerals Mining"
+		},
+		{
+			"SICCode": "1474",
+			"SICDescription": "Potash, Soda, and Borate Mineral Mining"
+		},
+		{
+			"SICCode": "1475",
+			"SICDescription": "Phosphate Rock Mining"
+		},
+		{
+			"SICCode": "1481",
+			"SICDescription": "Support Activities for Nonmetallic Minerals (Except Fuels) Mining"
+		},
+		{
+			"SICCode": "1499",
+			"SICDescription": "All Other Nonmetallic Mineral Mining"
+		},
+		{
+			"SICCode": "1521",
+			"SICDescription": "Residential Remodelers"
+		},
+		{
+			"SICCode": "1521",
+			"SICDescription": "New Single-Family Housing Construction (Except For-Sale Builders)"
+		},
+		{
+			"SICCode": "1522",
+			"SICDescription": "New Multifamily Housing Construction (Except For-Sale Builders)"
+		},
+		{
+			"SICCode": "1531",
+			"SICDescription": "New Housing For-Sale Builders"
+		},
+		{
+			"SICCode": "1611",
+			"SICDescription": "Poured Concrete Foundation and Structure Contractors"
+		},
+		{
+			"SICCode": "1611",
+			"SICDescription": "Highway, Street, and Bridge Construction"
+		},
+		{
+			"SICCode": "1611",
+			"SICDescription": "Site Preparation Contractors"
+		},
+		{
+			"SICCode": "1622",
+			"SICDescription": "Highway, Street, and Bridge Construction"
+		},
+		{
+			"SICCode": "1622",
+			"SICDescription": "Other Heavy and Civil Engineering Construction"
+		},
+		{
+			"SICCode": "1623",
+			"SICDescription": "Power and Communication Line and Related Structures Construction"
+		},
+		{
+			"SICCode": "1623",
+			"SICDescription": "Highway, Street, and Bridge Construction"
+		},
+		{
+			"SICCode": "1623",
+			"SICDescription": "Oil and Gas Pipeline and Related Structures Construction"
+		},
+		{
+			"SICCode": "1623",
+			"SICDescription": "Water and Sewer Line and Related Structures Construction"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Site Preparation Contractors"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Other Heavy and Civil Engineering Construction"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Poured Concrete Foundation and Structure Contractors"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Other Building Equipment Contractors"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Water and Sewer Line and Related Structures Construction"
+		},
+		{
+			"SICCode": "1629",
+			"SICDescription": "Power and Communication Line and Related Structures Construction"
+		},
+		{
+			"SICCode": "1711",
+			"SICDescription": "Plumbing, Heating, and Air Conditioning Contractors"
+		},
+		{
+			"SICCode": "1721",
+			"SICDescription": "Highway, Street, and Bridge Construction"
+		},
+		{
+			"SICCode": "1721",
+			"SICDescription": "Painting and Wall Covering Contractors"
+		},
+		{
+			"SICCode": "1731",
+			"SICDescription": "Electrical Contractors and Other Wiring Installation Contractors"
+		},
+		{
+			"SICCode": "1731",
+			"SICDescription": "Security Systems Services (Except Locksmiths)"
+		},
+		{
+			"SICCode": "1741",
+			"SICDescription": "Masonry Contractors"
+		},
+		{
+			"SICCode": "1742",
+			"SICDescription": "Drywall and Insulation Contractors"
+		},
+		{
+			"SICCode": "1743",
+			"SICDescription": "Tile and Terrazzo Contractors"
+		},
+		{
+			"SICCode": "1751",
+			"SICDescription": "Framing Contractors"
+		},
+		{
+			"SICCode": "1751",
+			"SICDescription": "Finish Carpentry Contractors"
+		},
+		{
+			"SICCode": "1752",
+			"SICDescription": "Flooring Contractors"
+		},
+		{
+			"SICCode": "1761",
+			"SICDescription": "Siding Contractors"
+		},
+		{
+			"SICCode": "1761",
+			"SICDescription": "Other Building Finishing Contractors"
+		},
+		{
+			"SICCode": "1761",
+			"SICDescription": "Other Foundation, Structure, and Building Exterior Contractors"
+		},
+		{
+			"SICCode": "1761",
+			"SICDescription": "Roofing Contractors"
+		},
+		{
+			"SICCode": "1771",
+			"SICDescription": "Masonry Contractors"
+		},
+		{
+			"SICCode": "1771",
+			"SICDescription": "Poured Concrete Foundation and Structure Contractors"
+		},
+		{
+			"SICCode": "1771",
+			"SICDescription": "All Other Specialty Trade Contractors"
+		},
+		{
+			"SICCode": "1771",
+			"SICDescription": "Structural Steel and Precast Concrete Contractors"
+		},
+		{
+			"SICCode": "1781",
+			"SICDescription": "Water and Sewer Line and Related Structures Construction"
+		},
+		{
+			"SICCode": "1791",
+			"SICDescription": "Structural Steel and Precast Concrete Contractors"
+		},
+		{
+			"SICCode": "1791",
+			"SICDescription": "Other Foundation, Structure, and Building Exterior Contractors"
+		},
+		{
+			"SICCode": "1793",
+			"SICDescription": "Glass and Glazing Contractors"
+		},
+		{
+			"SICCode": "1794",
+			"SICDescription": "Site Preparation Contractors"
+		},
+		{
+			"SICCode": "1794",
+			"SICDescription": "Structural Steel and Precast Concrete Contractors"
+		},
+		{
+			"SICCode": "1795",
+			"SICDescription": "Site Preparation Contractors"
+		},
+		{
+			"SICCode": "1796",
+			"SICDescription": "Other Building Equipment Contractors"
+		},
+		{
+			"SICCode": "1796",
+			"SICDescription": "Other Building Finishing Contractors"
+		},
+		{
+			"SICCode": "1796",
+			"SICDescription": "All Other Specialty Trade Contractors"
+		},
+		{
+			"SICCode": "1796",
+			"SICDescription": "Building Equipment Contractors"
+		},
+		{
+			"SICCode": "1796",
+			"SICDescription": "Other Foundation, Structure, and Building Exterior Contractors"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "Other Building Finishing Contractors"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "Other Heavy and Civil Engineering Construction"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "Other Foundation, Structure, and Building Exterior Contractors"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "All Other Specialty Trade Contractors"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "Commercial and Institutional Building Construction"
+		},
+		{
+			"SICCode": "1799",
+			"SICDescription": "Remediation Services"
+		},
+		{
+			"SICCode": "2011",
+			"SICDescription": "Animal (Except Poultry) Slaughtering"
+		},
+		{
+			"SICCode": "2013",
+			"SICDescription": "Meat Processed from Carcasses"
+		},
+		{
+			"SICCode": "2015",
+			"SICDescription": "Poultry Processing"
+		},
+		{
+			"SICCode": "2021",
+			"SICDescription": "Creamery Butter Mfg."
+		},
+		{
+			"SICCode": "2022",
+			"SICDescription": "Cheese Mfg."
+		},
+		{
+			"SICCode": "2023",
+			"SICDescription": "Dry, Condensed, and Evaporated Dairy Product Mfg."
+		},
+		{
+			"SICCode": "2024",
+			"SICDescription": "Ice Cream and Frozen Dessert Mfg."
+		},
+		{
+			"SICCode": "2026",
+			"SICDescription": "Fluid Milk Mfg."
+		},
+		{
+			"SICCode": "2032",
+			"SICDescription": "All Other Misc. Food Mfg."
+		},
+		{
+			"SICCode": "2032",
+			"SICDescription": "Specialty Canning"
+		},
+		{
+			"SICCode": "2032",
+			"SICDescription": "Seafood Product Preparation and Packaging"
+		},
+		{
+			"SICCode": "2033",
+			"SICDescription": "Fruit and Vegetable Canning"
+		},
+		{
+			"SICCode": "2034",
+			"SICDescription": "Dried and Dehydrated Food Mfg."
+		},
+		{
+			"SICCode": "2034",
+			"SICDescription": "Frozen Fruit, Juice, and Vegetable Mfg."
+		},
+		{
+			"SICCode": "2035",
+			"SICDescription": "Fruit and Vegetable Canning"
+		},
+		{
+			"SICCode": "2037",
+			"SICDescription": "Frozen Fruit, Juice, and Vegetable Mfg."
+		},
+		{
+			"SICCode": "2038",
+			"SICDescription": "Frozen Specialty Food Mfg."
+		},
+		{
+			"SICCode": "2041",
+			"SICDescription": "Flour Milling"
+		},
+		{
+			"SICCode": "2043",
+			"SICDescription": "Breakfast Cereal Mfg."
+		},
+		{
+			"SICCode": "2044",
+			"SICDescription": "Rice Milling"
+		},
+		{
+			"SICCode": "2045",
+			"SICDescription": "Dry Pasta, Dough, and Flour Mixes Mfg. from Purchased Flour"
+		},
+		{
+			"SICCode": "2046",
+			"SICDescription": "Wet Corn Milling"
+		},
+		{
+			"SICCode": "2047",
+			"SICDescription": "Dog and Cat Food Mfg."
+		},
+		{
+			"SICCode": "2048",
+			"SICDescription": "Other Animal Food Mfg."
+		},
+		{
+			"SICCode": "2051",
+			"SICDescription": "Commercial Bakeries"
+		},
+		{
+			"SICCode": "2051",
+			"SICDescription": "Frozen Cakes, Pies, and Other Pastries Mfg."
+		},
+		{
+			"SICCode": "2052",
+			"SICDescription": "Cookie and Cracker Mfg."
+		},
+		{
+			"SICCode": "2061",
+			"SICDescription": "Cane Sugar Mfg."
+		},
+		{
+			"SICCode": "2062",
+			"SICDescription": "Cane Sugar Mfg."
+		},
+		{
+			"SICCode": "2063",
+			"SICDescription": "Beet Sugar Mfg."
+		},
+		{
+			"SICCode": "2064",
+			"SICDescription": "Nonchocolate Confectionery Mfg."
+		},
+		{
+			"SICCode": "2066",
+			"SICDescription": "Chocolate and Confectionery Mfg. from Cacao Beans"
+		},
+		{
+			"SICCode": "2066",
+			"SICDescription": "Confectionery Mfg. from Purchased Chocolate"
+		},
+		{
+			"SICCode": "2067",
+			"SICDescription": "Nonchocolate Confectionery Mfg."
+		},
+		{
+			"SICCode": "2068",
+			"SICDescription": "Roasted Nuts and Peanut Butter Mfg."
+		},
+		{
+			"SICCode": "2074",
+			"SICDescription": "Soybean and Other Oilseed Processing"
+		},
+		{
+			"SICCode": "2075",
+			"SICDescription": "Soybean and Other Oilseed Processing"
+		},
+		{
+			"SICCode": "2076",
+			"SICDescription": "Soybean and Other Oilseed Processing"
+		},
+		{
+			"SICCode": "2077",
+			"SICDescription": "Rendering and Meat Byproduct Processing"
+		},
+		{
+			"SICCode": "2079",
+			"SICDescription": "Fats and Oils Refining and Blending"
+		},
+		{
+			"SICCode": "2082",
+			"SICDescription": "Breweries"
+		},
+		{
+			"SICCode": "2083",
+			"SICDescription": "Malt Mfg."
+		},
+		{
+			"SICCode": "2084",
+			"SICDescription": "Wineries"
+		},
+		{
+			"SICCode": "2085",
+			"SICDescription": "Distilleries"
+		},
+		{
+			"SICCode": "2086",
+			"SICDescription": "Soft Drink Mfg."
+		},
+		{
+			"SICCode": "2086",
+			"SICDescription": "Bottled Water Mfg."
+		},
+		{
+			"SICCode": "2087",
+			"SICDescription": "Flavoring Syrup and Concentrate Mfg."
+		},
+		{
+			"SICCode": "2087",
+			"SICDescription": "Spice and Extract Mfg."
+		},
+		{
+			"SICCode": "2087",
+			"SICDescription": "All Other Misc. Food Mfg."
+		},
+		{
+			"SICCode": "2091",
+			"SICDescription": "Seafood Product Preparation and Packaging"
+		},
+		{
+			"SICCode": "2092",
+			"SICDescription": "Seafood Product Preparation and Packaging"
+		},
+		{
+			"SICCode": "2095",
+			"SICDescription": "Coffee and Tea Mfg."
+		},
+		{
+			"SICCode": "2096",
+			"SICDescription": "Other Snack Food Mfg."
+		},
+		{
+			"SICCode": "2097",
+			"SICDescription": "Ice Mfg."
+		},
+		{
+			"SICCode": "2098",
+			"SICDescription": "Dry Pasta, Dough, and Flour Mixes Mfg. from Purchased Flour"
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "All Other Misc. Food Mfg."
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "Roasted Nuts and Peanut Butter Mfg."
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "Mayonnaise, Dressing, and Other Prepared Sauce Mfg."
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "Perishable Prepared Food Mfg."
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "Spice and Extract Mfg."
+		},
+		{
+			"SICCode": "2099",
+			"SICDescription": "Tortilla Mfg."
+		},
+		{
+			"SICCode": "2111",
+			"SICDescription": "Tobacco Mfg."
+		},
+		{
+			"SICCode": "2121",
+			"SICDescription": "Tobacco Mfg."
+		},
+		{
+			"SICCode": "2131",
+			"SICDescription": "Tobacco Mfg."
+		},
+		{
+			"SICCode": "2141",
+			"SICDescription": "Tobacco Mfg."
+		},
+		{
+			"SICCode": "2211",
+			"SICDescription": "Broadwoven Fabric Mills"
+		},
+		{
+			"SICCode": "2221",
+			"SICDescription": "Broadwoven Fabric Mills"
+		},
+		{
+			"SICCode": "2231",
+			"SICDescription": "Broadwoven Fabric Mills"
+		},
+		{
+			"SICCode": "2241",
+			"SICDescription": "Narrow Fabric Mills and Schiffli Machine Embroidery"
+		},
+		{
+			"SICCode": "2251",
+			"SICDescription": "Hosiery and Sock Mills"
+		},
+		{
+			"SICCode": "2252",
+			"SICDescription": "Hosiery and Sock Mills"
+		},
+		{
+			"SICCode": "2253",
+			"SICDescription": "Other Apparel Knitting Mills"
+		},
+		{
+			"SICCode": "2254",
+			"SICDescription": "Other Apparel Knitting Mills"
+		},
+		{
+			"SICCode": "2258",
+			"SICDescription": "Knit Fabric Mills"
+		},
+		{
+			"SICCode": "2259",
+			"SICDescription": "Other Apparel Knitting Mills"
+		},
+		{
+			"SICCode": "2259",
+			"SICDescription": "Knit Fabric Mills"
+		},
+		{
+			"SICCode": "2269",
+			"SICDescription": "Textile and Fabric Finishing Mills"
+		},
+		{
+			"SICCode": "2273",
+			"SICDescription": "Carpet and Rug Mills"
+		},
+		{
+			"SICCode": "2281",
+			"SICDescription": "Fiber, Yarn, and Thread Mills"
+		},
+		{
+			"SICCode": "2281",
+			"SICDescription": "Textile and Fabric Finishing Mills"
+		},
+		{
+			"SICCode": "2282",
+			"SICDescription": "Fiber, Yarn, and Thread Mills"
+		},
+		{
+			"SICCode": "2284",
+			"SICDescription": "Fiber, Yarn, and Thread Mills"
+		},
+		{
+			"SICCode": "2284",
+			"SICDescription": "Textile and Fabric Finishing Mills"
+		},
+		{
+			"SICCode": "2295",
+			"SICDescription": "Fabric Coating Mills"
+		},
+		{
+			"SICCode": "2296",
+			"SICDescription": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+		},
+		{
+			"SICCode": "2298",
+			"SICDescription": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+		},
+		{
+			"SICCode": "2299",
+			"SICDescription": "All Other Misc. Textile Product Mills"
+		},
+		{
+			"SICCode": "2299",
+			"SICDescription": "Broadwoven Fabric Mills"
+		},
+		{
+			"SICCode": "2299",
+			"SICDescription": "Nonwoven Fabric Mills"
+		},
+		{
+			"SICCode": "2321",
+			"SICDescription": "Mens and Boys Cut and Sew Apparel Mfg."
+		},
+		{
+			"SICCode": "2323",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "2326",
+			"SICDescription": "Mens and Boys Cut and Sew Apparel Mfg."
+		},
+		{
+			"SICCode": "2329",
+			"SICDescription": "Mens and Boys Cut and Sew Apparel Mfg."
+		},
+		{
+			"SICCode": "2331",
+			"SICDescription": "Womens, Girls and Infants Cut and Sew Apparel Mfg."
+		}, {
+			"SICCode": "2353",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "2371",
+			"SICDescription": "Other Cut and Sew Apparel Mfg."
+		},
+		{
+			"SICCode": "2381",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "2389",
+			"SICDescription": "Other Cut and Sew Apparel Mfg."
+		},
+		{
+			"SICCode": "2389",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "2391",
+			"SICDescription": "Curtain and Linen Mills"
+		},
+		{
+			"SICCode": "2392",
+			"SICDescription": "Curtain and Linen Mills"
+		},
+		{
+			"SICCode": "2393",
+			"SICDescription": "Textile Bag and Canvas Mills"
+		},
+		{
+			"SICCode": "2394",
+			"SICDescription": "Textile Bag and Canvas Mills"
+		},
+		{
+			"SICCode": "2396",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "2396",
+			"SICDescription": "Commercial Screen Printing"
+		},
+		{
+			"SICCode": "2397",
+			"SICDescription": "Narrow Fabric Mills and Schiffli Machine Embroidery"
+		},
+		{
+			"SICCode": "2399",
+			"SICDescription": "All Other Misc. Textile Product Mills"
+		},
+		{
+			"SICCode": "2411",
+			"SICDescription": "Logging"
+		},
+		{
+			"SICCode": "2421",
+			"SICDescription": "Sawmills"
+		},
+		{
+			"SICCode": "2421",
+			"SICDescription": "Other Millwork (Including Flooring)"
+		},
+		{
+			"SICCode": "2426",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "2429",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "2431",
+			"SICDescription": "Wood Window and Door Mfg."
+		},
+		{
+			"SICCode": "2434",
+			"SICDescription": "Wood Kitchen Cabinet and Countertop Mfg."
+		},
+		{
+			"SICCode": "2435",
+			"SICDescription": "Hardwood Veneer and Plywood Mfg."
+		},
+		{
+			"SICCode": "2436",
+			"SICDescription": "Softwood Veneer and Plywood Mfg."
+		},
+		{
+			"SICCode": "2439",
+			"SICDescription": "Engineered Wood Member (Except Truss) Mfg."
+		},
+		{
+			"SICCode": "2439",
+			"SICDescription": "Cut Stock, Resawing Lumber, and Planing"
+		},
+		{
+			"SICCode": "2439",
+			"SICDescription": "Truss Mfg."
+		},
+		{
+			"SICCode": "2441",
+			"SICDescription": "Wood Container and Pallet Mfg."
+		},
+		{
+			"SICCode": "2448",
+			"SICDescription": "Wood Container and Pallet Mfg."
+		},
+		{
+			"SICCode": "2449",
+			"SICDescription": "Wood Container and Pallet Mfg."
+		},
+		{
+			"SICCode": "2449",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "2451",
+			"SICDescription": "Manufactured Home (Mobile Home) Mfg."
+		},
+		{
+			"SICCode": "2452",
+			"SICDescription": "Prefabricated Wood Building Mfg."
+		},
+		{
+			"SICCode": "2491",
+			"SICDescription": "Wood Preservation"
+		},
+		{
+			"SICCode": "2493",
+			"SICDescription": "Reconstituted Wood Product Mfg."
+		},
+		{
+			"SICCode": "2499",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "2499",
+			"SICDescription": "Wood Container and Pallet Mfg."
+		},
+		{
+			"SICCode": "2499",
+			"SICDescription": "All Other Misc. Mfg."
+		},
+		{
+			"SICCode": "2511",
+			"SICDescription": "Custom Architectural Woodwork and Millwork Mfg."
+		},
+		{
+			"SICCode": "2511",
+			"SICDescription": "Nonupholstered Wood Household Furniture Mfg."
+		},
+		{
+			"SICCode": "2514",
+			"SICDescription": "Metal Household Furniture Mfg."
+		},
+		{
+			"SICCode": "2515",
+			"SICDescription": "Mattress Mfg."
+		},
+		{
+			"SICCode": "2517",
+			"SICDescription": "Nonupholstered Wood Household Furniture Mfg."
+		},
+		{
+			"SICCode": "2519",
+			"SICDescription": "Household Furniture (Except Wood and Metal) Mfg."
+		},
+		{
+			"SICCode": "2521",
+			"SICDescription": "Wood Office Furniture Mfg."
+		},
+		{
+			"SICCode": "2522",
+			"SICDescription": "Office Furniture (Except Wood) Mfg."
+		},
+		{
+			"SICCode": "2531",
+			"SICDescription": "Office Supplies (Except Paper) Mfg."
+		},
+		{
+			"SICCode": "2591",
+			"SICDescription": "Blind and Shade Mfg."
+		},
+		{
+			"SICCode": "2611",
+			"SICDescription": "Pulp Mills"
+		},
+		{
+			"SICCode": "2621",
+			"SICDescription": "Paper (Except Newsprint) Mills"
+		},
+		{
+			"SICCode": "2621",
+			"SICDescription": "Newsprint Mills"
+		},
+		{
+			"SICCode": "2631",
+			"SICDescription": "Paperboard Mills"
+		},
+		{
+			"SICCode": "2652",
+			"SICDescription": "Other Paperboard Container Mfg."
+		},
+		{
+			"SICCode": "2653",
+			"SICDescription": "Corrugated and Solid Fiber Box Mfg."
+		},
+		{
+			"SICCode": "2655",
+			"SICDescription": "Other Paperboard Container Mfg."
+		},
+		{
+			"SICCode": "2656",
+			"SICDescription": "Other Paperboard Container Mfg."
+		},
+		{
+			"SICCode": "2657",
+			"SICDescription": "Folding Paperboard Box Mfg."
+		},
+		{
+			"SICCode": "2671",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2671",
+			"SICDescription": "Plastics Packaging Film and Sheet (Including Laminated) Mfg."
+		},
+		{
+			"SICCode": "2672",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2673",
+			"SICDescription": "Plastics Bag and Pouch Mfg."
+		},
+		{
+			"SICCode": "2673",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2674",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2675",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2675",
+			"SICDescription": "Stationery Product Mfg."
+		},
+		{
+			"SICCode": "2676",
+			"SICDescription": "Sanitary Paper Product Mfg."
+		},
+		{
+			"SICCode": "2677",
+			"SICDescription": "Stationery Product Mfg."
+		},
+		{
+			"SICCode": "2678",
+			"SICDescription": "Stationery Product Mfg."
+		},
+		{
+			"SICCode": "2679",
+			"SICDescription": "All Other Converted Paper Product Mfg."
+		},
+		{
+			"SICCode": "2679",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "2711",
+			"SICDescription": "Newspaper Publishers"
+		},
+		{
+			"SICCode": "2721",
+			"SICDescription": "Periodical Publishers"
+		},
+		{
+			"SICCode": "2731",
+			"SICDescription": "Book Publishers"
+		},
+		{
+			"SICCode": "2732",
+			"SICDescription": "Books Printing"
+		},
+		{
+			"SICCode": "2741",
+			"SICDescription": "All Other Publishers"
+		},
+		{
+			"SICCode": "2752",
+			"SICDescription": "Commercial Printing (Except Screen and Books)"
+		},
+		{
+			"SICCode": "2754",
+			"SICDescription": "Commercial Printing (Except Screen and Books)"
+		},
+		{
+			"SICCode": "2754",
+			"SICDescription": "Commercial Gravure Printing"
+		},
+		{
+			"SICCode": "2759",
+			"SICDescription": "Commercial Printing (Except Screen and Books)"
+		},
+		{
+			"SICCode": "2761",
+			"SICDescription": "Commercial Printing (Except Screen and Books)"
+		},
+		{
+			"SICCode": "2771",
+			"SICDescription": "Greeting Card Publishers"
+		},
+		{
+			"SICCode": "2782",
+			"SICDescription": "Books Printing"
+		},
+		{
+			"SICCode": "2789",
+			"SICDescription": "Support Activities for Printing"
+		},
+		{
+			"SICCode": "2791",
+			"SICDescription": "Support Activities for Printing"
+		},
+		{
+			"SICCode": "2812",
+			"SICDescription": "Other Basic Inorganic Chemical Mfg."
+		},
+		{
+			"SICCode": "2813",
+			"SICDescription": "Industrial Gas Mfg."
+		},
+		{
+			"SICCode": "2816",
+			"SICDescription": "Synthetic Dye and Pigment Mfg."
+		},
+		{
+			"SICCode": "2819",
+			"SICDescription": "Alumina Refining and Primary Aluminum Production"
+		},
+		{
+			"SICCode": "2819",
+			"SICDescription": "All Other Misc. Chemical Product and Preparation Mfg."
+		},
+		{
+			"SICCode": "2819",
+			"SICDescription": "Other Basic Inorganic Chemical Mfg."
+		},
+		{
+			"SICCode": "2821",
+			"SICDescription": "Plastics Material and Resin Mfg."
+		},
+		{
+			"SICCode": "2822",
+			"SICDescription": "Synthetic Rubber Mfg."
+		},
+		{
+			"SICCode": "2823",
+			"SICDescription": "Artificial and Synthetic Fibers and Filaments Mfg."
+		},
+		{
+			"SICCode": "2824",
+			"SICDescription": "Artificial and Synthetic Fibers and Filaments Mfg."
+		},
+		{
+			"SICCode": "2833",
+			"SICDescription": "Medicinal and Botanical Mfg."
+		},
+		{
+			"SICCode": "2834",
+			"SICDescription": "Pharmaceutical Preparation Mfg."
+		},
+		{
+			"SICCode": "2835",
+			"SICDescription": "In-Vitro Diagnostic Substance Mfg."
+		},
+		{
+			"SICCode": "2836",
+			"SICDescription": "Biological Product (Except Diagnostic) Mfg."
+		},
+		{
+			"SICCode": "2841",
+			"SICDescription": "Soap and Other Detergent Mfg."
+		},
+		{
+			"SICCode": "2842",
+			"SICDescription": "Polish and Other Sanitation Good Mfg."
+		},
+		{
+			"SICCode": "2843",
+			"SICDescription": "Surface Active Agent Mfg."
+		},
+		{
+			"SICCode": "2843",
+			"SICDescription": "Nitrogenous Fertilizer Mfg."
+		},
+		{
+			"SICCode": "2844",
+			"SICDescription": "Toilet Preparation Mfg."
+		},
+		{
+			"SICCode": "2851",
+			"SICDescription": "Paint and Coating Mfg."
+		},
+		{
+			"SICCode": "2861",
+			"SICDescription": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Mfg."
+		},
+		{
+			"SICCode": "2865",
+			"SICDescription": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Mfg."
+		},
+		{
+			"SICCode": "2865",
+			"SICDescription": "Synthetic Dye and Pigment Mfg."
+		},
+		{
+			"SICCode": "2869",
+			"SICDescription": "Ethyl Alcohol Mfg."
+		},
+		{
+			"SICCode": "2869",
+			"SICDescription": "All Other Basic Organic Chemical Mfg."
+		},
+		{
+			"SICCode": "2873",
+			"SICDescription": "Nitrogenous Fertilizer Mfg."
+		},
+		{
+			"SICCode": "2874",
+			"SICDescription": "Phosphatic Fertilizer Mfg."
+		},
+		{
+			"SICCode": "2875",
+			"SICDescription": "Fertilizer (Mixing Only) Mfg."
+		},
+		{
+			"SICCode": "2879",
+			"SICDescription": "Pesticide and Other Agricultural Chemical Mfg."
+		},
+		{
+			"SICCode": "2891",
+			"SICDescription": "Adhesive Mfg."
+		},
+		{
+			"SICCode": "2892",
+			"SICDescription": "Explosives Mfg."
+		},
+		{
+			"SICCode": "2893",
+			"SICDescription": "Printing Ink Mfg."
+		},
+		{
+			"SICCode": "2899",
+			"SICDescription": "All Other Misc. Chemical Product and Preparation Mfg."
+		},
+		{
+			"SICCode": "2899",
+			"SICDescription": "Spice and Extract Mfg."
+		},
+		{
+			"SICCode": "2911",
+			"SICDescription": "Petroleum Refineries"
+		},
+		{
+			"SICCode": "2951",
+			"SICDescription": "Asphalt Paving Mixture and Block Mfg."
+		},
+		{
+			"SICCode": "2952",
+			"SICDescription": "Asphalt Shingle and Coating Materials Mfg."
+		},
+		{
+			"SICCode": "2992",
+			"SICDescription": "Petroleum Lubricating Oil and Grease Mfg."
+		},
+		{
+			"SICCode": "2999",
+			"SICDescription": "All Other Petroleum and Coal Products Mfg."
+		},
+		{
+			"SICCode": "3011",
+			"SICDescription": "Tire Mfg. (Except Retreading)"
+		},
+		{
+			"SICCode": "3021",
+			"SICDescription": "Footwear Mfg."
+		},
+		{
+			"SICCode": "3052",
+			"SICDescription": "Rubber and Plastics Hoses and Belting Mfg."
+		},
+		{
+			"SICCode": "3053",
+			"SICDescription": "Gasket, Packing, and Sealing Device Mfg."
+		},
+		{
+			"SICCode": "3061",
+			"SICDescription": "Rubber Product Mfg. for Mechanical Use"
+		},
+		{
+			"SICCode": "3069",
+			"SICDescription": "All Other Rubber Product Mfg."
+		},
+		{
+			"SICCode": "3069",
+			"SICDescription": "All Other Plastics Product Mfg."
+		},
+		{
+			"SICCode": "3081",
+			"SICDescription": "Unlaminated Plastics Film and Sheet (Except Packaging) Mfg."
+		},
+		{
+			"SICCode": "3082",
+			"SICDescription": "Unlaminated Plastics Profile Shape Mfg."
+		},
+		{
+			"SICCode": "3083",
+			"SICDescription": "Laminated Plastics Plate, Sheet (Except Packaging), and Shape Mfg."
+		},
+		{
+			"SICCode": "3084",
+			"SICDescription": "Plastics Pipe and Pipe Fitting Mfg."
+		},
+		{
+			"SICCode": "3085",
+			"SICDescription": "Plastics Bottle Mfg."
+		},
+		{
+			"SICCode": "3086",
+			"SICDescription": "Urethane and Other Foam Product (Except Polystyrene) Mfg."
+		},
+		{
+			"SICCode": "3086",
+			"SICDescription": "Plastics Pipe and Pipe Fitting Mfg."
+		},
+		{
+			"SICCode": "3086",
+			"SICDescription": "Polystyrene Foam Product Mfg."
+		},
+		{
+			"SICCode": "3087",
+			"SICDescription": "Custom Compounding of Purchased Resins"
+		},
+		{
+			"SICCode": "3088",
+			"SICDescription": "Plastics Plumbing Fixture Mfg."
+		},
+		{
+			"SICCode": "3089",
+			"SICDescription": "All Other Plastics Product Mfg."
+		},
+		{
+			"SICCode": "3111",
+			"SICDescription": "Leather and Hide Tanning and Finishing"
+		},
+		{
+			"SICCode": "3131",
+			"SICDescription": "All Other Leather Good and Allied Product Mfg."
+		},
+		{
+			"SICCode": "3142",
+			"SICDescription": "Footwear Mfg."
+		},
+		{
+			"SICCode": "3143",
+			"SICDescription": "Footwear Mfg."
+		},
+		{
+			"SICCode": "3144",
+			"SICDescription": "Footwear Mfg."
+		},
+		{
+			"SICCode": "3149",
+			"SICDescription": "Footwear Mfg."
+		},
+		{
+			"SICCode": "3151",
+			"SICDescription": "Apparel Accessories and Other Apparel Mfg."
+		},
+		{
+			"SICCode": "3161",
+			"SICDescription": "All Other Leather Good and Allied Product Mfg."
+		},
+		{
+			"SICCode": "3171",
+			"SICDescription": "Womens Handbag and Purse Mfg."
+		},
+		{
+			"SICCode": "3172",
+			"SICDescription": "All Other Leather Good and Allied Product Mfg."
+		},
+		{
+			"SICCode": "3199",
+			"SICDescription": "All Other Leather Good and Allied Product Mfg."
+		},
+		{
+			"SICCode": "3211",
+			"SICDescription": "Flat Glass Mfg."
+		},
+		{
+			"SICCode": "3221",
+			"SICDescription": "Glass Container Mfg."
+		},
+		{
+			"SICCode": "3229",
+			"SICDescription": "Other Pressed and Blown Glass and Glassware Mfg."
+		},
+		{
+			"SICCode": "3231",
+			"SICDescription": "Glass Product Mfg. Made of Purchased Glass"
+		},
+		{
+			"SICCode": "3241",
+			"SICDescription": "Cement Mfg."
+		},
+		{
+			"SICCode": "3251",
+			"SICDescription": "Clay Building Material and Refractories Mfg."
+		},
+		{
+			"SICCode": "3253",
+			"SICDescription": "Clay Building Material and Refractories Mfg."
+		},
+		{
+			"SICCode": "3255",
+			"SICDescription": "Clay Building Material and Refractories Mfg."
+		},
+		{
+			"SICCode": "3259",
+			"SICDescription": "Clay Building Material and Refractories Mfg."
+		},
+		{
+			"SICCode": "3261",
+			"SICDescription": "Pottery, Ceramics, and Plumbing Fixture Mfg."
+		},
+		{
+			"SICCode": "3263",
+			"SICDescription": "Pottery, Ceramics, and Plumbing Fixture Mfg."
+		},
+		{
+			"SICCode": "3264",
+			"SICDescription": "Pottery, Ceramics, and Plumbing Fixture Mfg."
+		},
+		{
+			"SICCode": "3269",
+			"SICDescription": "Pottery, Ceramics, and Plumbing Fixture Mfg."
+		},
+		{
+			"SICCode": "3271",
+			"SICDescription": "Concrete Block and Brick Mfg."
+		},
+		{
+			"SICCode": "3272",
+			"SICDescription": "Concrete Pipe Mfg."
+		},
+		{
+			"SICCode": "3272",
+			"SICDescription": "Other Concrete Product Mfg."
+		},
+		{
+			"SICCode": "3273",
+			"SICDescription": "Ready-Mix Concrete Mfg."
+		},
+		{
+			"SICCode": "3274",
+			"SICDescription": "Lime Mfg."
+		},
+		{
+			"SICCode": "3281",
+			"SICDescription": "Cut Stone and Stone Product Mfg."
+		},
+		{
+			"SICCode": "3291",
+			"SICDescription": "Abrasive Product Mfg."
+		},
+		{
+			"SICCode": "3291",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3292",
+			"SICDescription": "All Other Misc. Nonmetallic Mineral Product Mfg."
+		},
+		{
+			"SICCode": "3295",
+			"SICDescription": "Ground or Treated Mineral and Earth Mfg."
+		},
+		{
+			"SICCode": "3296",
+			"SICDescription": "Mineral Wool Mfg."
+		},
+		{
+			"SICCode": "3297",
+			"SICDescription": "Clay Building Material and Refractories Mfg."
+		},
+		{
+			"SICCode": "3299",
+			"SICDescription": "All Other Misc. Nonmetallic Mineral Product Mfg."
+		},
+		{
+			"SICCode": "3299",
+			"SICDescription": "Gypsum Product Mfg."
+		},
+		{
+			"SICCode": "3312",
+			"SICDescription": "All Other Petroleum and Coal Products Mfg."
+		},
+		{
+			"SICCode": "3312",
+			"SICDescription": "Iron and Steel Mills and Ferroalloy Mfg."
+		},
+		{
+			"SICCode": "3313",
+			"SICDescription": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (Except Copper and Aluminum)"
+		},
+		{
+			"SICCode": "3313",
+			"SICDescription": "Iron and Steel Mills and Ferroalloy Mfg."
+		},
+		{
+			"SICCode": "3315",
+			"SICDescription": "Other Fabricated Wire Product Mfg."
+		},
+		{
+			"SICCode": "3315",
+			"SICDescription": "Steel Wire Drawing"
+		},
+		{
+			"SICCode": "3316",
+			"SICDescription": "Rolled Steel Shape Mfg."
+		},
+		{
+			"SICCode": "3317",
+			"SICDescription": "Iron and Steel Pipe and Tube Mfg. from Purchased Steel"
+		},
+		{
+			"SICCode": "3321",
+			"SICDescription": "Iron Foundries"
+		},
+		{
+			"SICCode": "3322",
+			"SICDescription": "Iron Foundries"
+		},
+		{
+			"SICCode": "3324",
+			"SICDescription": "Steel Investment Foundries"
+		},
+		{
+			"SICCode": "3325",
+			"SICDescription": "Steel Foundries (Except Investment)"
+		},
+		{
+			"SICCode": "3331",
+			"SICDescription": "Nonferrous Metal (Except Aluminum) Smelting and Refining"
+		},
+		{
+			"SICCode": "3334",
+			"SICDescription": "Alumina Refining and Primary Aluminum Production"
+		},
+		{
+			"SICCode": "3339",
+			"SICDescription": "Nonferrous Metal (Except Aluminum) Smelting and Refining"
+		},
+		{
+			"SICCode": "3341",
+			"SICDescription": "Secondary Smelting and Alloying of Aluminum"
+		},
+		{
+			"SICCode": "3351",
+			"SICDescription": "Copper Rolling, Drawing, Extruding, and Alloying"
+		},
+		{
+			"SICCode": "3353",
+			"SICDescription": "Aluminum Sheet, Plate, and Foil Mfg."
+		},
+		{
+			"SICCode": "3354",
+			"SICDescription": "Other Aluminum Rolling, Drawing, and Extruding"
+		},
+		{
+			"SICCode": "3356",
+			"SICDescription": "Nonferrous Metal (Except Copper and Aluminum) Rolling, Drawing, and Extruding"
+		},
+		{
+			"SICCode": "3357",
+			"SICDescription": "Nonferrous Metal (Except Copper and Aluminum) Rolling, Drawing, and Extruding"
+		},
+		{
+			"SICCode": "3357",
+			"SICDescription": "Copper Rolling, Drawing, Extruding, and Alloying"
+		},
+		{
+			"SICCode": "3357",
+			"SICDescription": "Fiber Optic Cable Mfg."
+		},
+		{
+			"SICCode": "3357",
+			"SICDescription": "Other Communication and Energy Wire Mfg."
+		},
+		{
+			"SICCode": "3363",
+			"SICDescription": "Aluminum Die-Casting Foundries"
+		},
+		{
+			"SICCode": "3364",
+			"SICDescription": "Nonferrous Metal Die-Casting Foundries"
+		},
+		{
+			"SICCode": "3365",
+			"SICDescription": "Aluminum Foundries (Except Die-Casting)"
+		},
+		{
+			"SICCode": "3366",
+			"SICDescription": "Other Nonferrous Metal Foundries (Except Die-Casting)"
+		},
+		{
+			"SICCode": "3369",
+			"SICDescription": "Other Nonferrous Metal Foundries (Except Die-Casting)"
+		},
+		{
+			"SICCode": "3398",
+			"SICDescription": "Metal Heat Treating"
+		},
+		{
+			"SICCode": "3411",
+			"SICDescription": "Metal Can Mfg."
+		},
+		{
+			"SICCode": "3412",
+			"SICDescription": "Other Metal Container Mfg."
+		},
+		{
+			"SICCode": "3421",
+			"SICDescription": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (Except Precious) Mfg."
+		},
+		{
+			"SICCode": "3421",
+			"SICDescription": "Saw Blade and Handtool Mfg."
+		},
+		{
+			"SICCode": "3423",
+			"SICDescription": "Saw Blade and Handtool Mfg."
+		},
+		{
+			"SICCode": "3425",
+			"SICDescription": "Saw Blade and Handtool Mfg."
+		},
+		{
+			"SICCode": "3429",
+			"SICDescription": "Hardware Mfg."
+		},
+		{
+			"SICCode": "3431",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3432",
+			"SICDescription": "Plumbing Fixture Fitting and Trim Mfg."
+		},
+		{
+			"SICCode": "3433",
+			"SICDescription": "Heating Equipment (Except Warm Air Furnaces) Mfg."
+		},
+		{
+			"SICCode": "3441",
+			"SICDescription": "Fabricated Structural Metal Mfg."
+		},
+		{
+			"SICCode": "3442",
+			"SICDescription": "Metal Window and Door Mfg."
+		},
+		{
+			"SICCode": "3443",
+			"SICDescription": "Plate Work Mfg."
+		},
+		{
+			"SICCode": "3443",
+			"SICDescription": "Power Boiler and Heat Exchanger Mfg."
+		},
+		{
+			"SICCode": "3443",
+			"SICDescription": "Metal Tank (Heavy Gauge) Mfg."
+		},
+		{
+			"SICCode": "3444",
+			"SICDescription": "Sheet Metal Work Mfg."
+		},
+		{
+			"SICCode": "3446",
+			"SICDescription": "Ornamental and Architectural Metal Work Mfg."
+		},
+		{
+			"SICCode": "3448",
+			"SICDescription": "Prefabricated Metal Building and Component Mfg."
+		},
+		{
+			"SICCode": "3449",
+			"SICDescription": "Fabricated Structural Metal Mfg."
+		},
+		{
+			"SICCode": "3449",
+			"SICDescription": "Custom Roll Forming"
+		},
+		{
+			"SICCode": "3451",
+			"SICDescription": "Precision Turned Product Mfg."
+		},
+		{
+			"SICCode": "3452",
+			"SICDescription": "Bolt, Nut, Screw, Rivet, and Washer Mfg."
+		},
+		{
+			"SICCode": "3462",
+			"SICDescription": "Iron and Steel Forging"
+		},
+		{
+			"SICCode": "3463",
+			"SICDescription": "Nonferrous Forging"
+		},
+		{
+			"SICCode": "3465",
+			"SICDescription": "Motor Vehicle Metal Stamping"
+		},
+		{
+			"SICCode": "3466",
+			"SICDescription": "Metal Crown, Closure, and Other Metal Stamping (Except Automotive)"
+		},
+		{
+			"SICCode": "3469",
+			"SICDescription": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (Except Precious) Mfg."
+		},
+		{
+			"SICCode": "3469",
+			"SICDescription": "Metal Crown, Closure, and Other Metal Stamping (Except Automotive)"
+		},
+		{
+			"SICCode": "3469",
+			"SICDescription": "Powder Metallurgy Part Mfg."
+		},
+		{
+			"SICCode": "3471",
+			"SICDescription": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+		},
+		{
+			"SICCode": "3479",
+			"SICDescription": "Metal Coating, Engraving (Except Jewelry and Silverware), and Allied Services to Manufacturers"
+		},
+		{
+			"SICCode": "3482",
+			"SICDescription": "Small Arms Ammunition Mfg."
+		},
+		{
+			"SICCode": "3483",
+			"SICDescription": "Ammunition (Except Small Arms) Mfg."
+		},
+		{
+			"SICCode": "3484",
+			"SICDescription": "Small Arms, Ordnance, and Ordnance Accessories Mfg."
+		},
+		{
+			"SICCode": "3489",
+			"SICDescription": "Small Arms, Ordnance, and Ordnance Accessories Mfg."
+		},
+		{
+			"SICCode": "3491",
+			"SICDescription": "Industrial Valve Mfg."
+		},
+		{
+			"SICCode": "3492",
+			"SICDescription": "Fluid Power Valve and Hose Fitting Mfg."
+		},
+		{
+			"SICCode": "3493",
+			"SICDescription": "Spring Mfg."
+		},
+		{
+			"SICCode": "3495",
+			"SICDescription": "Spring Mfg."
+		},
+		{
+			"SICCode": "3495",
+			"SICDescription": "Other Measuring and Controlling Device Mfg."
+		},
+		{
+			"SICCode": "3497",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3497",
+			"SICDescription": "Paper Bag and Coated and Treated Paper Mfg."
+		},
+		{
+			"SICCode": "3498",
+			"SICDescription": "Fabricated Pipe and Pipe Fitting Mfg."
+		},
+		{
+			"SICCode": "3499",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3499",
+			"SICDescription": "Hardware Mfg."
+		},
+		{
+			"SICCode": "3511",
+			"SICDescription": "Turbine and Turbine Generator Set Units Mfg."
+		},
+		{
+			"SICCode": "3519",
+			"SICDescription": "Other Engine Equipment Mfg."
+		},
+		{
+			"SICCode": "3523",
+			"SICDescription": "Farm Machinery and Equipment Mfg."
+		},
+		{
+			"SICCode": "3524",
+			"SICDescription": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Mfg."
+		},
+		{
+			"SICCode": "3531",
+			"SICDescription": "Construction Machinery Mfg."
+		},
+		{
+			"SICCode": "3532",
+			"SICDescription": "Mining Machinery and Equipment Mfg."
+		},
+		{
+			"SICCode": "3533",
+			"SICDescription": "Oil and Gas Field Machinery and Equipment Mfg."
+		},
+		{
+			"SICCode": "3534",
+			"SICDescription": "Elevator and Moving Stairway Mfg."
+		},
+		{
+			"SICCode": "3535",
+			"SICDescription": "Conveyor and Conveying Equipment Mfg."
+		},
+		{
+			"SICCode": "3536",
+			"SICDescription": "Overhead Traveling Crane, Hoist, and Monorail System Mfg."
+		},
+		{
+			"SICCode": "3537",
+			"SICDescription": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Mfg."
+		},
+		{
+			"SICCode": "3541",
+			"SICDescription": "Machine Tool Mfg."
+		},
+		{
+			"SICCode": "3542",
+			"SICDescription": "Machine Tool Mfg."
+		},
+		{
+			"SICCode": "3543",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "3543",
+			"SICDescription": "Industrial Pattern Mfg."
+		},
+		{
+			"SICCode": "3543",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3544",
+			"SICDescription": "Industrial Mold Mfg."
+		},
+		{
+			"SICCode": "3544",
+			"SICDescription": "Saw Blade and Handtool Mfg."
+		},
+		{
+			"SICCode": "3544",
+			"SICDescription": "Special Die and Tool, Die Set, Jig, and Fixture Mfg."
+		},
+		{
+			"SICCode": "3545",
+			"SICDescription": "Cutting Tool and Machine Tool Accessory Mfg."
+		},
+		{
+			"SICCode": "3546",
+			"SICDescription": "Power-Driven Handtool Mfg."
+		},
+		{
+			"SICCode": "3547",
+			"SICDescription": "Rolling Mill and Other Metalworking Machinery Mfg."
+		},
+		{
+			"SICCode": "3549",
+			"SICDescription": "Rolling Mill and Other Metalworking Machinery Mfg."
+		},
+		{
+			"SICCode": "3552",
+			"SICDescription": "Other Industrial Machinery Mfg."
+		},
+		{
+			"SICCode": "3553",
+			"SICDescription": "Sawmill, Woodworking, and Paper Machinery Mfg."
+		},
+		{
+			"SICCode": "3554",
+			"SICDescription": "Sawmill, Woodworking, and Paper Machinery Mfg."
+		},
+		{
+			"SICCode": "3555",
+			"SICDescription": "Printing Machinery and Equipment Mfg."
+		},
+		{
+			"SICCode": "3556",
+			"SICDescription": "Food Product Machinery Mfg."
+		},
+		{
+			"SICCode": "3559",
+			"SICDescription": "Other Industrial Machinery Mfg."
+		},
+		{
+			"SICCode": "3559",
+			"SICDescription": "Semiconductor Machinery Mfg."
+		},
+		{
+			"SICCode": "3561",
+			"SICDescription": "Pump and Pumping Equipment Mfg."
+		},
+		{
+			"SICCode": "3562",
+			"SICDescription": "Ball and Roller Bearing Mfg."
+		},
+		{
+			"SICCode": "3563",
+			"SICDescription": "Air and Gas Compressor Mfg."
+		},
+		{
+			"SICCode": "3564",
+			"SICDescription": "Industrial and Commercial Fan and Blower and Air Purification Equipment Mfg."
+		},
+		{
+			"SICCode": "3565",
+			"SICDescription": "Packaging Machinery Mfg."
+		},
+		{
+			"SICCode": "3566",
+			"SICDescription": "Speed Changer, Industrial High-Speed Drive, and Gear Mfg."
+		},
+		{
+			"SICCode": "3567",
+			"SICDescription": "Industrial Process Furnace and Oven Mfg."
+		},
+		{
+			"SICCode": "3568",
+			"SICDescription": "Mechanical Power Transmission Equipment Mfg."
+		},
+		{
+			"SICCode": "3571",
+			"SICDescription": "Electronic Computer Mfg."
+		},
+		{
+			"SICCode": "3572",
+			"SICDescription": "Computer Storage Device Mfg."
+		},
+		{
+			"SICCode": "3575",
+			"SICDescription": "Computer Terminal and Other Computer Peripheral Equipment Mfg."
+		},
+		{
+			"SICCode": "3579",
+			"SICDescription": "Computer and Peripheral Equipment Mfg."
+		},
+		{
+			"SICCode": "3581",
+			"SICDescription": "Other Commercial and Service Industry Machinery Mfg."
+		},
+		{
+			"SICCode": "3582",
+			"SICDescription": "Other Commercial and Service Industry Machinery Mfg."
+		},
+		{
+			"SICCode": "3585",
+			"SICDescription": "Air Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Mfg."
+		},
+		{
+			"SICCode": "3585",
+			"SICDescription": "Other Motor Vehicle Parts Mfg."
+		},
+		{
+			"SICCode": "3586",
+			"SICDescription": "Measuring and Dispensing Pump Mfg."
+		},
+		{
+			"SICCode": "3589",
+			"SICDescription": "Other Commercial and Service Industry Machinery Mfg."
+		},
+		{
+			"SICCode": "3592",
+			"SICDescription": "Motor Vehicle Gasoline Engine and Engine Parts Mfg."
+		},
+		{
+			"SICCode": "3593",
+			"SICDescription": "Fluid Power Cylinder and Actuator Mfg."
+		},
+		{
+			"SICCode": "3594",
+			"SICDescription": "Fluid Power Pump and Motor Mfg."
+		},
+		{
+			"SICCode": "3596",
+			"SICDescription": "Scale and Balance Mfg."
+		},
+		{
+			"SICCode": "3599",
+			"SICDescription": "Machine Shops"
+		},
+		{
+			"SICCode": "3612",
+			"SICDescription": "Power, Distribution, and Specialty Transformer Mfg."
+		},
+		{
+			"SICCode": "3613",
+			"SICDescription": "Switchgear and Switchboard Apparatus Mfg."
+		},
+		{
+			"SICCode": "3621",
+			"SICDescription": "Motor and Generator Mfg."
+		},
+		{
+			"SICCode": "3624",
+			"SICDescription": "Carbon and Graphite Product Mfg."
+		},
+		{
+			"SICCode": "3625",
+			"SICDescription": "Relay and Industrial Control Mfg."
+		},
+		{
+			"SICCode": "3629",
+			"SICDescription": "All Other Misc. Electrical Equipment and Component Mfg."
+		},
+		{
+			"SICCode": "3631",
+			"SICDescription": "Household Cooking Appliance Mfg."
+		},
+		{
+			"SICCode": "3632",
+			"SICDescription": "Household Refrigerator and Home Freezer Mfg."
+		},
+		{
+			"SICCode": "3633",
+			"SICDescription": "Household Laundry Equipment Mfg."
+		},
+		{
+			"SICCode": "3634",
+			"SICDescription": "Small Electrical Appliance Mfg."
+		},
+		{
+			"SICCode": "3635",
+			"SICDescription": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+		},
+		{
+			"SICCode": "3639",
+			"SICDescription": "Other Major Household Appliance Mfg."
+		},
+		{
+			"SICCode": "3639",
+			"SICDescription": "Other Industrial Machinery Mfg."
+		},
+		{
+			"SICCode": "3641",
+			"SICDescription": "Electric Lamp Bulb and Part Mfg."
+		},
+		{
+			"SICCode": "3643",
+			"SICDescription": "Current-Carrying Wiring Device Mfg."
+		},
+		{
+			"SICCode": "3644",
+			"SICDescription": "Noncurrent-Carrying Wiring Device Mfg."
+		},
+		{
+			"SICCode": "3645",
+			"SICDescription": "Residential Electric Lighting Fixture Mfg."
+		},
+		{
+			"SICCode": "3646",
+			"SICDescription": "Commercial, Industrial, and Institutional Electric Lighting Fixture Mfg."
+		},
+		{
+			"SICCode": "3647",
+			"SICDescription": "Motor Vehicle Electrical and Electronic Equipment Mfg."
+		},
+		{
+			"SICCode": "3648",
+			"SICDescription": "Other Lighting Equipment Mfg."
+		},
+		{
+			"SICCode": "3651",
+			"SICDescription": "Audio and Video Equipment Mfg."
+		},
+		{
+			"SICCode": "3652",
+			"SICDescription": "Integrated Record Production/Distribution"
+		},
+		{
+			"SICCode": "3652",
+			"SICDescription": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+		},
+		{
+			"SICCode": "3661",
+			"SICDescription": "Telephone Apparatus Mfg."
+		},
+		{
+			"SICCode": "3663",
+			"SICDescription": "Radio and Television Broadcasting and Wireless Communications Equipment Mfg."
+		},
+		{
+			"SICCode": "3669",
+			"SICDescription": "Other Communications Equipment Mfg."
+		},
+		{
+			"SICCode": "3671",
+			"SICDescription": "Other Electronic Component Mfg."
+		},
+		{
+			"SICCode": "3672",
+			"SICDescription": "Bare Printed Circuit Board Mfg."
+		},
+		{
+			"SICCode": "3674",
+			"SICDescription": "Semiconductor and Related Device Mfg."
+		},
+		{
+			"SICCode": "3675",
+			"SICDescription": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Mfg."
+		},
+		{
+			"SICCode": "3676",
+			"SICDescription": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Mfg."
+		},
+		{
+			"SICCode": "3677",
+			"SICDescription": "Electronic Coil, Transformer, and Other Inductor Mfg."
+		},
+		{
+			"SICCode": "3678",
+			"SICDescription": "Electronic Connector Mfg."
+		},
+		{
+			"SICCode": "3679",
+			"SICDescription": "Other Electronic Component Mfg."
+		},
+		{
+			"SICCode": "3679",
+			"SICDescription": "Printed Circuit Assembly (Electronic Assembly) Mfg."
+		},
+		{
+			"SICCode": "3691",
+			"SICDescription": "Storage Battery Mfg."
+		},
+		{
+			"SICCode": "3692",
+			"SICDescription": "Primary Battery Mfg."
+		},
+		{
+			"SICCode": "3695",
+			"SICDescription": "Blank Magnetic and Optical Recording Media Mfg."
+		},
+		{
+			"SICCode": "3699",
+			"SICDescription": "All Other Misc. Electrical Equipment and Component Mfg."
+		},
+		{
+			"SICCode": "3711",
+			"SICDescription": "Automobile Mfg."
+		},
+		{
+			"SICCode": "3711",
+			"SICDescription": "Heavy Duty Truck Mfg."
+		},
+		{
+			"SICCode": "3711",
+			"SICDescription": "Light Truck and Utility Vehicle Mfg."
+		},
+		{
+			"SICCode": "3711",
+			"SICDescription": "Motor Vehicle Body Mfg."
+		},
+		{
+			"SICCode": "3714",
+			"SICDescription": "Other Motor Vehicle Parts Mfg."
+		},
+		{
+			"SICCode": "3714",
+			"SICDescription": "Motor Vehicle Brake System Mfg."
+		},
+		{
+			"SICCode": "3714",
+			"SICDescription": "Motor Vehicle Transmission and Power Train Parts Mfg."
+		},
+		{
+			"SICCode": "3714",
+			"SICDescription": "Motor Vehicle Steering and Suspension Components (Except Spring) Mfg."
+		},
+		{
+			"SICCode": "3714",
+			"SICDescription": "Motor Vehicle Gasoline Engine and Engine Parts Mfg."
+		},
+		{
+			"SICCode": "3715",
+			"SICDescription": "Truck Trailer Mfg."
+		},
+		{
+			"SICCode": "3716",
+			"SICDescription": "Motor Home Mfg."
+		},
+		{
+			"SICCode": "3721",
+			"SICDescription": "Airplane Mfg."
+		},
+		{
+			"SICCode": "3724",
+			"SICDescription": "Aircraft Engine and Engine Parts Mfg."
+		},
+		{
+			"SICCode": "3728",
+			"SICDescription": "Other Aircraft Parts and Auxiliary Equipment Mfg."
+		},
+		{
+			"SICCode": "3731",
+			"SICDescription": "Ship Building and Repairing"
+		},
+		{
+			"SICCode": "3732",
+			"SICDescription": "Boat Building"
+		},
+		{
+			"SICCode": "3743",
+			"SICDescription": "Railroad Rolling Stock Mfg."
+		},
+		{
+			"SICCode": "3751",
+			"SICDescription": "Motorcycle, Bicycle, and Parts Mfg."
+		},
+		{
+			"SICCode": "3761",
+			"SICDescription": "Guided Missile and Space Vehicle Mfg."
+		},
+		{
+			"SICCode": "3764",
+			"SICDescription": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Mfg."
+		},
+		{
+			"SICCode": "3769",
+			"SICDescription": "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Mfg."
+		},
+		{
+			"SICCode": "3792",
+			"SICDescription": "Travel Trailer and Camper Mfg."
+		},
+		{
+			"SICCode": "3795",
+			"SICDescription": "Military Armored Vehicle, Tank, and Tank Component Mfg."
+		},
+		{
+			"SICCode": "3799",
+			"SICDescription": "All Other Transportation Equipment Mfg."
+		},
+		{
+			"SICCode": "3812",
+			"SICDescription": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Mfg."
+		},
+		{
+			"SICCode": "3822",
+			"SICDescription": "Automatic Environment Control Mfg. for Residential, Commercial and Appliance Use"
+		},
+		{
+			"SICCode": "3823",
+			"SICDescription": "Instruments and Related Products Mfg. for Measuring, Displaying, and Controlling Industrial Process Variables"
+		},
+		{
+			"SICCode": "3824",
+			"SICDescription": "Totalizing Fluid Meter and Counting Device Mfg."
+		},
+		{
+			"SICCode": "3825",
+			"SICDescription": "Instrument Mfg. for Measuring and Testing Electricity and Electrical Signals"
+		},
+		{
+			"SICCode": "3826",
+			"SICDescription": "Analytical Laboratory Instrument Mfg."
+		},
+		{
+			"SICCode": "3827",
+			"SICDescription": "Optical Instrument and Lens Mfg."
+		},
+		{
+			"SICCode": "3829",
+			"SICDescription": "Instruments and Related Products Mfg. for Measuring, Displaying, and Controlling Industrial Process Variables"
+		},
+		{
+			"SICCode": "3829",
+			"SICDescription": "Other Measuring and Controlling Device Mfg."
+		},
+		{
+			"SICCode": "3841",
+			"SICDescription": "Surgical and Medical Instrument Mfg."
+		},
+		{
+			"SICCode": "3842",
+			"SICDescription": "Surgical Appliance and Supplies Mfg."
+		},
+		{
+			"SICCode": "3844",
+			"SICDescription": "Irradiation Apparatus Mfg."
+		},
+		{
+			"SICCode": "3845",
+			"SICDescription": "Dental Equipment and Supplies Mfg."
+		},
+		{
+			"SICCode": "3845",
+			"SICDescription": "Electromedical and Electrotherapeutic Apparatus Mfg."
+		},
+		{
+			"SICCode": "3851",
+			"SICDescription": "Ophthalmic Goods Mfg."
+		},
+		{
+			"SICCode": "3861",
+			"SICDescription": "Photographic and Photocopying Equipment Mfg."
+		},
+		{
+			"SICCode": "3861",
+			"SICDescription": "Photographic Film, Paper, Plate, and Chemical Mfg."
+		},
+		{
+			"SICCode": "3873",
+			"SICDescription": "Other Measuring and Controlling Device Mfg."
+		},
+		{
+			"SICCode": "3911",
+			"SICDescription": "Jewelry and Silverware Mfg."
+		},
+		{
+			"SICCode": "3914",
+			"SICDescription": "Jewelry and Silverware Mfg."
+		},
+		{
+			"SICCode": "3915",
+			"SICDescription": "Jewelry and Silverware Mfg."
+		},
+		{
+			"SICCode": "3931",
+			"SICDescription": "Musical Instrument Mfg."
+		},
+		{
+			"SICCode": "3942",
+			"SICDescription": "Doll, Toy, and Game Mfg."
+		},
+		{
+			"SICCode": "3944",
+			"SICDescription": "Doll, Toy, and Game Mfg."
+		},
+		{
+			"SICCode": "3944",
+			"SICDescription": "Motorcycle, Bicycle, and Parts Mfg."
+		},
+		{
+			"SICCode": "3949",
+			"SICDescription": "Sporting and Athletic Goods Mfg."
+		},
+		{
+			"SICCode": "3951",
+			"SICDescription": "Office Supplies (Except Paper) Mfg."
+		},
+		{
+			"SICCode": "3952",
+			"SICDescription": "Office Supplies (Except Paper) Mfg."
+		},
+		{
+			"SICCode": "3953",
+			"SICDescription": "Office Supplies (Except Paper) Mfg."
+		},
+		{
+			"SICCode": "3955",
+			"SICDescription": "Office Supplies (Except Paper) Mfg."
+		},
+		{
+			"SICCode": "3965",
+			"SICDescription": "Fastener, Button, Needle, and Pin Mfg."
+		},
+		{
+			"SICCode": "3991",
+			"SICDescription": "Broom, Brush, and Mop Mfg."
+		},
+		{
+			"SICCode": "3993",
+			"SICDescription": "Sign Mfg."
+		},
+		{
+			"SICCode": "3995",
+			"SICDescription": "Burial Casket Mfg."
+		},
+		{
+			"SICCode": "3996",
+			"SICDescription": "All Other Plastics Product Mfg."
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "All Other Misc. Mfg."
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "Leather and Hide Tanning and Finishing"
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "All Other Misc. Wood Product Mfg."
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "All Other Misc. Fabricated Metal Product Mfg."
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "All Other Misc. Chemical Product and Preparation Mfg."
+		},
+		{
+			"SICCode": "3999",
+			"SICDescription": "All Other Plastics Product Mfg."
+		},
+		{
+			"SICCode": "4011",
+			"SICDescription": "Line-Haul Railroads"
+		},
+		{
+			"SICCode": "4013",
+			"SICDescription": "Short Line Railroads"
+		},
+		{
+			"SICCode": "4013",
+			"SICDescription": "Support Activities for Rail Transportation"
+		},
+		{
+			"SICCode": "4111",
+			"SICDescription": "All Other Transit and Ground Transportation"
+		},
+		{
+			"SICCode": "4111",
+			"SICDescription": "Bus and Other Motor Vehicle Transit Systems"
+		},
+		{
+			"SICCode": "4111",
+			"SICDescription": "Mixed Mode Transit Systems"
+		},
+		{
+			"SICCode": "4111",
+			"SICDescription": "Commuter Rail Systems"
+		},
+		{
+			"SICCode": "4111",
+			"SICDescription": "Other Urban Transit Systems"
+		},
+		{
+			"SICCode": "4119",
+			"SICDescription": "Limousine Service"
+		},
+		{
+			"SICCode": "4119",
+			"SICDescription": "Special Needs Transportation"
+		},
+		{
+			"SICCode": "4119",
+			"SICDescription": "Ambulance Services"
+		},
+		{
+			"SICCode": "4121",
+			"SICDescription": "Taxi Service"
+		},
+		{
+			"SICCode": "4131",
+			"SICDescription": "Interurban and Rural Bus Transportation"
+		},
+		{
+			"SICCode": "4151",
+			"SICDescription": "School and Employee Bus Transportation"
+		},
+		{
+			"SICCode": "4212",
+			"SICDescription": "Specialized Freight (Except Used Goods) Trucking, Local"
+		},
+		{
+			"SICCode": "4212",
+			"SICDescription": "Other Waste Collection"
+		},
+		{
+			"SICCode": "4212",
+			"SICDescription": "General Freight Trucking, Local"
+		},
+		{
+			"SICCode": "4212",
+			"SICDescription": "Hazardous Waste Collection"
+		},
+		{
+			"SICCode": "4213",
+			"SICDescription": "Specialized Freight (Except Used Goods) Trucking, Long Distance"
+		},
+		{
+			"SICCode": "4213",
+			"SICDescription": "General Freight Trucking, Long-Distance, Truckload"
+		},
+		{
+			"SICCode": "4213",
+			"SICDescription": "Specialized Freight (Except Used Goods) Trucking, Long-Distance"
+		},
+		{
+			"SICCode": "4213",
+			"SICDescription": "General Freight Trucking, Long Distance, Less Than Truckload"
+		},
+		{
+			"SICCode": "4213",
+			"SICDescription": "Used Household and Office Goods Moving"
+		},
+		{
+			"SICCode": "4215",
+			"SICDescription": "Local Messengers and Local Delivery"
+		},
+		{
+			"SICCode": "4215",
+			"SICDescription": "Courier and Express Delivery Services"
+		},
+		{
+			"SICCode": "4221",
+			"SICDescription": "Farm Product Warehousing and Storage"
+		},
+		{
+			"SICCode": "4222",
+			"SICDescription": "Refrigerated Warehousing and Storage"
+		},
+		{
+			"SICCode": "4225",
+			"SICDescription": "General Warehousing and Storage"
+		},
+		{
+			"SICCode": "4225",
+			"SICDescription": "Lessors of Miniwarehouses and Self-Storage Units"
+		},
+		{
+			"SICCode": "4226",
+			"SICDescription": "Other Warehousing and Storage"
+		},
+		{
+			"SICCode": "4412",
+			"SICDescription": "Deep Sea Freight Transportation"
+		},
+		{
+			"SICCode": "4449",
+			"SICDescription": "Inland Water Freight Transportation"
+		},
+		{
+			"SICCode": "4481",
+			"SICDescription": "Deep Sea Passenger Transportation"
+		},
+		{
+			"SICCode": "4482",
+			"SICDescription": "Coastal and Great Lakes Passenger Transportation"
+		},
+		{
+			"SICCode": "4489",
+			"SICDescription": "Inland Water Passenger Transportation"
+		},
+		{
+			"SICCode": "4489",
+			"SICDescription": "Scenic and Sightseeing Transportation, Water"
+		},
+		{
+			"SICCode": "4491",
+			"SICDescription": "Marine Cargo Handling"
+		},
+		{
+			"SICCode": "4491",
+			"SICDescription": "Port and Harbor Operations"
+		},
+		{
+			"SICCode": "4493",
+			"SICDescription": "Marinas"
+		},
+		{
+			"SICCode": "4499",
+			"SICDescription": "Other Support Activities for Water Transportation"
+		},
+		{
+			"SICCode": "4499",
+			"SICDescription": "Navigational Services to Shipping"
+		},
+		{
+			"SICCode": "4499",
+			"SICDescription": "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
+		},
+		{
+			"SICCode": "4512",
+			"SICDescription": "Scheduled Passenger Air Transportation"
+		},
+		{
+			"SICCode": "4512",
+			"SICDescription": "Scheduled Freight Air Transportation"
+		},
+		{
+			"SICCode": "4522",
+			"SICDescription": "Scenic and Sightseeing Transportation, Other"
+		},
+		{
+			"SICCode": "4522",
+			"SICDescription": "Nonscheduled Chartered Freight Air Transportation"
+		},
+		{
+			"SICCode": "4522",
+			"SICDescription": "Nonscheduled Chartered Passenger Air Transportation"
+		},
+		{
+			"SICCode": "4581",
+			"SICDescription": "Other Support Activities for Air Transportation"
+		},
+		{
+			"SICCode": "4581",
+			"SICDescription": "Other Airport Operations"
+		},
+		{
+			"SICCode": "4612",
+			"SICDescription": "Pipeline Transportation of Crude Oil"
+		},
+		{
+			"SICCode": "4613",
+			"SICDescription": "Pipeline Transportation of Refined Petroleum Products"
+		},
+		{
+			"SICCode": "4619",
+			"SICDescription": "All Other Pipeline Transportation"
+		},
+		{
+			"SICCode": "4724",
+			"SICDescription": "Travel Agencies"
+		},
+		{
+			"SICCode": "4725",
+			"SICDescription": "Tour Operators"
+		},
+		{
+			"SICCode": "4729",
+			"SICDescription": "All Other Travel Arrangement and Reservation Services"
+		},
+		{
+			"SICCode": "4731",
+			"SICDescription": "Freight Transportation Arrangement"
+		},
+		{
+			"SICCode": "4783",
+			"SICDescription": "Packing and Crating"
+		},
+		{
+			"SICCode": "4785",
+			"SICDescription": "Other Support Activities for Water Transportation"
+		},
+		{
+			"SICCode": "4785",
+			"SICDescription": "Other Support Activities for Road Transportation"
+		},
+		{
+			"SICCode": "4789",
+			"SICDescription": "Support Activities for Rail Transportation"
+		},
+		{
+			"SICCode": "4789",
+			"SICDescription": "All Other Support Activities for Transportation"
+		},
+		{
+			"SICCode": "4812",
+			"SICDescription": "Wireless Telecommunications Carriers (Except Satellite)"
+		},
+		{
+			"SICCode": "4813",
+			"SICDescription": "Telecommunications Resellers"
+		},
+		{
+			"SICCode": "4813",
+			"SICDescription": "Wired Telecommunications Carriers"
+		},
+		{
+			"SICCode": "4822",
+			"SICDescription": "Wired Telecommunications Carriers"
+		},
+		{
+			"SICCode": "4832",
+			"SICDescription": "Radio Stations"
+		},
+		{
+			"SICCode": "4833",
+			"SICDescription": "Television Broadcasting"
+		},
+		{
+			"SICCode": "4841",
+			"SICDescription": "Cable and Other Subscription Programming"
+		},
+		{
+			"SICCode": "4899",
+			"SICDescription": "Satellite Telecommunications"
+		},
+		{
+			"SICCode": "4899",
+			"SICDescription": "Telecommunications NOC"
+		},
+		{
+			"SICCode": "4899",
+			"SICDescription": "All Other Telecommunications"
+		},
+		{
+			"SICCode": "4911",
+			"SICDescription": "Electric Power Distribution"
+		},
+		{
+			"SICCode": "4922",
+			"SICDescription": "Pipeline Transportation of Natural Gas"
+		},
+		{
+			"SICCode": "4924",
+			"SICDescription": "Natural Gas Distribution"
+		},
+		{
+			"SICCode": "4941",
+			"SICDescription": "Water Supply and Irrigation Systems"
+		},
+		{
+			"SICCode": "4952",
+			"SICDescription": "Sewage Treatment Facilities"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Hazardous Waste Treatment and Disposal"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Other Nonhazardous Waste Treatment and Disposal"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Solid Waste Combustors and Incinerators"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Solid Waste Landfill"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Materials Recovery Facilities"
+		},
+		{
+			"SICCode": "4953",
+			"SICDescription": "Solid Waste Collection"
+		},
+		{
+			"SICCode": "4959",
+			"SICDescription": "Exterminating and Pest Control Services"
+		},
+		{
+			"SICCode": "4959",
+			"SICDescription": "All Other Misc. Waste Management Services"
+		},
+		{
+			"SICCode": "4961",
+			"SICDescription": "Steam and Air Conditioning Supply"
+		},
+		{
+			"SICCode": "4971",
+			"SICDescription": "Water Supply and Irrigation Systems"
+		},
+		{
+			"SICCode": "5012",
+			"SICDescription": "Automobile and Other Motor Vehicle Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5013",
+			"SICDescription": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5014",
+			"SICDescription": "Tire and Tube Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5015",
+			"SICDescription": "Motor Vehicle Parts (Used) Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5021",
+			"SICDescription": "Furniture Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5023",
+			"SICDescription": "Home Furnishing Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5031",
+			"SICDescription": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5032",
+			"SICDescription": "Brick, Stone, and Related Construction Material Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5032",
+			"SICDescription": "Other Building Material Dealers"
+		},
+		{
+			"SICCode": "5033",
+			"SICDescription": "Roofing, Siding, and Insulation Material Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5039",
+			"SICDescription": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5039",
+			"SICDescription": "Other Construction Material Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5043",
+			"SICDescription": "Photographic Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5044",
+			"SICDescription": "Office Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5045",
+			"SICDescription": "Electronics Stores"
+		},
+		{
+			"SICCode": "5045",
+			"SICDescription": "Computer and Computer Peripheral Equipment And Saftware Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5046",
+			"SICDescription": "Other Commercial Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5047",
+			"SICDescription": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5048",
+			"SICDescription": "Ophthalmic Goods Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5049",
+			"SICDescription": "Other Professional Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5051",
+			"SICDescription": "Metal Service Centers and Other Metal Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5052",
+			"SICDescription": "Coal and Other Mineral and Ore Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5063",
+			"SICDescription": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5063",
+			"SICDescription": "Other Building Material Dealers"
+		},
+		{
+			"SICCode": "5064",
+			"SICDescription": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5065",
+			"SICDescription": "Other Electronic Parts and Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5072",
+			"SICDescription": "Hardware Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5074",
+			"SICDescription": "Other Building Material Dealers"
+		},
+		{
+			"SICCode": "5074",
+			"SICDescription": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5075",
+			"SICDescription": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5078",
+			"SICDescription": "Refrigeration Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5082",
+			"SICDescription": "Construction and Mining (Except Oil Well) Machinery and Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5083",
+			"SICDescription": "Farm and Garden Machinery and Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5084",
+			"SICDescription": "Industrial Machinery and Equipment Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5085",
+			"SICDescription": "Industrial Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5087",
+			"SICDescription": "Service Establishment Equipment and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5088",
+			"SICDescription": "Transportation Equipment and Supplies (Except Motor Vehicles) Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5091",
+			"SICDescription": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5092",
+			"SICDescription": "Toy and Hobby Goods and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5093",
+			"SICDescription": "Recyclable Material Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5094",
+			"SICDescription": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5099",
+			"SICDescription": "Other Misc. Durable Goods Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5111",
+			"SICDescription": "Printing and Writing Paper Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5112",
+			"SICDescription": "Office Supplies and Stationery Stores"
+		},
+		{
+			"SICCode": "5112",
+			"SICDescription": "Stationery and Office Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5113",
+			"SICDescription": "Industrial and Personal Service Paper Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5122",
+			"SICDescription": "Drugs and Druggists Sundries Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5122",
+			"SICDescription": "Drugs and Druggists Sundries Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5131",
+			"SICDescription": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5136",
+			"SICDescription": "Mens and Boys Clothing and Furnishings Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5137",
+			"SICDescription": "Womens, Childrens, and Infants Clothing and Accessories Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5139",
+			"SICDescription": "Footwear Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5141",
+			"SICDescription": "General Line Grocery Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5142",
+			"SICDescription": "Packaged Frozen Food Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5143",
+			"SICDescription": "Dairy Product (Except Dried or Canned) Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5144",
+			"SICDescription": "Poultry and Poultry Product Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5145",
+			"SICDescription": "Confectionery Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5146",
+			"SICDescription": "Fish and Seafood Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5147",
+			"SICDescription": "Meat and Meat Product Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5148",
+			"SICDescription": "Fresh Fruit and Vegetable Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5149",
+			"SICDescription": "Other Grocery and Related Products Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5153",
+			"SICDescription": "Grain and Field Bean Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5154",
+			"SICDescription": "Livestock Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5159",
+			"SICDescription": "Other Farm Product Raw Material Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5162",
+			"SICDescription": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5169",
+			"SICDescription": "Other Chemical and Allied Products Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5171",
+			"SICDescription": "Fuel Dealers"
+		},
+		{
+			"SICCode": "5171",
+			"SICDescription": "Petroleum Bulk Stations and Terminals"
+		},
+		{
+			"SICCode": "5172",
+			"SICDescription": "Petroleum and Petroleum Products Merchant Wholesalers (Except Bulk Stations and Terminals)"
+		},
+		{
+			"SICCode": "5181",
+			"SICDescription": "Beer and Ale Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5182",
+			"SICDescription": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5191",
+			"SICDescription": "Farm Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5191",
+			"SICDescription": "Nursery, Garden Center, and Farm Supply Stores"
+		},
+		{
+			"SICCode": "5192",
+			"SICDescription": "Book, Periodical, and Newspaper Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5193",
+			"SICDescription": "Flower, Nursery Stock, and Florists Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5194",
+			"SICDescription": "Tobacco and Tobacco Product Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5198",
+			"SICDescription": "Paint, Varnish, and Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5199",
+			"SICDescription": "Other Misc. Nondurable Goods Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5211",
+			"SICDescription": "Other Building Material Dealers"
+		},
+		{
+			"SICCode": "5211",
+			"SICDescription": "Home Centers"
+		},
+		{
+			"SICCode": "5231",
+			"SICDescription": "Other Building Material Dealers"
+		},
+		{
+			"SICCode": "5231",
+			"SICDescription": "Paint and Wallpaper Stores"
+		},
+		{
+			"SICCode": "5251",
+			"SICDescription": "Hardware Stores"
+		},
+		{
+			"SICCode": "5261",
+			"SICDescription": "Farm Supplies Merchant Wholesalers"
+		},
+		{
+			"SICCode": "5261",
+			"SICDescription": "Outdoor Power Equipment Stores"
+		},
+		{
+			"SICCode": "5271",
+			"SICDescription": "Manufactured (Mobile) Home Dealers"
+		},
+		{
+			"SICCode": "5311",
+			"SICDescription": "Department Stores (Except Discount Department Stores)"
+		},
+		{
+			"SICCode": "5311",
+			"SICDescription": "Discount Department Stores"
+		},
+		{
+			"SICCode": "5331",
+			"SICDescription": "All Other General Merchandise Stores"
+		},
+		{
+			"SICCode": "5399",
+			"SICDescription": "All Other General Merchandise Stores"
+		},
+		{
+			"SICCode": "5411",
+			"SICDescription": "Convenience Stores"
+		},
+		{
+			"SICCode": "5411",
+			"SICDescription": "Supermarkets and Other Grocery (Except Convenience) Stores"
+		},
+		{
+			"SICCode": "5421",
+			"SICDescription": "Fish and Seafood Markets"
+		},
+		{
+			"SICCode": "5421",
+			"SICDescription": "Meat Markets"
+		},
+		{
+			"SICCode": "5431",
+			"SICDescription": "Fruit and Vegetable Markets"
+		},
+		{
+			"SICCode": "5441",
+			"SICDescription": "Confectionery and Nut Stores"
+		},
+		{
+			"SICCode": "5451",
+			"SICDescription": "All Other Specialty Food Stores"
+		},
+		{
+			"SICCode": "5461",
+			"SICDescription": "Retail Bakeries"
+		},
+		{
+			"SICCode": "5461",
+			"SICDescription": "Baked Goods Stores"
+		},
+		{
+			"SICCode": "5461",
+			"SICDescription": "Snack and Nonalcoholic Beverage Bars"
+		},
+		{
+			"SICCode": "5499",
+			"SICDescription": "All Other Specialty Food Stores"
+		},
+		{
+			"SICCode": "5499",
+			"SICDescription": "Food (Health) Supplement Stores"
+		},
+		{
+			"SICCode": "5511",
+			"SICDescription": "New Car Dealers"
+		},
+		{
+			"SICCode": "5521",
+			"SICDescription": "Used Car Dealers"
+		},
+		{
+			"SICCode": "5531",
+			"SICDescription": "Automotive Parts and Accessories Stores"
+		},
+		{
+			"SICCode": "5531",
+			"SICDescription": "Tire Dealers"
+		},
+		{
+			"SICCode": "5541",
+			"SICDescription": "Gasoline Stations with Convenience Stores"
+		},
+		{
+			"SICCode": "5541",
+			"SICDescription": "Other Gasoline Stations"
+		},
+		{
+			"SICCode": "5551",
+			"SICDescription": "Boat Dealers"
+		},
+		{
+			"SICCode": "5561",
+			"SICDescription": "Recreational Vehicle Dealers"
+		},
+		{
+			"SICCode": "5571",
+			"SICDescription": "Motorcycle, ATV, and All Other Motor Vehicle Dealers"
+		},
+		{
+			"SICCode": "5599",
+			"SICDescription": "Motorcycle, ATV, and All Other Motor Vehicle Dealers"
+		},
+		{
+			"SICCode": "5611",
+			"SICDescription": "Mens Clothing Stores"
+		},
+		{
+			"SICCode": "5621",
+			"SICDescription": "Womens Clothing Stores"
+		},
+		{
+			"SICCode": "5641",
+			"SICDescription": "Childrens and Infants Clothing Stores"
+		},
+		{
+			"SICCode": "5651",
+			"SICDescription": "Family Clothing Stores"
+		},
+		{
+			"SICCode": "5661",
+			"SICDescription": "Shoe Stores"
+		},
+		{
+			"SICCode": "5699",
+			"SICDescription": "Other Clothing Stores"
+		},
+		{
+			"SICCode": "5699",
+			"SICDescription": "Clothing Accessories Stores"
+		},
+		{
+			"SICCode": "5712",
+			"SICDescription": "Furniture Stores"
+		},
+		{
+			"SICCode": "5713",
+			"SICDescription": "Floor Covering Stores"
+		},
+		{
+			"SICCode": "5714",
+			"SICDescription": "Window Treatment Stores"
+		},
+		{
+			"SICCode": "5722",
+			"SICDescription": "Household Appliance Stores"
+		},
+		{
+			"SICCode": "5731",
+			"SICDescription": "Electronics Stores"
+		},
+		{
+			"SICCode": "5734",
+			"SICDescription": "Electronics Stores"
+		},
+		{
+			"SICCode": "5735",
+			"SICDescription": "Musical Instrument and Supplies Stores"
+		},
+		{
+			"SICCode": "5736",
+			"SICDescription": "Musical Instrument and Supplies Stores"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Snack and Nonalcoholic Beverage Bars"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Food Service Contractors"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Caterers"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Full-Service Restaurants"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Limited-Service Restaurants"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Cafeterias, Grill Buffets, and Buffets"
+		},
+		{
+			"SICCode": "5812",
+			"SICDescription": "Theater Cos. and Dinner Theaters"
+		},
+		{
+			"SICCode": "5813",
+			"SICDescription": "Drinking Places (Alcoholic Beverages)"
+		},
+		{
+			"SICCode": "5912",
+			"SICDescription": "Pharmacies and Drug Stores"
+		},
+		{
+			"SICCode": "5921",
+			"SICDescription": "Beer, Wine, and Liquor Stores"
+		},
+		{
+			"SICCode": "5932",
+			"SICDescription": "All Other Nondepository Credit Intermediation"
+		},
+		{
+			"SICCode": "5932",
+			"SICDescription": "Used Merchandise Stores"
+		},
+		{
+			"SICCode": "5941",
+			"SICDescription": "Sporting Goods Stores"
+		},
+		{
+			"SICCode": "5942",
+			"SICDescription": "Book Stores"
+		},
+		{
+			"SICCode": "5944",
+			"SICDescription": "Jewelry Stores"
+		},
+		{
+			"SICCode": "5945",
+			"SICDescription": "Hobby, Toy, and Game Stores"
+		},
+		{
+			"SICCode": "5946",
+			"SICDescription": "Electronics Stores"
+		},
+		{
+			"SICCode": "5947",
+			"SICDescription": "Gift, Novelty, and Souvenir Stores"
+		},
+		{
+			"SICCode": "5948",
+			"SICDescription": "Luggage and Leather Goods Stores"
+		},
+		{
+			"SICCode": "5949",
+			"SICDescription": "Sewing, Needlewoork, and Piece Goods Stores"
+		},
+		{
+			"SICCode": "5961",
+			"SICDescription": "Electronic Auctions"
+		},
+		{
+			"SICCode": "5961",
+			"SICDescription": "Electronic Shopping"
+		},
+		{
+			"SICCode": "5961",
+			"SICDescription": "Mail Order Houses"
+		},
+		{
+			"SICCode": "5962",
+			"SICDescription": "Vending Machine Operators"
+		},
+		{
+			"SICCode": "5963",
+			"SICDescription": "Other Direct Selling Establishments"
+		},
+		{
+			"SICCode": "5983",
+			"SICDescription": "Fuel Dealers"
+		},
+		{
+			"SICCode": "5984",
+			"SICDescription": "Fuel Dealers"
+		},
+		{
+			"SICCode": "5989",
+			"SICDescription": "Fuel Dealers"
+		},
+		{
+			"SICCode": "5992",
+			"SICDescription": "Florists"
+		},
+		{
+			"SICCode": "5993",
+			"SICDescription": "Tobacco Stores"
+		},
+		{
+			"SICCode": "5994",
+			"SICDescription": "News Dealers and Newsstands"
+		},
+		{
+			"SICCode": "5995",
+			"SICDescription": "Optical Goods Stores"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "All Other Health and Personal Care Stores"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "Art Dealers"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "All Other Misc. Store Retailers (Except Tobacco Stores)"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "Cosmetics, Beauty Supplies, and Perfume Stores"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "Pet and Pet Supplies Stores"
+		},
+		{
+			"SICCode": "5999",
+			"SICDescription": "Other Grocery and Related Products Merchant Wholesalers"
+		},
+		{
+			"SICCode": "6011",
+			"SICDescription": "Monetary Authorities--Central Bank"
+		},
+		{
+			"SICCode": "6022",
+			"SICDescription": "Depository Credit Intermediation"
+		},
+		{
+			"SICCode": "6029",
+			"SICDescription": "Commercial Banking"
+		},
+		{
+			"SICCode": "6061",
+			"SICDescription": "Credit Unions"
+		},
+		{
+			"SICCode": "6099",
+			"SICDescription": "Other Activities Related to Credit Intermediation"
+		},
+		{
+			"SICCode": "6141",
+			"SICDescription": "Consumer Lending"
+		},
+		{
+			"SICCode": "6141",
+			"SICDescription": "Credit Card Issuing"
+		},
+		{
+			"SICCode": "6162",
+			"SICDescription": "Real Estate Credit"
+		},
+		{
+			"SICCode": "6163",
+			"SICDescription": "Mortgage and Nonmortgage Loan Brokers"
+		},
+		{
+			"SICCode": "6211",
+			"SICDescription": "Securities Brokerage"
+		},
+		{
+			"SICCode": "6211",
+			"SICDescription": "Investment Banking and Securities Dealing"
+		},
+		{
+			"SICCode": "6221",
+			"SICDescription": "Commodity Contracts Brokerage"
+		},
+		{
+			"SICCode": "6231",
+			"SICDescription": "Securities and Commodity Exchanges"
+		},
+		{
+			"SICCode": "6282",
+			"SICDescription": "Investment Advice"
+		},
+		{
+			"SICCode": "6311",
+			"SICDescription": "Direct Life Insurance Carriers"
+		},
+		{
+			"SICCode": "6331",
+			"SICDescription": "Direct Property and Casualty Insurance Carriers"
+		},
+		{
+			"SICCode": "6361",
+			"SICDescription": "Direct Title Insurance Carriers"
+		},
+		{
+			"SICCode": "6371",
+			"SICDescription": "Health and Welfare Funds"
+		},
+		{
+			"SICCode": "6371",
+			"SICDescription": "Pension Funds"
+		},
+		{
+			"SICCode": "6411",
+			"SICDescription": "Claims Adjusting"
+		},
+		{
+			"SICCode": "6411",
+			"SICDescription": "Insurance Agencies and Brokerages"
+		},
+		{
+			"SICCode": "6411",
+			"SICDescription": "Insurance Agencies & Brokerages"
+		},
+		{
+			"SICCode": "6411",
+			"SICDescription": "All Other Insurance Related Activities"
+		},
+		{
+			"SICCode": "6512",
+			"SICDescription": "Lessors of Nonresidential Buildings (Except Miniwarehouses)"
+		},
+		{
+			"SICCode": "6513",
+			"SICDescription": "Lessors of Residential Buildings and Dwellings"
+		},
+		{
+			"SICCode": "6514",
+			"SICDescription": "Lessors of Residential Buildings and Dwellings"
+		},
+		{
+			"SICCode": "6515",
+			"SICDescription": "Lessors of Other Real Estate Property"
+		},
+		{
+			"SICCode": "6519",
+			"SICDescription": "Lessors of Other Real Estate Property"
+		},
+		{
+			"SICCode": "6531",
+			"SICDescription": "Other Activities Related to Real Estate"
+		},
+		{
+			"SICCode": "6531",
+			"SICDescription": "Offices of Real Estate Agents and Brokerages"
+		},
+		{
+			"SICCode": "6531",
+			"SICDescription": "Offices of Real Estate Appraisers"
+		},
+		{
+			"SICCode": "6531",
+			"SICDescription": "Residential Property Managers"
+		},
+		{
+			"SICCode": "6531",
+			"SICDescription": "Nonresidential Property Managers"
+		},
+		{
+			"SICCode": "6541",
+			"SICDescription": "Title Abstract and Settlement Offices"
+		},
+		{
+			"SICCode": "6552",
+			"SICDescription": "Land Subdivision"
+		},
+		{
+			"SICCode": "6553",
+			"SICDescription": "Cemeteries and Crematories"
+		},
+		{
+			"SICCode": "6712",
+			"SICDescription": "Offices of Bank Holding Cos."
+		},
+		{
+			"SICCode": "6719",
+			"SICDescription": "Offices of Other Holding Cos."
+		},
+		{
+			"SICCode": "6722",
+			"SICDescription": "Open-End Investment Funds"
+		},
+		{
+			"SICCode": "6732",
+			"SICDescription": "Grantmaking Foundations"
+		},
+		{
+			"SICCode": "6733",
+			"SICDescription": "Trusts, Estates, and Agency Accounts"
+		},
+		{
+			"SICCode": "7011",
+			"SICDescription": "Casino Hotels"
+		},
+		{
+			"SICCode": "7011",
+			"SICDescription": "Bed-and-Breakfast Inns"
+		},
+		{
+			"SICCode": "7011",
+			"SICDescription": "Hotels (Except Casino Hotels) and Motels"
+		},
+		{
+			"SICCode": "7011",
+			"SICDescription": "All Other Traveler Accommodations"
+		},
+		{
+			"SICCode": "7021",
+			"SICDescription": "Rooming and Boarding Houses"
+		},
+		{
+			"SICCode": "7032",
+			"SICDescription": "Recreational and Vacation Camps (Except Campgrounds)"
+		},
+		{
+			"SICCode": "7033",
+			"SICDescription": "RV (Recreational Vehicle) Parks and Campgrounds"
+		},
+		{
+			"SICCode": "7048",
+			"SICDescription": "Other Spectator Sports"
+		},
+		{
+			"SICCode": "7211",
+			"SICDescription": "Drycleaning and Laundry Services (Except Coin-Operated)"
+		},
+		{
+			"SICCode": "7213",
+			"SICDescription": "Linen Supply"
+		},
+		{
+			"SICCode": "7215",
+			"SICDescription": "Coin-Operated Laundries and Drycleaners"
+		},
+		{
+			"SICCode": "7216",
+			"SICDescription": "Drycleaning and Laundry Services (Except Coin-Operated)"
+		},
+		{
+			"SICCode": "7217",
+			"SICDescription": "Carpet and Upholstery Cleaning Services"
+		},
+		{
+			"SICCode": "7218",
+			"SICDescription": "Industrial Launderers"
+		},
+		{
+			"SICCode": "7219",
+			"SICDescription": "Linen Supply"
+		},
+		{
+			"SICCode": "7221",
+			"SICDescription": "Photography Studios, Portrait"
+		},
+		{
+			"SICCode": "7231",
+			"SICDescription": "Cosmetology and Barber Schools"
+		},
+		{
+			"SICCode": "7231",
+			"SICDescription": "Beauty Salons"
+		},
+		{
+			"SICCode": "7231",
+			"SICDescription": "Nail Salons"
+		},
+		{
+			"SICCode": "7241",
+			"SICDescription": "Barber Shops"
+		},
+		{
+			"SICCode": "7251",
+			"SICDescription": "Footwear and Leather Goods Repair"
+		},
+		{
+			"SICCode": "7261",
+			"SICDescription": "Cemeteries and Crematories"
+		},
+		{
+			"SICCode": "7261",
+			"SICDescription": "Funeral Homes and Funeral Services"
+		},
+		{
+			"SICCode": "7291",
+			"SICDescription": "Tax Preparation Services"
+		},
+		{
+			"SICCode": "7299",
+			"SICDescription": "Formal Wear and Costume Rental"
+		},
+		{
+			"SICCode": "7299",
+			"SICDescription": "All Other Personal Services"
+		},
+		{
+			"SICCode": "7299",
+			"SICDescription": "Diet and Weight Reducing Centers"
+		},
+		{
+			"SICCode": "7299",
+			"SICDescription": "Barbershop, Beauty Parlor, or Hair Styling Salon"
+		},
+		{
+			"SICCode": "7311",
+			"SICDescription": "Advertising Agencies"
+		},
+		{
+			"SICCode": "7312",
+			"SICDescription": "Outdoor Advertising"
+		},
+		{
+			"SICCode": "7313",
+			"SICDescription": "Media Representatives"
+		},
+		{
+			"SICCode": "7319",
+			"SICDescription": "Media Buying Agencies"
+		},
+		{
+			"SICCode": "7322",
+			"SICDescription": "Collection Agencies"
+		},
+		{
+			"SICCode": "7323",
+			"SICDescription": "Credit Bureaus"
+		},
+		{
+			"SICCode": "7331",
+			"SICDescription": "Direct Mail Advertising"
+		},
+		{
+			"SICCode": "7334",
+			"SICDescription": "Other Business Service Centers (Including Copy Shops)"
+		},
+		{
+			"SICCode": "7335",
+			"SICDescription": "Other Nonscheduled Air Transportation"
+		},
+		{
+			"SICCode": "7338",
+			"SICDescription": "Court Reporting and Stenotype Services"
+		},
+		{
+			"SICCode": "7338",
+			"SICDescription": "Telemarketing Bureaus and Other Contact Centers"
+		},
+		{
+			"SICCode": "7338",
+			"SICDescription": "Document Preparation Services"
+		},
+		{
+			"SICCode": "7342",
+			"SICDescription": "Exterminating and Pest Control Services"
+		},
+		{
+			"SICCode": "7349",
+			"SICDescription": "Janitorial Services"
+		},
+		{
+			"SICCode": "7349",
+			"SICDescription": "Other Services to Buildings and Dwellings"
+		},
+		{
+			"SICCode": "7352",
+			"SICDescription": "Home Health Equipment Rental"
+		},
+		{
+			"SICCode": "7352",
+			"SICDescription": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
+		},
+		{
+			"SICCode": "7353",
+			"SICDescription": "All Other Specialty Trade Contractors"
+		},
+		{
+			"SICCode": "7353",
+			"SICDescription": "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing"
+		},
+		{
+			"SICCode": "7359",
+			"SICDescription": "General Rental Centers"
+		},
+		{
+			"SICCode": "7359",
+			"SICDescription": "Consumer Electronics and Appliances Rental"
+		},
+		{
+			"SICCode": "7359",
+			"SICDescription": "All Other Consumer Goods Rental"
+		},
+		{
+			"SICCode": "7363",
+			"SICDescription": "Temporary Help Services"
+		},
+		{
+			"SICCode": "7363",
+			"SICDescription": "Professional Employer Organizations"
+		},
+		{
+			"SICCode": "7371",
+			"SICDescription": "Custom Computer Programming Services"
+		},
+		{
+			"SICCode": "7372",
+			"SICDescription": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+		},
+		{
+			"SICCode": "7372",
+			"SICDescription": "Software Publishers"
+		},
+		{
+			"SICCode": "7373",
+			"SICDescription": "Computer Systems Design Services"
+		},
+		{
+			"SICCode": "7374",
+			"SICDescription": "Data Processing, Hosting, and Related Services"
+		},
+		{
+			"SICCode": "7376",
+			"SICDescription": "Computer Facilities Management Services"
+		},
+		{
+			"SICCode": "7378",
+			"SICDescription": "Computer and Office Machine Repair and Maintenance"
+		},
+		{
+			"SICCode": "7379",
+			"SICDescription": "Other Computer Related Services"
+		},
+		{
+			"SICCode": "7381",
+			"SICDescription": "Security Guards and Patrol Services"
+		},
+		{
+			"SICCode": "7381",
+			"SICDescription": "Armored Car Services"
+		},
+		{
+			"SICCode": "7381",
+			"SICDescription": "Investigation Services"
+		},
+		{
+			"SICCode": "7382",
+			"SICDescription": "Security Systems Services (Except Locksmiths)"
+		},
+		{
+			"SICCode": "7383",
+			"SICDescription": "News Syndicates"
+		},
+		{
+			"SICCode": "7384",
+			"SICDescription": "Photofinishing Laboratories (Except One-Hour)"
+		},
+		{
+			"SICCode": "7384",
+			"SICDescription": "One-Hour Photofinishing"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "All Other Misc. Chemical Product and Preparation Mfg."
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Other Specialized Design Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Sound Recording Studios"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Other Sound Recording Industries"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Other Services to Buildings and Dwellings"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Interior Design Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Repossession Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "All Other Support Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Packaging and Labeling Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Industrial Design Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Drafting Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Building Inspection Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Convention and Visitors Bureaus"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "All Other Business Support Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Translation and Interpretation Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Private Mail Centers"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "All Other Information Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Telephone Answering Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "All Other Legal Services"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Other Services Related to Advertising"
+		},
+		{
+			"SICCode": "7389",
+			"SICDescription": "Convention and Trade Show Organizers"
+		},
+		{
+			"SICCode": "7513",
+			"SICDescription": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+		},
+		{
+			"SICCode": "7514",
+			"SICDescription": "Passenger Car Rental"
+		},
+		{
+			"SICCode": "7515",
+			"SICDescription": "Passenger Car Leasing"
+		},
+		{
+			"SICCode": "7519",
+			"SICDescription": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+		},
+		{
+			"SICCode": "7521",
+			"SICDescription": "Parking Lots and Garages"
+		},
+		{
+			"SICCode": "7532",
+			"SICDescription": "Automotive Body, Paint, and Interior Repair and Maintenance"
+		},
+		{
+			"SICCode": "7533",
+			"SICDescription": "Automotive Exhaust System Repair"
+		},
+		{
+			"SICCode": "7534",
+			"SICDescription": "Tire Retreading"
+		},
+		{
+			"SICCode": "7536",
+			"SICDescription": "Automotive Glass Replacement Shops"
+		},
+		{
+			"SICCode": "7537",
+			"SICDescription": "Automotive Transmission Repair"
+		},
+		{
+			"SICCode": "7538",
+			"SICDescription": "General Automotive Repair"
+		},
+		{
+			"SICCode": "7539",
+			"SICDescription": "Other Automotive Mechanical and Electrical Repair and Maintenance"
+		},
+		{
+			"SICCode": "7539",
+			"SICDescription": "All Other Automotive Repair and Maintenance"
+		},
+		{
+			"SICCode": "7542",
+			"SICDescription": "Car Washes"
+		},
+		{
+			"SICCode": "7549",
+			"SICDescription": "Motor Vehicle Towing"
+		},
+		{
+			"SICCode": "7549",
+			"SICDescription": "Automotive Oil Change and Lubrication Shops"
+		},
+		{
+			"SICCode": "7622",
+			"SICDescription": "Communication Equipment Repair and Maintenance"
+		},
+		{
+			"SICCode": "7623",
+			"SICDescription": "Commercial and Industrial Machinery and Equipment (Except Automotive and Electronic) Repair and Maintenance"
+		},
+		{
+			"SICCode": "7623",
+			"SICDescription": "Household Appliance Stores"
+		},
+		{
+			"SICCode": "7623",
+			"SICDescription": "Appliance Repair and Maintenance"
+		},
+		{
+			"SICCode": "7629",
+			"SICDescription": "Consumer Electronics Repair and Maintenance"
+		},
+		{
+			"SICCode": "7629",
+			"SICDescription": "Computer and Office Machine Repair and Maintenance"
+		},
+		{
+			"SICCode": "7629",
+			"SICDescription": "Household Appliance Stores"
+		},
+		{
+			"SICCode": "7641",
+			"SICDescription": "Reupholstery and Furniture Repair"
+		},
+		{
+			"SICCode": "7692",
+			"SICDescription": "Other Personal and Household Goods Repair and Maintenance"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Support Activities for Animal Production"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Home and Garden Equipment Repair and Maintenance"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Commercial and Industrial Machinery and Equipment (Except Automotive and Electronic) Repair and Maintenance"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Septic Tank and Related Services"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Other Electronic and Precision Equipment Repair and Maintenance"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Other Personal and Household Goods Repair and Maintenance"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Other Support Activities for Water Transportation"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Locksmiths"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "All Other Home Furnishings Stores"
+		},
+		{
+			"SICCode": "7699",
+			"SICDescription": "Other Services to Buildings and Dwellings"
+		},
+		{
+			"SICCode": "7812",
+			"SICDescription": "Motion Picture and Video Production"
+		},
+		{
+			"SICCode": "7819",
+			"SICDescription": "Teleproduction and Other Postproduction Services"
+		},
+		{
+			"SICCode": "7819",
+			"SICDescription": "Prerecorded Compact Disc (Except Software), Tape, and Record Producing"
+		},
+		{
+			"SICCode": "7819",
+			"SICDescription": "Other Motion Picture and Video Industries"
+		},
+		{
+			"SICCode": "782",
+			"SICDescription": "Landscaping Services"
+		},
+		{
+			"SICCode": "7822",
+			"SICDescription": "Motion Picture and Video Distribution"
+		},
+		{
+			"SICCode": "7829",
+			"SICDescription": "Motion Picture and Video Distribution"
+		},
+		{
+			"SICCode": "7832",
+			"SICDescription": "Motion Picture Theaters (Except Drive-Ins)"
+		},
+		{
+			"SICCode": "7833",
+			"SICDescription": "Drive-in Motion Picture Theaters"
+		},
+		{
+			"SICCode": "7841",
+			"SICDescription": "Video Tape and Disc Rental"
+		},
+		{
+			"SICCode": "7911",
+			"SICDescription": "All Other Amusement and Recreation Industries"
+		},
+		{
+			"SICCode": "7922",
+			"SICDescription": "Theater Cos. and Dinner Theaters"
+		},
+		{
+			"SICCode": "7922",
+			"SICDescription": "Dance Cos."
+		},
+		{
+			"SICCode": "7922",
+			"SICDescription": "Musical Groups and Artists"
+		},
+		{
+			"SICCode": "7933",
+			"SICDescription": "Bowling Centers"
+		},
+		{
+			"SICCode": "7941",
+			"SICDescription": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+		},
+		{
+			"SICCode": "7941",
+			"SICDescription": "Promoters of Performing Arts, Sports, and Similar Events without Facilities"
+		},
+		{
+			"SICCode": "7948",
+			"SICDescription": "Racetracks"
+		},
+		{
+			"SICCode": "7948",
+			"SICDescription": "Other Spectator Sports"
+		},
+		{
+			"SICCode": "7991",
+			"SICDescription": "Fitness and Recreational Sports Centers"
+		},
+		{
+			"SICCode": "7992",
+			"SICDescription": "Golf Courses and Country Clubs"
+		},
+		{
+			"SICCode": "7993",
+			"SICDescription": "Amusement Arcades"
+		},
+		{
+			"SICCode": "7996",
+			"SICDescription": "Amusement and Theme Parks"
+		},
+		{
+			"SICCode": "7997",
+			"SICDescription": "All Other Amusement and Recreation Industries"
+		},
+		{
+			"SICCode": "7997",
+			"SICDescription": "Golf Courses and Country Clubs"
+		},
+		{
+			"SICCode": "7997",
+			"SICDescription": "Fitness and Recreational Sports Centers"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "All Other Amusement and Recreation Industries"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Recreational Goods Rental"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Fitness and Recreational Sports Centers"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Nature Parks and Other Similar Institutions"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Sports and Recreation Instruction"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Skiing Facilities"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Other Gambling Industries"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Casinos (Except Casino Hotels)"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Other Similar Organizations (Except Business, Professional, Labor, and Political Organizations)"
+		},
+		{
+			"SICCode": "7999",
+			"SICDescription": "Other Performing Arts Cos."
+		},
+		{
+			"SICCode": "8011",
+			"SICDescription": "Freestanding Ambulatory Surgical and Emergency Centers"
+		},
+		{
+			"SICCode": "8011",
+			"SICDescription": "HMO Medical Centers"
+		},
+		{
+			"SICCode": "8011",
+			"SICDescription": "Offices of Physicians (Except Mental Health Specialists)"
+		},
+		{
+			"SICCode": "8011",
+			"SICDescription": "Offices of Physicians, Mental Health Specialists"
+		},
+		{
+			"SICCode": "8021",
+			"SICDescription": "Offices of Dentists"
+		},
+		{
+			"SICCode": "8041",
+			"SICDescription": "Offices of Chiropractors"
+		},
+		{
+			"SICCode": "8042",
+			"SICDescription": "Offices of Optometrists"
+		},
+		{
+			"SICCode": "8043",
+			"SICDescription": "Offices of Podiatrists"
+		},
+		{
+			"SICCode": "8049",
+			"SICDescription": "Offices of Mental Health Practitioners (Except Physicians)"
+		},
+		{
+			"SICCode": "8049",
+			"SICDescription": "Offices of All Other Misc. Health Practitioners"
+		},
+		{
+			"SICCode": "8049",
+			"SICDescription": "Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+		},
+		{
+			"SICCode": "8051",
+			"SICDescription": "Nursing Care Facilities (Skilled Nursing Facilities)"
+		},
+		{
+			"SICCode": "8052",
+			"SICDescription": "Nursing Care Facilities (Skilled Nursing Facilities)"
+		},
+		{
+			"SICCode": "8052",
+			"SICDescription": "Residential Intellectual and Developmental Disability Facilities"
+		},
+		{
+			"SICCode": "8059",
+			"SICDescription": "Continuing Care Retirement Centers"
+		},
+		{
+			"SICCode": "8059",
+			"SICDescription": "Nursing Care Facilities (Skilled Nursing Facilities)"
+		},
+		{
+			"SICCode": "8062",
+			"SICDescription": "General Medical and Surgical Hospitals"
+		},
+		{
+			"SICCode": "8063",
+			"SICDescription": "Psychiatric and Substance Abuse Hospitals"
+		},
+		{
+			"SICCode": "8069",
+			"SICDescription": "Psychiatric and Substance Abuse Hospitals"
+		},
+		{
+			"SICCode": "8069",
+			"SICDescription": "Specialty (Except Psychiatric and Substance Abuse) Hospitals"
+		},
+		{
+			"SICCode": "8071",
+			"SICDescription": "Diagnostic Imaging Centers"
+		},
+		{
+			"SICCode": "8071",
+			"SICDescription": "Medical Laboratories"
+		},
+		{
+			"SICCode": "8072",
+			"SICDescription": "Dental Laboratories"
+		},
+		{
+			"SICCode": "8082",
+			"SICDescription": "Home Health Care Services"
+		},
+		{
+			"SICCode": "8092",
+			"SICDescription": "Kidney Dialysis Centers"
+		},
+		{
+			"SICCode": "8093",
+			"SICDescription": "Family Planning Centers"
+		},
+		{
+			"SICCode": "8093",
+			"SICDescription": "Outpatient Mental Health and Substance Abuse Centers"
+		},
+		{
+			"SICCode": "8093",
+			"SICDescription": "All Other Outpatient Care Centers"
+		},
+		{
+			"SICCode": "8099",
+			"SICDescription": "All Other Misc. Ambulatory Health Care Services"
+		},
+		{
+			"SICCode": "8099",
+			"SICDescription": "Blood and Organ Banks"
+		},
+		{
+			"SICCode": "8111",
+			"SICDescription": "Offices of Lawyers"
+		},
+		{
+			"SICCode": "8211",
+			"SICDescription": "Elementary and Secondary Schools"
+		},
+		{
+			"SICCode": "8221",
+			"SICDescription": "Colleges, Universities, and Professional Schools"
+		},
+		{
+			"SICCode": "8221",
+			"SICDescription": "Junior Colleges"
+		},
+		{
+			"SICCode": "8231",
+			"SICDescription": "Libraries and Archives"
+		},
+		{
+			"SICCode": "8243",
+			"SICDescription": "Computer Training"
+		},
+		{
+			"SICCode": "8249",
+			"SICDescription": "Flight Training"
+		},
+		{
+			"SICCode": "8249",
+			"SICDescription": "Apprenticeship Training"
+		},
+		{
+			"SICCode": "8299",
+			"SICDescription": "Professional and Management Development Training"
+		},
+		{
+			"SICCode": "8299",
+			"SICDescription": "Exam Preparation and Tutoring"
+		},
+		{
+			"SICCode": "8299",
+			"SICDescription": "Language Schools"
+		},
+		{
+			"SICCode": "8299",
+			"SICDescription": "Automobile Driving Schools"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Temporary Shelters"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Community Food Services"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Other Community Housing Services"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Emergency and Other Relief Services"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Other Individual and Family Services"
+		},
+		{
+			"SICCode": "8322",
+			"SICDescription": "Services for the Elderly and Persons with Disabilities"
+		},
+		{
+			"SICCode": "8331",
+			"SICDescription": "Vocational Rehabilitation Services"
+		},
+		{
+			"SICCode": "8351",
+			"SICDescription": "Child Day Care Services"
+		},
+		{
+			"SICCode": "8361",
+			"SICDescription": "Other Residential Care Facilities"
+		},
+		{
+			"SICCode": "8361",
+			"SICDescription": "Assisted Living Facilities for the Elderly"
+		},
+		{
+			"SICCode": "8361",
+			"SICDescription": "Residential Mental Health and Substance Abuse Facilities"
+		},
+		{
+			"SICCode": "8361",
+			"SICDescription": "Nursing Care Facilities (Skilled Nursing Facilities)"
+		},
+		{
+			"SICCode": "8399",
+			"SICDescription": "Environment, Conservation, and Wildlife Organizations"
+		},
+		{
+			"SICCode": "8399",
+			"SICDescription": "Other Grantmaking and Giving Services"
+		},
+		{
+			"SICCode": "8399",
+			"SICDescription": "Human Rights Organizations"
+		},
+		{
+			"SICCode": "8412",
+			"SICDescription": "Museums"
+		},
+		{
+			"SICCode": "8412",
+			"SICDescription": "Historical Sites"
+		},
+		{
+			"SICCode": "8422",
+			"SICDescription": "Zoos and Botanical Gardens"
+		},
+		{
+			"SICCode": "8621",
+			"SICDescription": "Professional Organizations"
+		},
+		{
+			"SICCode": "8631",
+			"SICDescription": "Labor Unions and Similar Labor Organizations"
+		},
+		{
+			"SICCode": "8641",
+			"SICDescription": "Civic and Social Organizations"
+		},
+		{
+			"SICCode": "8641",
+			"SICDescription": "Other Similar Organizations (Except Business, Professional, Labor, and Political Organizations)"
+		},
+		{
+			"SICCode": "8641",
+			"SICDescription": "Child and Youth Services"
+		},
+		{
+			"SICCode": "8651",
+			"SICDescription": "Political Organizations"
+		},
+		{
+			"SICCode": "8661",
+			"SICDescription": "Religious Organizations"
+		},
+		{
+			"SICCode": "8699",
+			"SICDescription": "Other Similar Organizations (Except Business, Professional, Labor, and Political Organizations)"
+		},
+		{
+			"SICCode": "8711",
+			"SICDescription": "Engineering Services"
+		},
+		{
+			"SICCode": "8712",
+			"SICDescription": "Architectural Services"
+		},
+		{
+			"SICCode": "8713",
+			"SICDescription": "Surveying and Mapping (Except Geophysical) Services"
+		},
+		{
+			"SICCode": "8721",
+			"SICDescription": "Other Accounting Services"
+		},
+		{
+			"SICCode": "8721",
+			"SICDescription": "Offices of Certified Public Accountants"
+		},
+		{
+			"SICCode": "8732",
+			"SICDescription": "Research and Development in Biotechnology"
+		},
+		{
+			"SICCode": "8732",
+			"SICDescription": "Marketing Research and Public Opinion Polling"
+		},
+		{
+			"SICCode": "8734",
+			"SICDescription": "Testing Laboratories"
+		},
+		{
+			"SICCode": "8741",
+			"SICDescription": "Other Heavy and Civil Engineering Construction"
+		},
+		{
+			"SICCode": "8741",
+			"SICDescription": "Office Administrative Services"
+		},
+		{
+			"SICCode": "8742",
+			"SICDescription": "Administrative Management and General Management Consulting Services"
+		},
+		{
+			"SICCode": "8742",
+			"SICDescription": "Marketing Consulting Services"
+		},
+		{
+			"SICCode": "8743",
+			"SICDescription": "Public Relations Agencies"
+		},
+		{
+			"SICCode": "8744",
+			"SICDescription": "Facilities Support Services"
+		},
+		{
+			"SICCode": "8748",
+			"SICDescription": "Other Management Consulting Services"
+		},
+		{
+			"SICCode": "8811",
+			"SICDescription": "Private Households"
+		},
+		{
+			"SICCode": "8999",
+			"SICDescription": "Record Production"
+		},
+		{
+			"SICCode": "8999",
+			"SICDescription": "Environmental Consulting Services"
+		},
+		{
+			"SICCode": "9199",
+			"SICDescription": "Other General Government Support"
+		},
+		{
+			"SICCode": "9221",
+			"SICDescription": "Police Protection"
+		},
+		{
+			"SICCode": "9223",
+			"SICDescription": "Correctional Institutions"
+		},
+		{
+			"SICCode": "9224",
+			"SICDescription": "Fire Protection"
+		},
+		{
+			"SICCode": "9511",
+			"SICDescription": "Administration of Air and Water Resource and Solid Waste Management Programs"
+		},
+		{
+			"SICCode": "9531",
+			"SICDescription": "Administration of Housing Programs"
+		},
+		{
+			"SICCode": "9661",
+			"SICDescription": "Space Research and Technology"
+		},
+		{
+			"SICCode": "9711",
+			"SICDescription": "National Security"
+		}
+	]
+}
